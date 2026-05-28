@@ -1,0 +1,3001 @@
+customer_id,name,gender,join_date,city,loyalty_tier,age
+C00001,Betty Hernandez,Female,2021-06-07,Phoenix,Gold,34
+C00002,Patricia Garcia,Female,2023-11-13,Houston,Silver,35
+C00003,Daniel Davis,Male,2022-06-02,Houston,Bronze,21
+C00004,Lisa Wilson,Female,2022-03-03,Houston,Bronze,35
+C00005,Karen Jones,Female,2019-11-02,Houston,Platinum,37
+C00006,Sandra Lopez,Female,2021-09-23,Houston,Bronze,59
+C00007,Mark Martin,Male,2020-10-18,New York,Platinum,51
+C00008,Jennifer Wilson,Female,2023-05-20,Chicago,Gold,63
+C00009,James Garcia,Male,2023-06-17,Phoenix,Gold,30
+C00010,Patricia Taylor,Female,2021-02-14,Los Angeles,Bronze,63
+C00011,Michael Smith,Male,2022-12-13,Los Angeles,Silver,33
+C00012,Steven White,Male,2022-10-17,Chicago,Bronze,53
+C00013,Robert Wilson,Male,2021-03-14,Chicago,Gold,19
+C00014,Richard Davis,Male,2023-11-13,Houston,Gold,59
+C00015,Dorothy Smith,Female,2021-04-16,Los Angeles,Silver,61
+C00016,George Smith,Male,2020-02-16,New York,Silver,32
+C00017,Sarah Hernandez,Female,2021-08-07,Chicago,Gold,42
+C00018,Paul Lopez,Male,2020-11-08,Chicago,Silver,43
+C00019,Matthew Thompson,Male,2023-05-09,Phoenix,Platinum,59
+C00020,Emily Williams,Female,2021-07-16,Phoenix,Silver,39
+C00021,Lisa Miller,Female,2021-05-10,Chicago,Bronze,27
+C00022,Deborah Thomas,Female,2019-06-26,Phoenix,Gold,60
+C00023,Lisa Martinez,Female,2019-03-21,Chicago,Silver,44
+C00024,Kenneth Miller,Male,2019-04-20,Houston,Silver,39
+C00025,Betty Jackson,Female,2023-01-18,Los Angeles,Platinum,37
+C00026,Linda Martin,Female,2023-10-01,Los Angeles,Bronze,26
+C00027,Susan Anderson,Female,2023-10-03,Chicago,Gold,59
+C00028,Charles Hernandez,Male,2020-11-24,New York,Gold,39
+C00029,Michael Martin,Male,2021-07-02,Chicago,Silver,21
+C00030,Jessica Jackson,Female,2019-08-10,Phoenix,Silver,25
+C00031,Barbara Jones,Female,2022-07-07,Houston,Bronze,30
+C00032,Donald Jones,Male,2023-11-05,Chicago,Gold,38
+C00033,Susan Anderson,Female,2023-02-23,Los Angeles,Bronze,58
+C00034,David White,Male,2021-04-29,New York,Bronze,28
+C00035,Sandra Hernandez,Female,2019-10-01,Houston,Bronze,43
+C00036,Amanda Miller,Female,2022-04-05,Houston,Bronze,64
+C00037,Dorothy Miller,Female,2021-09-28,Chicago,Gold,19
+C00038,Betty Wilson,Female,2021-02-12,New York,Bronze,26
+C00039,John Wilson,Male,2021-08-09,New York,Bronze,36
+C00040,Barbara Anderson,Female,2023-06-17,Houston,Bronze,49
+C00041,Margaret Smith,Female,2020-05-27,Chicago,Platinum,32
+C00042,Mary White,Female,2020-02-12,Los Angeles,Bronze,50
+C00043,Thomas Thompson,Male,2019-04-27,Los Angeles,Bronze,57
+C00044,Mary Johnson,Female,2019-05-30,New York,Silver,62
+C00045,Thomas Martin,Male,2022-03-27,New York,Bronze,62
+C00046,Michael Jackson,Male,2019-01-29,Los Angeles,Bronze,35
+C00047,Linda Jackson,Female,2020-03-02,Phoenix,Silver,64
+C00048,Steven Miller,Male,2019-12-21,Phoenix,Gold,56
+C00049,Betty Hernandez,Female,2023-06-14,Los Angeles,Platinum,36
+C00050,Steven Anderson,Male,2023-03-23,Los Angeles,Platinum,33
+C00051,Kenneth Martin,Male,2019-10-04,New York,Platinum,27
+C00052,Linda Martinez,Female,2019-08-22,New York,Gold,59
+C00053,John Brown,Male,2021-07-08,Los Angeles,Bronze,29
+C00054,Nancy Hernandez,Female,2022-01-24,New York,Gold,65
+C00055,William Garcia,Male,2019-05-23,New York,Bronze,39
+C00056,Jennifer Taylor,Female,2021-04-13,Chicago,Gold,39
+C00057,Thomas Thomas,Male,2022-05-28,Los Angeles,Platinum,62
+C00058,Patricia Garcia,Female,2020-06-02,Houston,Bronze,24
+C00059,Ashley Garcia,Female,2023-02-08,Houston,Gold,57
+C00060,Barbara Martin,Female,2019-03-31,Houston,Gold,49
+C00061,Sarah Anderson,Female,2022-10-01,New York,Bronze,18
+C00062,Karen Anderson,Female,2023-11-27,Phoenix,Gold,51
+C00063,Karen Martin,Female,2019-10-23,Phoenix,Silver,40
+C00064,George Johnson,Male,2023-10-01,Houston,Gold,18
+C00065,David Williams,Male,2022-12-29,Los Angeles,Gold,49
+C00066,Joseph Thompson,Male,2021-05-14,Chicago,Bronze,59
+C00067,Donald White,Male,2020-12-31,Houston,Bronze,46
+C00068,Emily Smith,Female,2022-10-20,New York,Bronze,24
+C00069,Robert Lopez,Male,2023-09-27,Houston,Silver,57
+C00070,Ashley Anderson,Female,2023-10-14,Chicago,Bronze,41
+C00071,Deborah Lopez,Female,2022-11-12,New York,Bronze,48
+C00072,Karen Smith,Female,2019-12-21,Chicago,Bronze,39
+C00073,Betty Brown,Female,2021-06-26,Chicago,Silver,20
+C00074,George Miller,Male,2022-06-25,Los Angeles,Bronze,30
+C00075,Jessica Anderson,Female,2022-05-05,New York,Bronze,24
+C00076,Donald Moore,Male,2020-01-18,Houston,Gold,60
+C00077,Mary Jackson,Female,2020-02-23,Phoenix,Platinum,65
+C00078,Emily Jackson,Female,2022-09-06,New York,Gold,29
+C00079,George Lopez,Male,2020-02-03,Phoenix,Bronze,38
+C00080,Karen Martinez,Female,2022-07-24,Phoenix,Platinum,43
+C00081,Thomas Hernandez,Other,2022-11-07,Chicago,Gold,56
+C00082,Andrew Miller,Male,2023-08-29,Phoenix,Gold,30
+C00083,Barbara Garcia,Female,2021-06-21,Los Angeles,Silver,50
+C00084,Betty Thompson,Female,2021-09-28,Phoenix,Gold,48
+C00085,Amanda Wilson,Female,2022-07-21,Phoenix,Silver,45
+C00086,Patricia Johnson,Female,2019-03-20,New York,Bronze,30
+C00087,Sarah Jones,Female,2020-05-15,Chicago,Platinum,21
+C00088,Donald Brown,Male,2023-08-09,Chicago,Bronze,57
+C00089,Dorothy Wilson,Female,2023-10-10,Phoenix,Bronze,62
+C00090,Nancy Thompson,Female,2022-04-19,New York,Silver,21
+C00091,Ashley Davis,Female,2020-09-22,New York,Silver,58
+C00092,Jessica Miller,Female,2023-08-26,Chicago,Gold,36
+C00093,David Jackson,Male,2019-08-20,Houston,Bronze,25
+C00094,William Garcia,Male,2021-05-17,Houston,Silver,55
+C00095,William Johnson,Male,2022-12-19,Chicago,Gold,27
+C00096,Melissa Thompson,Female,2021-07-24,Chicago,Silver,40
+C00097,Susan Jackson,Female,2021-09-14,New York,Silver,22
+C00098,Robert Taylor,Male,2023-08-15,Phoenix,Silver,32
+C00099,Jessica Lopez,Female,2021-10-25,Los Angeles,Bronze,51
+C00100,Jennifer Moore,Other,2019-01-28,Houston,Bronze,33
+C00101,Nancy Thomas,Female,2021-01-27,Phoenix,Platinum,25
+C00102,Paul Taylor,Male,2021-05-28,Houston,Bronze,50
+C00103,Richard Anderson,Male,2019-05-17,Phoenix,Bronze,50
+C00104,Amanda Thompson,Female,2020-06-04,New York,Platinum,18
+C00105,Mark Brown,Male,2020-10-24,New York,Gold,31
+C00106,Jennifer Jones,Female,2022-09-14,Phoenix,Silver,19
+C00107,Patricia Garcia,Female,2019-04-28,Houston,Bronze,34
+C00108,Mark Thomas,Male,2020-12-08,Phoenix,Platinum,46
+C00109,Michael Thompson,Male,2019-02-22,Houston,Bronze,18
+C00110,Robert Taylor,Male,2023-12-25,Phoenix,Bronze,50
+C00111,Charles Moore,Male,2021-07-25,New York,Silver,42
+C00112,Amanda Davis,Female,2019-04-06,Houston,Silver,26
+C00113,Barbara Wilson,Female,2023-08-23,Houston,Bronze,61
+C00114,Amanda Jones,Female,2019-02-04,Chicago,Silver,25
+C00115,Robert Wilson,Male,2022-05-09,New York,Silver,31
+C00116,David Davis,Male,2023-05-12,Chicago,Bronze,57
+C00117,Kenneth Johnson,Male,2020-07-17,Chicago,Silver,53
+C00118,Jennifer Martinez,Female,2019-08-16,Houston,Bronze,24
+C00119,Betty Jones,Female,2023-02-22,Los Angeles,Platinum,60
+C00120,Daniel Martin,Male,2019-08-05,Los Angeles,Platinum,46
+C00121,Barbara White,Female,2021-08-07,Chicago,Silver,54
+C00122,Nancy Davis,Female,2022-08-23,Chicago,Bronze,32
+C00123,Daniel Martin,Male,2022-01-21,Houston,Bronze,47
+C00124,Michael Garcia,Male,2021-08-07,Houston,Silver,59
+C00125,William Thompson,Male,2021-05-21,Phoenix,Gold,30
+C00126,Mary Jackson,Female,2019-08-26,Chicago,Gold,58
+C00127,Melissa Miller,Female,2023-12-04,New York,Silver,20
+C00128,William Taylor,Male,2023-08-04,Phoenix,Silver,43
+C00129,Dorothy Jackson,Female,2021-06-23,Los Angeles,Bronze,23
+C00130,George Garcia,Male,2019-02-02,Houston,Silver,50
+C00131,Kenneth Jones,Male,2020-07-10,Los Angeles,Silver,65
+C00132,Emily Davis,Female,2019-05-06,Houston,Bronze,22
+C00133,Paul Taylor,Male,2019-05-14,Chicago,Silver,42
+C00134,Nancy Brown,Female,2019-05-25,Houston,Bronze,63
+C00135,Sarah White,Female,2021-04-29,Phoenix,Gold,52
+C00136,Robert Jackson,Male,2022-03-22,Phoenix,Bronze,34
+C00137,Jennifer Taylor,Other,2020-11-23,Houston,Silver,49
+C00138,Barbara Moore,Female,2019-01-21,Houston,Silver,28
+C00139,David Garcia,Male,2021-05-22,Los Angeles,Bronze,41
+C00140,Sandra Anderson,Female,2020-01-03,Phoenix,Silver,64
+C00141,Kenneth Garcia,Male,2023-01-27,New York,Silver,59
+C00142,Kenneth Garcia,Male,2019-05-15,Houston,Bronze,26
+C00143,David Martinez,Male,2023-11-13,Phoenix,Bronze,29
+C00144,Lisa Williams,Female,2023-10-18,Phoenix,Silver,31
+C00145,Susan Davis,Female,2023-01-04,Houston,Gold,44
+C00146,David Lopez,Male,2023-12-16,Phoenix,Gold,60
+C00147,George White,Male,2021-11-30,Phoenix,Platinum,22
+C00148,Richard Jackson,Male,2020-02-15,Los Angeles,Bronze,50
+C00149,Deborah Lopez,Female,2019-10-27,Houston,Bronze,20
+C00150,William Lopez,Male,2020-01-01,Phoenix,Bronze,52
+C00151,Betty Johnson,Female,2022-09-02,New York,Silver,62
+C00152,Anthony Taylor,Male,2023-02-06,Phoenix,Gold,55
+C00153,Joseph Williams,Male,2020-02-20,Phoenix,Bronze,36
+C00154,Mary Smith,Female,2022-06-23,Phoenix,Bronze,54
+C00155,Richard Anderson,Male,2019-01-23,Phoenix,Bronze,44
+C00156,Thomas Martinez,Male,2022-08-16,Chicago,Silver,52
+C00157,Margaret Miller,Female,2021-05-06,Houston,Platinum,44
+C00158,Amanda Thompson,Female,2023-02-07,Phoenix,Bronze,48
+C00159,Susan Jones,Other,2023-11-30,Chicago,Bronze,60
+C00160,Susan Brown,Female,2022-10-19,New York,Gold,31
+C00161,George Johnson,Male,2021-11-17,Phoenix,Gold,28
+C00162,Barbara Martin,Female,2019-01-17,Houston,Gold,56
+C00163,Robert Lopez,Male,2021-03-28,Houston,Bronze,20
+C00164,Dorothy Wilson,Female,2022-05-29,Houston,Silver,63
+C00165,Donald Smith,Male,2020-06-28,Phoenix,Silver,30
+C00166,Paul Jackson,Male,2019-04-15,Phoenix,Gold,62
+C00167,Mary Garcia,Female,2019-04-23,Los Angeles,Bronze,23
+C00168,Margaret White,Female,2022-01-02,Chicago,Silver,30
+C00169,Andrew Wilson,Male,2019-08-02,Phoenix,Platinum,64
+C00170,Sarah Davis,Female,2021-12-17,Phoenix,Bronze,56
+C00171,Thomas Garcia,Male,2022-06-09,Los Angeles,Silver,44
+C00172,Daniel Brown,Male,2019-08-13,Phoenix,Silver,50
+C00173,Ashley Thomas,Female,2023-11-22,Chicago,Bronze,54
+C00174,Ashley Moore,Female,2021-11-21,Houston,Platinum,55
+C00175,Joseph Davis,Male,2021-03-12,New York,Bronze,38
+C00176,Sarah Davis,Female,2023-05-24,Houston,Silver,36
+C00177,David Martin,Male,2021-11-28,New York,Bronze,38
+C00178,Richard Martin,Male,2023-11-18,Chicago,Bronze,65
+C00179,Richard Davis,Male,2021-01-22,Los Angeles,Gold,30
+C00180,Linda Brown,Female,2022-01-11,Los Angeles,Bronze,23
+C00181,Emily Taylor,Female,2023-08-10,Houston,Platinum,57
+C00182,Steven Garcia,Male,2023-11-20,Chicago,Gold,50
+C00183,Paul Hernandez,Male,2023-11-27,Chicago,Bronze,48
+C00184,David Moore,Male,2021-12-14,Phoenix,Bronze,25
+C00185,Richard Thomas,Male,2019-01-27,Phoenix,Bronze,55
+C00186,Thomas Davis,Male,2021-03-17,New York,Bronze,35
+C00187,Emily Hernandez,Female,2021-12-01,Houston,Bronze,31
+C00188,Margaret Martinez,Female,2022-03-02,Houston,Bronze,46
+C00189,Linda Martinez,Female,2023-11-25,Los Angeles,Silver,33
+C00190,William Martin,Male,2022-03-29,Phoenix,Bronze,18
+C00191,Paul Thompson,Male,2020-02-22,Los Angeles,Platinum,64
+C00192,Melissa Johnson,Female,2021-07-21,Chicago,Bronze,43
+C00193,Sarah Martin,Female,2019-07-06,New York,Bronze,58
+C00194,Matthew Thompson,Male,2021-11-05,New York,Bronze,53
+C00195,George Miller,Male,2022-07-03,Chicago,Bronze,54
+C00196,Lisa Taylor,Female,2023-07-31,Phoenix,Bronze,38
+C00197,Anthony Lopez,Male,2022-10-20,Phoenix,Gold,36
+C00198,Nancy Hernandez,Female,2020-03-26,Houston,Gold,58
+C00199,Nancy Davis,Female,2019-08-10,Phoenix,Bronze,38
+C00200,Margaret Martinez,Female,2021-04-11,Chicago,Silver,46
+C00201,Sandra Garcia,Female,2023-06-07,Chicago,Platinum,29
+C00202,Robert Miller,Male,2020-12-29,New York,Silver,28
+C00203,Steven Thompson,Male,2019-07-18,Houston,Platinum,21
+C00204,Jennifer Brown,Female,2023-06-16,New York,Gold,34
+C00205,Joseph Wilson,Male,2022-04-26,Phoenix,Bronze,46
+C00206,Matthew Anderson,Male,2020-06-14,Los Angeles,Bronze,48
+C00207,Emily Moore,Other,2023-08-07,Houston,Platinum,26
+C00208,Kenneth Hernandez,Male,2022-11-19,Phoenix,Silver,51
+C00209,Joseph Williams,Male,2021-12-14,Phoenix,Silver,46
+C00210,James Smith,Male,2021-03-18,Chicago,Bronze,51
+C00211,Steven Martin,Male,2022-12-28,Los Angeles,Silver,37
+C00212,Mary Thompson,Female,2021-06-29,New York,Silver,41
+C00213,Joseph Garcia,Male,2023-10-08,Los Angeles,Silver,63
+C00214,Sandra Davis,Female,2020-11-16,Houston,Bronze,51
+C00215,Amanda Martinez,Female,2021-04-24,Phoenix,Bronze,44
+C00216,Linda Moore,Female,2020-07-20,Los Angeles,Bronze,57
+C00217,James Jones,Male,2023-03-09,Houston,Bronze,21
+C00218,William Moore,Male,2019-11-14,Phoenix,Bronze,64
+C00219,Richard Anderson,Male,2020-04-13,New York,Bronze,44
+C00220,Ashley Johnson,Female,2023-03-29,Chicago,Platinum,39
+C00221,Margaret Williams,Female,2020-03-29,New York,Bronze,52
+C00222,James Brown,Male,2021-02-15,Houston,Gold,63
+C00223,John Miller,Male,2022-10-08,Los Angeles,Bronze,47
+C00224,Lisa Anderson,Female,2020-10-09,New York,Silver,28
+C00225,Sarah Martin,Female,2023-09-04,New York,Silver,58
+C00226,Richard Brown,Male,2019-06-11,Chicago,Gold,33
+C00227,Kenneth Brown,Male,2020-06-03,Houston,Gold,43
+C00228,Steven Lopez,Male,2019-05-11,Los Angeles,Silver,27
+C00229,Jennifer Lopez,Female,2021-02-11,Chicago,Bronze,39
+C00230,Michael Jones,Male,2020-04-23,New York,Gold,49
+C00231,Matthew Moore,Male,2023-10-01,Los Angeles,Gold,64
+C00232,William Martinez,Male,2022-03-19,Los Angeles,Bronze,20
+C00233,Emily Miller,Female,2023-10-03,Houston,Bronze,54
+C00234,Sarah Lopez,Female,2021-10-02,Los Angeles,Gold,53
+C00235,Thomas Thompson,Male,2020-04-26,Los Angeles,Silver,41
+C00236,David Smith,Male,2023-04-21,Houston,Bronze,57
+C00237,Jennifer Thompson,Female,2021-01-11,Chicago,Bronze,42
+C00238,Barbara Lopez,Female,2023-03-26,Los Angeles,Gold,36
+C00239,Paul Williams,Male,2021-09-27,Chicago,Bronze,20
+C00240,Steven Miller,Male,2019-04-08,Los Angeles,Bronze,24
+C00241,Dorothy Lopez,Female,2022-04-22,New York,Silver,62
+C00242,Robert Smith,Male,2022-02-12,Phoenix,Bronze,31
+C00243,Patricia Taylor,Female,2019-09-06,Houston,Silver,53
+C00244,Sarah Jackson,Female,2019-07-01,Houston,Gold,20
+C00245,Dorothy Brown,Female,2019-08-31,New York,Platinum,24
+C00246,Karen White,Female,2020-08-11,Los Angeles,Bronze,58
+C00247,Linda White,Female,2023-10-01,Los Angeles,Silver,40
+C00248,Susan Garcia,Female,2022-08-19,Houston,Gold,53
+C00249,George Moore,Male,2020-05-06,Houston,Silver,40
+C00250,Sandra Hernandez,Female,2021-10-05,Chicago,Gold,64
+C00251,Margaret Thompson,Female,2023-10-16,Chicago,Silver,65
+C00252,Anthony Smith,Male,2022-11-06,Chicago,Silver,64
+C00253,George Smith,Other,2019-02-20,New York,Silver,37
+C00254,Thomas Thompson,Male,2021-09-05,Los Angeles,Bronze,50
+C00255,Patricia Moore,Female,2023-11-11,Phoenix,Bronze,40
+C00256,Joseph Davis,Male,2022-02-14,Los Angeles,Gold,34
+C00257,Richard Williams,Male,2022-05-27,Chicago,Silver,64
+C00258,Melissa Brown,Female,2020-06-21,Chicago,Silver,56
+C00259,John Anderson,Male,2023-11-26,Chicago,Bronze,40
+C00260,Joseph Lopez,Male,2020-01-10,Houston,Gold,18
+C00261,Andrew White,Male,2023-06-18,Houston,Bronze,27
+C00262,Anthony Moore,Male,2020-11-16,Chicago,Bronze,56
+C00263,Anthony Jones,Male,2020-11-20,Phoenix,Silver,26
+C00264,Andrew Thomas,Male,2023-11-11,Chicago,Gold,34
+C00265,William Jones,Male,2022-09-11,New York,Gold,48
+C00266,Richard Thompson,Male,2022-05-13,Phoenix,Silver,57
+C00267,Mark Anderson,Male,2019-08-11,Phoenix,Bronze,61
+C00268,Matthew Miller,Male,2022-07-08,Phoenix,Silver,38
+C00269,Susan Taylor,Female,2019-03-17,Chicago,Gold,57
+C00270,Karen Miller,Female,2022-09-30,Houston,Bronze,61
+C00271,John Davis,Male,2019-09-24,Chicago,Bronze,57
+C00272,Linda Wilson,Female,2021-06-12,Los Angeles,Bronze,46
+C00273,Richard Miller,Male,2020-10-11,Houston,Gold,52
+C00274,Barbara Smith,Female,2023-09-02,Phoenix,Silver,42
+C00275,Susan Johnson,Female,2023-06-25,Phoenix,Bronze,36
+C00276,Mary Williams,Female,2021-04-22,Los Angeles,Bronze,42
+C00277,Mary Wilson,Female,2022-01-24,Chicago,Gold,59
+C00278,Michael Anderson,Male,2022-03-28,Houston,Silver,49
+C00279,Ashley Thompson,Female,2020-08-02,Phoenix,Bronze,63
+C00280,Steven Thomas,Male,2023-07-03,New York,Bronze,65
+C00281,Charles Davis,Male,2021-12-29,Los Angeles,Bronze,50
+C00282,Mary Thompson,Female,2021-03-11,Chicago,Gold,35
+C00283,Robert Thomas,Male,2022-05-05,Los Angeles,Silver,51
+C00284,Melissa Jones,Female,2020-12-07,Phoenix,Silver,45
+C00285,Barbara Miller,Female,2021-10-20,Chicago,Silver,59
+C00286,Lisa Jackson,Female,2020-09-20,Los Angeles,Gold,26
+C00287,Dorothy Garcia,Other,2020-03-26,Houston,Silver,38
+C00288,Barbara Smith,Female,2020-01-03,New York,Bronze,38
+C00289,Sarah Jones,Female,2021-07-31,Houston,Silver,30
+C00290,George Lopez,Male,2019-03-23,New York,Gold,35
+C00291,Karen Smith,Female,2020-12-18,Phoenix,Silver,40
+C00292,Deborah Martin,Female,2023-01-20,New York,Bronze,63
+C00293,William Garcia,Male,2022-04-18,Chicago,Silver,30
+C00294,Mark Davis,Male,2019-02-16,Los Angeles,Platinum,65
+C00295,Ashley Lopez,Female,2019-07-25,Los Angeles,Bronze,49
+C00296,Patricia Lopez,Female,2021-02-05,Chicago,Silver,65
+C00297,Melissa Lopez,Female,2022-05-09,Houston,Silver,52
+C00298,Ashley Moore,Female,2019-04-30,Phoenix,Silver,20
+C00299,John Thompson,Male,2022-05-14,Los Angeles,Platinum,42
+C00300,Ashley Thomas,Female,2019-06-03,Phoenix,Bronze,37
+C00301,John Jackson,Male,2022-08-05,Chicago,Bronze,27
+C00302,Dorothy Brown,Female,2022-11-04,Houston,Bronze,29
+C00303,Sandra Anderson,Female,2023-08-25,Phoenix,Bronze,46
+C00304,Robert Martinez,Male,2020-09-19,New York,Gold,38
+C00305,Ashley Taylor,Female,2020-01-19,Los Angeles,Bronze,23
+C00306,Susan Thomas,Female,2023-05-09,Phoenix,Silver,53
+C00307,Kenneth Jones,Male,2020-06-14,Houston,Platinum,28
+C00308,Charles Moore,Male,2019-06-09,Los Angeles,Silver,36
+C00309,James Lopez,Male,2020-02-13,Los Angeles,Platinum,34
+C00310,James Lopez,Male,2023-03-30,New York,Silver,49
+C00311,Donald Williams,Male,2023-01-17,Los Angeles,Silver,56
+C00312,Andrew Miller,Male,2023-08-28,Phoenix,Bronze,21
+C00313,John White,Male,2021-12-20,Los Angeles,Bronze,56
+C00314,Mark Garcia,Male,2019-09-30,Chicago,Bronze,28
+C00315,Susan Moore,Female,2023-11-14,Chicago,Gold,65
+C00316,Charles Anderson,Male,2019-04-22,Phoenix,Bronze,41
+C00317,Jennifer Wilson,Female,2022-08-20,Houston,Gold,48
+C00318,Mark Jackson,Male,2021-05-02,Los Angeles,Bronze,31
+C00319,Dorothy Williams,Female,2019-12-06,Los Angeles,Silver,48
+C00320,Nancy Martinez,Female,2021-06-11,Phoenix,Silver,51
+C00321,Deborah White,Other,2022-01-04,Phoenix,Platinum,49
+C00322,Susan Lopez,Female,2023-03-27,Phoenix,Silver,32
+C00323,Lisa Brown,Other,2019-01-05,Chicago,Bronze,65
+C00324,Nancy Taylor,Female,2022-07-12,Los Angeles,Silver,53
+C00325,Thomas Williams,Male,2020-09-17,Los Angeles,Silver,37
+C00326,Michael Anderson,Male,2021-10-03,Chicago,Gold,39
+C00327,Jessica Anderson,Female,2019-04-01,Houston,Gold,39
+C00328,Emily Jones,Female,2019-04-21,Houston,Silver,58
+C00329,Ashley Hernandez,Female,2023-07-27,Houston,Gold,65
+C00330,Nancy Thompson,Female,2021-07-19,New York,Silver,52
+C00331,Matthew Williams,Male,2021-10-27,New York,Gold,27
+C00332,Amanda Garcia,Female,2021-11-19,Chicago,Platinum,54
+C00333,Charles Anderson,Male,2019-12-30,Phoenix,Gold,63
+C00334,Joseph Taylor,Male,2019-09-27,New York,Silver,46
+C00335,Matthew Johnson,Male,2021-07-28,Chicago,Bronze,30
+C00336,Paul Jones,Male,2019-03-19,New York,Gold,30
+C00337,Nancy Jones,Female,2023-06-15,Chicago,Bronze,24
+C00338,Patricia Moore,Female,2020-02-17,Phoenix,Bronze,42
+C00339,George Williams,Male,2021-08-24,Phoenix,Platinum,39
+C00340,Lisa Smith,Female,2019-11-17,Houston,Silver,54
+C00341,Jessica Wilson,Female,2020-10-13,Chicago,Bronze,35
+C00342,Thomas Jones,Male,2022-10-02,Phoenix,Silver,28
+C00343,Richard Thompson,Male,2023-10-05,Chicago,Silver,40
+C00344,Charles White,Male,2020-03-15,Phoenix,Platinum,33
+C00345,John Jones,Male,2021-11-18,Los Angeles,Silver,19
+C00346,Patricia Williams,Female,2019-06-06,Houston,Bronze,45
+C00347,Charles Anderson,Male,2022-10-17,Houston,Silver,30
+C00348,Robert Moore,Male,2022-12-17,Phoenix,Silver,24
+C00349,Joseph Jones,Male,2022-12-16,Houston,Silver,57
+C00350,Nancy Anderson,Female,2022-05-03,Chicago,Bronze,47
+C00351,Steven Moore,Male,2023-01-16,Houston,Bronze,28
+C00352,Linda Thomas,Female,2023-11-21,Chicago,Bronze,63
+C00353,Andrew Moore,Male,2019-08-09,New York,Gold,43
+C00354,Steven Thomas,Male,2021-01-27,Phoenix,Silver,22
+C00355,Mark White,Male,2022-09-01,Chicago,Gold,39
+C00356,Jennifer White,Female,2020-06-21,Phoenix,Silver,49
+C00357,Linda Moore,Female,2022-12-09,New York,Bronze,29
+C00358,Deborah Thomas,Female,2019-08-05,Chicago,Silver,38
+C00359,Barbara White,Female,2019-07-11,Houston,Bronze,58
+C00360,Lisa Thomas,Female,2020-04-08,New York,Silver,57
+C00361,Daniel Wilson,Male,2020-09-30,Phoenix,Silver,54
+C00362,Betty Williams,Female,2022-09-12,Chicago,Gold,55
+C00363,Barbara Wilson,Female,2023-05-05,New York,Silver,21
+C00364,Amanda Taylor,Female,2019-06-15,Chicago,Bronze,25
+C00365,Melissa Thomas,Female,2020-12-31,Chicago,Silver,58
+C00366,Amanda Miller,Female,2022-06-15,Chicago,Bronze,60
+C00367,Matthew Hernandez,Male,2020-08-07,Los Angeles,Silver,27
+C00368,William Smith,Other,2020-01-26,Chicago,Bronze,27
+C00369,Sandra Moore,Female,2020-02-26,Houston,Bronze,62
+C00370,Sandra Thompson,Female,2020-07-12,Phoenix,Silver,46
+C00371,James White,Male,2020-07-31,Houston,Silver,49
+C00372,Amanda White,Female,2021-04-16,Los Angeles,Silver,41
+C00373,Linda Brown,Other,2023-11-01,New York,Silver,55
+C00374,Dorothy Martinez,Female,2019-09-06,Houston,Bronze,47
+C00375,Robert Thompson,Male,2019-10-02,Phoenix,Bronze,55
+C00376,Mary Martin,Female,2021-12-03,Chicago,Silver,47
+C00377,Sandra Taylor,Female,2023-11-19,Phoenix,Gold,36
+C00378,Kenneth Martinez,Male,2021-08-02,Chicago,Gold,21
+C00379,Lisa Lopez,Female,2023-11-15,Houston,Bronze,19
+C00380,Thomas Martinez,Male,2020-01-30,Chicago,Silver,26
+C00381,Michael Lopez,Male,2021-03-09,Phoenix,Bronze,29
+C00382,Susan Martinez,Female,2022-10-19,Phoenix,Bronze,62
+C00383,Daniel Williams,Male,2023-06-27,Los Angeles,Gold,27
+C00384,Sandra Thomas,Female,2020-04-23,Phoenix,Gold,33
+C00385,Betty Johnson,Female,2020-06-03,Houston,Bronze,59
+C00386,Ashley Thomas,Female,2019-12-27,Chicago,Bronze,48
+C00387,Anthony Martin,Male,2023-07-13,Chicago,Bronze,34
+C00388,Ashley Thomas,Female,2022-09-12,Los Angeles,Bronze,61
+C00389,Amanda Taylor,Female,2019-05-08,Chicago,Bronze,45
+C00390,Sarah Brown,Female,2021-04-26,Phoenix,Bronze,34
+C00391,Kenneth Miller,Male,2021-01-21,Phoenix,Gold,51
+C00392,Mary Smith,Female,2020-07-12,Chicago,Bronze,22
+C00393,Donald Taylor,Male,2023-06-20,New York,Bronze,32
+C00394,Robert Johnson,Male,2019-04-16,Chicago,Bronze,56
+C00395,Linda Williams,Female,2020-01-14,Los Angeles,Gold,56
+C00396,David Brown,Male,2023-10-25,Los Angeles,Gold,62
+C00397,Robert Moore,Male,2022-12-21,Los Angeles,Silver,35
+C00398,Jennifer Martinez,Female,2021-10-01,Houston,Bronze,21
+C00399,Thomas Garcia,Male,2019-07-06,Houston,Bronze,46
+C00400,David Martin,Male,2020-09-15,New York,Silver,24
+C00401,Linda Moore,Female,2022-09-01,Los Angeles,Bronze,63
+C00402,Thomas Moore,Male,2019-08-15,Chicago,Bronze,19
+C00403,Anthony Martinez,Male,2019-01-03,Houston,Platinum,27
+C00404,Emily Martin,Female,2023-11-21,Chicago,Bronze,45
+C00405,Mary Thomas,Female,2019-08-06,Houston,Silver,62
+C00406,Matthew Anderson,Male,2023-07-22,Houston,Platinum,61
+C00407,Daniel Williams,Male,2019-10-09,Chicago,Bronze,47
+C00408,Margaret Miller,Female,2020-07-02,Chicago,Silver,37
+C00409,Ashley Miller,Female,2022-01-21,Houston,Silver,26
+C00410,Robert Thompson,Male,2021-01-10,New York,Silver,59
+C00411,James Johnson,Male,2022-10-27,Chicago,Platinum,39
+C00412,Richard Jackson,Male,2019-05-14,New York,Silver,47
+C00413,Robert Johnson,Male,2023-12-05,Phoenix,Bronze,65
+C00414,George Johnson,Male,2019-03-01,Los Angeles,Silver,33
+C00415,Michael Moore,Male,2019-06-05,Los Angeles,Platinum,57
+C00416,Linda Brown,Female,2019-07-18,Los Angeles,Gold,49
+C00417,Jessica Hernandez,Female,2020-11-16,Phoenix,Bronze,39
+C00418,Daniel Miller,Male,2023-11-25,Houston,Silver,20
+C00419,William Hernandez,Male,2019-07-16,Phoenix,Bronze,28
+C00420,Melissa Johnson,Female,2022-09-24,Chicago,Bronze,26
+C00421,Mary Martin,Female,2022-03-14,New York,Gold,23
+C00422,Kenneth Wilson,Male,2019-10-04,New York,Gold,44
+C00423,Sarah Jackson,Female,2020-10-02,Houston,Bronze,46
+C00424,John Lopez,Male,2020-06-26,Houston,Silver,29
+C00425,Lisa Taylor,Female,2019-10-01,Houston,Silver,44
+C00426,Dorothy Brown,Female,2020-08-19,New York,Bronze,57
+C00427,Ashley Miller,Female,2023-08-04,Chicago,Silver,35
+C00428,Steven Martin,Male,2020-04-08,New York,Silver,29
+C00429,Betty Wilson,Female,2019-05-14,Los Angeles,Bronze,31
+C00430,John Thompson,Male,2022-11-08,Houston,Bronze,29
+C00431,Jennifer Davis,Female,2023-02-16,Los Angeles,Silver,64
+C00432,Nancy Davis,Female,2021-10-09,Houston,Silver,25
+C00433,Richard Thomas,Male,2021-01-06,Chicago,Gold,32
+C00434,Mark Jones,Male,2023-02-14,New York,Bronze,31
+C00435,Donald Miller,Male,2022-04-18,Phoenix,Bronze,58
+C00436,Robert White,Other,2020-09-20,Chicago,Bronze,21
+C00437,David Anderson,Male,2022-12-17,Chicago,Silver,32
+C00438,Amanda Davis,Female,2020-06-11,Chicago,Silver,23
+C00439,Jessica White,Female,2023-02-28,Houston,Gold,48
+C00440,Joseph Davis,Male,2022-08-23,Houston,Gold,38
+C00441,Mary Hernandez,Female,2020-04-07,Houston,Platinum,20
+C00442,Sandra Thomas,Other,2023-04-16,New York,Bronze,48
+C00443,James Hernandez,Male,2021-01-17,New York,Bronze,31
+C00444,Robert Smith,Male,2021-01-12,Los Angeles,Silver,48
+C00445,Kenneth Smith,Male,2022-11-27,Chicago,Gold,47
+C00446,Betty Moore,Female,2022-06-13,Houston,Bronze,63
+C00447,Nancy Jackson,Female,2019-08-08,New York,Bronze,20
+C00448,George Thompson,Male,2021-04-18,Chicago,Silver,54
+C00449,Nancy Johnson,Female,2019-09-09,Los Angeles,Silver,50
+C00450,Ashley Lopez,Female,2019-12-11,Chicago,Bronze,20
+C00451,Andrew Miller,Male,2023-10-03,Chicago,Gold,26
+C00452,Kenneth Miller,Male,2019-12-19,Chicago,Silver,65
+C00453,Mark Martinez,Male,2021-04-10,Los Angeles,Silver,21
+C00454,Paul Brown,Male,2022-11-06,New York,Silver,48
+C00455,Ashley Lopez,Female,2023-07-14,Phoenix,Gold,41
+C00456,Anthony Garcia,Male,2022-11-23,New York,Bronze,36
+C00457,William Martin,Male,2021-05-07,New York,Bronze,27
+C00458,Amanda Jones,Female,2019-03-12,Los Angeles,Bronze,48
+C00459,Robert Smith,Male,2019-03-08,Chicago,Bronze,32
+C00460,Nancy Martin,Female,2022-07-03,Phoenix,Silver,55
+C00461,Melissa Jones,Female,2022-10-15,Phoenix,Silver,37
+C00462,Lisa Johnson,Female,2020-12-05,Los Angeles,Silver,27
+C00463,David Thompson,Male,2020-05-31,Chicago,Silver,36
+C00464,Joseph Johnson,Other,2020-04-21,Los Angeles,Bronze,38
+C00465,Richard Thompson,Male,2021-03-20,Phoenix,Bronze,63
+C00466,Ashley Thompson,Female,2021-12-04,New York,Bronze,28
+C00467,Steven Jones,Male,2019-03-19,Phoenix,Silver,47
+C00468,Daniel Wilson,Male,2023-08-24,Chicago,Platinum,48
+C00469,Melissa Moore,Female,2023-11-18,Chicago,Silver,39
+C00470,Amanda Brown,Female,2019-05-05,New York,Bronze,37
+C00471,Robert Anderson,Male,2020-11-15,New York,Silver,21
+C00472,Sarah Miller,Female,2023-12-18,Phoenix,Silver,19
+C00473,Jennifer Jackson,Female,2022-10-15,New York,Silver,43
+C00474,Matthew Thomas,Male,2023-05-09,Los Angeles,Platinum,27
+C00475,Matthew Taylor,Male,2022-03-04,Houston,Bronze,37
+C00476,Ashley Hernandez,Female,2019-09-30,Houston,Bronze,46
+C00477,Mark Jones,Male,2022-08-09,Chicago,Gold,55
+C00478,Paul Anderson,Male,2020-10-07,Phoenix,Bronze,22
+C00479,Sarah Hernandez,Female,2019-10-02,Phoenix,Bronze,29
+C00480,William Miller,Male,2023-10-31,Phoenix,Gold,29
+C00481,Charles White,Male,2023-03-05,Houston,Bronze,37
+C00482,Mary Jones,Female,2022-12-10,Houston,Bronze,34
+C00483,Lisa Hernandez,Female,2023-01-08,Chicago,Bronze,29
+C00484,Sarah Martin,Female,2021-01-30,Houston,Bronze,22
+C00485,Sandra Martinez,Female,2023-12-11,Phoenix,Silver,58
+C00486,Dorothy Smith,Other,2020-01-07,Houston,Bronze,34
+C00487,Barbara Taylor,Female,2020-03-30,Los Angeles,Bronze,28
+C00488,Matthew Johnson,Male,2022-07-27,New York,Silver,36
+C00489,Susan Brown,Female,2019-08-27,Chicago,Silver,56
+C00490,Lisa Martinez,Female,2021-09-09,Los Angeles,Gold,61
+C00491,William Smith,Male,2023-12-08,Chicago,Bronze,26
+C00492,David Brown,Male,2023-02-15,Phoenix,Silver,31
+C00493,Andrew Lopez,Male,2020-08-08,Los Angeles,Gold,62
+C00494,Linda Hernandez,Female,2023-09-09,Phoenix,Gold,47
+C00495,Steven Taylor,Male,2020-02-12,New York,Platinum,37
+C00496,George Jackson,Male,2022-10-05,Chicago,Gold,39
+C00497,Linda Davis,Female,2019-03-31,Los Angeles,Gold,26
+C00498,Barbara Williams,Female,2021-08-13,Los Angeles,Bronze,45
+C00499,John Miller,Male,2023-02-13,New York,Gold,24
+C00500,Emily Brown,Female,2023-05-15,New York,Silver,34
+C00501,Michael Lopez,Male,2019-02-01,New York,Gold,31
+C00502,Mary Williams,Female,2020-07-28,Phoenix,Silver,27
+C00503,Dorothy Lopez,Female,2021-12-16,Chicago,Bronze,33
+C00504,Mary Jackson,Female,2019-11-04,Phoenix,Gold,31
+C00505,Amanda Smith,Female,2020-06-17,Los Angeles,Platinum,64
+C00506,Emily Taylor,Female,2023-04-16,New York,Gold,62
+C00507,Matthew Thomas,Male,2019-11-30,Phoenix,Bronze,45
+C00508,Daniel Brown,Male,2022-06-20,Los Angeles,Bronze,47
+C00509,Charles Thompson,Male,2023-03-21,New York,Gold,64
+C00510,Charles Moore,Male,2023-03-14,New York,Bronze,56
+C00511,Sandra Wilson,Female,2022-10-11,Chicago,Bronze,45
+C00512,Betty Garcia,Female,2023-01-17,Los Angeles,Platinum,18
+C00513,Jennifer Brown,Female,2022-05-16,Houston,Silver,27
+C00514,David Williams,Male,2019-11-13,Houston,Gold,41
+C00515,Mark Martin,Male,2022-06-10,Los Angeles,Bronze,35
+C00516,Deborah Thomas,Female,2022-05-28,Phoenix,Bronze,49
+C00517,Thomas Martin,Male,2022-11-13,Phoenix,Bronze,49
+C00518,Patricia Williams,Female,2020-02-23,Los Angeles,Bronze,49
+C00519,Mary Jones,Other,2022-04-03,New York,Silver,37
+C00520,Dorothy Martin,Female,2019-08-26,Phoenix,Silver,47
+C00521,Thomas Thompson,Male,2023-03-27,Los Angeles,Silver,39
+C00522,Linda Thomas,Female,2019-04-09,Phoenix,Platinum,46
+C00523,Patricia Garcia,Female,2022-10-06,Chicago,Silver,53
+C00524,Barbara Wilson,Female,2020-05-24,Chicago,Silver,63
+C00525,Steven Thompson,Male,2019-12-06,Houston,Silver,61
+C00526,Susan Jackson,Female,2023-01-18,Phoenix,Silver,21
+C00527,Matthew Wilson,Male,2022-03-19,Houston,Silver,38
+C00528,Matthew Taylor,Male,2019-05-21,New York,Bronze,65
+C00529,Mark Taylor,Male,2021-11-26,Phoenix,Bronze,40
+C00530,Charles White,Male,2021-01-28,Houston,Bronze,23
+C00531,Mary Thompson,Female,2019-12-22,New York,Bronze,38
+C00532,Mark Martinez,Male,2022-08-05,New York,Silver,19
+C00533,Margaret Anderson,Female,2021-09-10,Houston,Bronze,54
+C00534,Jessica Anderson,Female,2019-11-07,New York,Silver,49
+C00535,Lisa Taylor,Female,2021-11-20,Phoenix,Bronze,45
+C00536,Andrew Miller,Male,2019-08-23,Los Angeles,Gold,36
+C00537,Joseph Lopez,Male,2023-11-17,Chicago,Silver,65
+C00538,Nancy Martinez,Female,2023-12-02,New York,Bronze,22
+C00539,Betty Williams,Female,2023-01-16,Phoenix,Silver,59
+C00540,Andrew Anderson,Male,2021-07-20,Chicago,Silver,30
+C00541,Andrew Garcia,Male,2023-05-21,Houston,Silver,19
+C00542,Ashley Martinez,Female,2023-11-28,Phoenix,Silver,58
+C00543,Patricia Jackson,Female,2022-09-09,Phoenix,Platinum,30
+C00544,Charles Hernandez,Male,2021-01-16,Chicago,Bronze,44
+C00545,Sandra Martinez,Female,2019-07-20,Chicago,Silver,36
+C00546,Michael Jones,Male,2021-01-03,Los Angeles,Silver,30
+C00547,Andrew Hernandez,Male,2021-08-22,New York,Silver,45
+C00548,Thomas Martinez,Male,2021-04-27,New York,Bronze,60
+C00549,Steven Smith,Male,2019-05-12,Phoenix,Platinum,21
+C00550,Mark Taylor,Male,2021-07-14,New York,Gold,60
+C00551,Kenneth Jackson,Male,2020-03-12,New York,Bronze,25
+C00552,Dorothy Martinez,Female,2023-12-09,Phoenix,Platinum,49
+C00553,Daniel Anderson,Male,2020-01-15,New York,Gold,55
+C00554,Jessica Jones,Female,2021-01-03,Houston,Platinum,24
+C00555,Thomas White,Male,2021-05-02,Los Angeles,Silver,21
+C00556,Sandra Martin,Female,2019-12-17,Houston,Bronze,61
+C00557,Betty Wilson,Female,2020-03-26,Los Angeles,Bronze,19
+C00558,Joseph Martinez,Male,2019-06-19,Phoenix,Silver,53
+C00559,Michael Thompson,Male,2022-02-01,Houston,Platinum,33
+C00560,Thomas Wilson,Male,2022-05-05,Houston,Platinum,23
+C00561,Daniel Hernandez,Male,2020-05-12,Los Angeles,Platinum,20
+C00562,Sandra Anderson,Female,2023-03-08,Chicago,Silver,63
+C00563,Sarah Jackson,Female,2019-11-08,Houston,Gold,22
+C00564,Donald Smith,Male,2023-08-29,Chicago,Gold,21
+C00565,Jessica Wilson,Female,2020-02-27,Los Angeles,Bronze,38
+C00566,William Lopez,Male,2020-05-05,Phoenix,Bronze,61
+C00567,Barbara Martinez,Female,2021-09-19,Houston,Silver,29
+C00568,Sandra Taylor,Female,2021-05-25,Phoenix,Bronze,29
+C00569,Mary Thompson,Female,2023-11-08,Houston,Bronze,59
+C00570,Jessica Martinez,Female,2019-10-04,Phoenix,Platinum,62
+C00571,William Williams,Male,2022-08-25,Los Angeles,Silver,41
+C00572,Dorothy Hernandez,Female,2019-12-31,Los Angeles,Bronze,47
+C00573,Thomas Wilson,Male,2020-09-23,Houston,Bronze,65
+C00574,George Miller,Male,2022-09-02,Houston,Gold,36
+C00575,James Wilson,Male,2022-06-23,Los Angeles,Gold,34
+C00576,Ashley Williams,Female,2021-02-10,Los Angeles,Bronze,18
+C00577,Anthony Miller,Male,2021-10-01,Houston,Platinum,63
+C00578,Amanda Johnson,Female,2021-03-07,Houston,Bronze,21
+C00579,Deborah Lopez,Female,2023-01-03,Chicago,Platinum,63
+C00580,Charles Thomas,Male,2023-04-17,New York,Silver,60
+C00581,David Martinez,Male,2023-10-05,Chicago,Bronze,28
+C00582,William Williams,Male,2021-11-19,Phoenix,Gold,38
+C00583,John Jones,Male,2021-03-20,Phoenix,Bronze,49
+C00584,Sarah Lopez,Female,2022-08-29,Chicago,Bronze,34
+C00585,Steven Jones,Male,2020-05-27,Phoenix,Bronze,53
+C00586,David Johnson,Male,2020-04-06,Houston,Bronze,48
+C00587,Steven Johnson,Male,2022-12-22,Chicago,Silver,46
+C00588,Betty Brown,Other,2023-10-09,Chicago,Silver,64
+C00589,Charles Garcia,Male,2019-10-18,Los Angeles,Bronze,28
+C00590,Melissa Miller,Female,2023-10-16,Phoenix,Gold,55
+C00591,Jennifer Davis,Female,2023-11-09,New York,Bronze,49
+C00592,Linda Thomas,Female,2019-03-22,New York,Bronze,41
+C00593,Barbara Smith,Female,2019-11-26,Phoenix,Gold,23
+C00594,Sarah Lopez,Female,2023-01-30,Houston,Silver,60
+C00595,Donald Anderson,Male,2019-05-17,New York,Silver,64
+C00596,Charles Anderson,Male,2019-06-01,Phoenix,Gold,21
+C00597,Sarah Garcia,Female,2022-03-30,New York,Bronze,33
+C00598,Anthony Wilson,Male,2020-10-08,Houston,Bronze,59
+C00599,Charles Lopez,Male,2023-03-06,Los Angeles,Gold,26
+C00600,Emily Moore,Female,2022-02-15,Chicago,Silver,42
+C00601,Mark Taylor,Male,2022-08-07,Houston,Bronze,57
+C00602,Paul Anderson,Male,2022-08-16,Los Angeles,Bronze,47
+C00603,Dorothy Jackson,Female,2020-04-26,Los Angeles,Platinum,23
+C00604,Steven Wilson,Male,2019-09-04,Chicago,Platinum,27
+C00605,Dorothy Hernandez,Female,2021-07-22,Los Angeles,Gold,36
+C00606,Paul Brown,Male,2019-08-26,Phoenix,Platinum,50
+C00607,Kenneth Martinez,Male,2022-12-14,Houston,Silver,40
+C00608,Ashley Garcia,Female,2023-04-14,Chicago,Bronze,29
+C00609,Charles Anderson,Male,2022-07-17,Houston,Gold,55
+C00610,Sarah Anderson,Female,2022-10-29,Houston,Silver,29
+C00611,Michael Hernandez,Male,2021-03-16,Los Angeles,Gold,52
+C00612,Steven Moore,Male,2019-12-29,New York,Bronze,62
+C00613,Deborah Taylor,Female,2023-02-21,Houston,Bronze,62
+C00614,Mary Miller,Female,2019-09-30,Houston,Bronze,25
+C00615,Jessica Martin,Female,2020-08-07,New York,Gold,59
+C00616,Amanda Miller,Female,2022-09-15,Los Angeles,Gold,23
+C00617,Mary Brown,Female,2020-04-05,Chicago,Silver,28
+C00618,Emily Smith,Female,2022-10-15,Los Angeles,Platinum,46
+C00619,Anthony Johnson,Male,2021-07-05,Phoenix,Silver,39
+C00620,Steven White,Male,2022-09-03,New York,Platinum,56
+C00621,Betty Jackson,Other,2019-04-26,Phoenix,Silver,55
+C00622,Patricia Jackson,Female,2023-02-24,Phoenix,Bronze,19
+C00623,Sandra Martin,Female,2023-09-15,Houston,Bronze,25
+C00624,Sandra Smith,Female,2021-12-13,Houston,Silver,28
+C00625,Karen Jackson,Female,2022-12-28,Chicago,Bronze,32
+C00626,Ashley Jones,Female,2021-11-19,Phoenix,Platinum,36
+C00627,Susan Lopez,Female,2022-01-24,Houston,Gold,31
+C00628,Barbara Garcia,Female,2019-09-25,Chicago,Silver,30
+C00629,Emily Wilson,Female,2019-11-10,Los Angeles,Gold,33
+C00630,Sarah Taylor,Female,2019-02-26,Los Angeles,Bronze,61
+C00631,Robert Anderson,Male,2023-04-14,Los Angeles,Bronze,45
+C00632,Emily Martinez,Female,2020-01-10,New York,Silver,39
+C00633,Barbara Jackson,Female,2023-09-27,Chicago,Bronze,56
+C00634,Linda Brown,Female,2022-09-22,New York,Gold,57
+C00635,Patricia Jackson,Female,2019-11-13,Phoenix,Gold,24
+C00636,Susan Wilson,Female,2020-09-30,Los Angeles,Platinum,63
+C00637,Linda Jones,Female,2023-03-29,Houston,Gold,59
+C00638,Richard Moore,Male,2020-03-04,Chicago,Bronze,44
+C00639,Paul Garcia,Male,2023-01-11,New York,Bronze,23
+C00640,Joseph Jones,Male,2022-07-13,Chicago,Bronze,51
+C00641,Sandra Hernandez,Female,2020-03-04,Houston,Gold,47
+C00642,Ashley Jones,Female,2022-01-28,Phoenix,Platinum,18
+C00643,Margaret Garcia,Female,2019-09-21,Phoenix,Bronze,45
+C00644,William White,Male,2019-04-26,New York,Silver,21
+C00645,Emily Wilson,Other,2022-07-26,Phoenix,Silver,64
+C00646,Dorothy Lopez,Female,2019-01-25,Chicago,Gold,27
+C00647,George Lopez,Male,2020-09-29,Houston,Gold,59
+C00648,Lisa Williams,Female,2022-06-10,Houston,Gold,20
+C00649,Andrew Wilson,Male,2020-01-27,Phoenix,Silver,31
+C00650,David Smith,Male,2021-08-28,New York,Silver,19
+C00651,Lisa Hernandez,Female,2021-01-19,Phoenix,Gold,50
+C00652,Dorothy Taylor,Female,2022-03-04,New York,Bronze,25
+C00653,Melissa Smith,Female,2020-01-23,New York,Silver,47
+C00654,Ashley Lopez,Other,2023-12-12,Chicago,Silver,32
+C00655,Anthony Jackson,Male,2023-11-15,Chicago,Silver,65
+C00656,Matthew Moore,Male,2023-05-24,Los Angeles,Silver,24
+C00657,Patricia Hernandez,Female,2022-07-04,Los Angeles,Bronze,26
+C00658,Paul Thomas,Male,2019-08-31,Houston,Bronze,55
+C00659,Kenneth Martin,Male,2022-05-11,Phoenix,Gold,58
+C00660,Jessica Garcia,Other,2023-03-01,Houston,Gold,27
+C00661,Paul Jackson,Male,2022-11-23,Phoenix,Bronze,25
+C00662,Andrew Taylor,Male,2019-04-12,Los Angeles,Gold,25
+C00663,Melissa Wilson,Female,2019-12-09,Phoenix,Bronze,20
+C00664,Matthew Wilson,Male,2022-02-28,Phoenix,Bronze,36
+C00665,Kenneth Hernandez,Male,2020-03-19,Houston,Bronze,21
+C00666,Emily Smith,Female,2020-10-31,Chicago,Bronze,25
+C00667,Kenneth Wilson,Male,2019-05-19,Phoenix,Silver,54
+C00668,Deborah Jones,Female,2022-03-18,Houston,Silver,26
+C00669,Barbara Anderson,Female,2022-10-29,Phoenix,Silver,23
+C00670,Margaret Anderson,Female,2022-06-26,Phoenix,Bronze,52
+C00671,Jennifer Garcia,Female,2022-10-08,New York,Gold,63
+C00672,Linda Thompson,Female,2021-08-17,New York,Silver,23
+C00673,Patricia White,Female,2023-08-11,Los Angeles,Silver,51
+C00674,Linda Thompson,Female,2023-04-11,Los Angeles,Gold,29
+C00675,Kenneth Moore,Male,2020-10-01,New York,Bronze,23
+C00676,Emily Smith,Female,2022-06-02,Phoenix,Silver,39
+C00677,Daniel Thomas,Male,2019-03-16,Houston,Gold,34
+C00678,Charles Jones,Male,2019-11-05,New York,Silver,29
+C00679,Sandra Garcia,Female,2020-04-24,Chicago,Bronze,21
+C00680,Patricia Wilson,Female,2020-07-17,Phoenix,Bronze,42
+C00681,Thomas Thomas,Male,2022-07-06,New York,Gold,25
+C00682,Paul Jackson,Male,2023-12-26,New York,Bronze,42
+C00683,Mark Williams,Male,2021-09-16,New York,Silver,48
+C00684,James Martinez,Male,2020-12-27,New York,Platinum,53
+C00685,Barbara Wilson,Female,2021-02-04,Phoenix,Gold,54
+C00686,William Taylor,Male,2023-04-04,Houston,Bronze,52
+C00687,Amanda Moore,Female,2023-07-29,Los Angeles,Platinum,20
+C00688,Susan Smith,Female,2021-06-17,New York,Silver,21
+C00689,Anthony Taylor,Male,2021-02-18,Houston,Gold,58
+C00690,Susan Thompson,Female,2023-05-05,Los Angeles,Bronze,54
+C00691,William Thompson,Male,2022-05-13,New York,Silver,35
+C00692,Daniel Anderson,Male,2023-04-18,Houston,Platinum,58
+C00693,Mary Anderson,Other,2022-11-07,Chicago,Bronze,31
+C00694,Barbara Smith,Female,2021-10-17,Houston,Bronze,56
+C00695,Mark Thompson,Male,2019-01-30,Houston,Silver,62
+C00696,Jennifer Thompson,Female,2023-07-30,Houston,Bronze,19
+C00697,Margaret Lopez,Female,2022-01-01,Houston,Platinum,40
+C00698,Matthew Miller,Male,2019-01-27,Houston,Bronze,46
+C00699,Matthew Miller,Male,2019-03-03,New York,Gold,23
+C00700,Emily Taylor,Female,2020-11-18,Phoenix,Bronze,20
+C00701,Anthony Brown,Male,2020-10-11,Chicago,Bronze,35
+C00702,Kenneth Lopez,Male,2020-06-13,Phoenix,Silver,54
+C00703,William Martinez,Male,2020-02-03,Los Angeles,Gold,54
+C00704,Mary Thompson,Female,2021-05-02,Los Angeles,Bronze,57
+C00705,Sandra Johnson,Female,2022-11-11,Chicago,Bronze,38
+C00706,Dorothy Moore,Female,2022-06-18,Houston,Bronze,49
+C00707,Joseph Johnson,Male,2019-05-16,Chicago,Gold,35
+C00708,Jessica Anderson,Female,2021-09-09,Houston,Bronze,23
+C00709,Sandra Williams,Female,2020-12-02,Phoenix,Platinum,33
+C00710,Michael Smith,Male,2021-08-23,Los Angeles,Bronze,48
+C00711,Karen Brown,Female,2021-11-04,Houston,Gold,48
+C00712,Dorothy Davis,Female,2019-06-19,Los Angeles,Gold,22
+C00713,Melissa Brown,Female,2019-10-25,Phoenix,Silver,23
+C00714,Jennifer Jones,Female,2022-03-18,New York,Bronze,21
+C00715,John Thompson,Male,2022-09-03,Houston,Bronze,21
+C00716,Sandra Davis,Female,2022-06-01,Chicago,Bronze,56
+C00717,Mark Lopez,Male,2022-04-07,Phoenix,Silver,57
+C00718,Daniel White,Male,2019-03-22,New York,Silver,30
+C00719,Richard White,Male,2019-07-29,New York,Silver,26
+C00720,George Moore,Male,2022-08-01,Phoenix,Silver,29
+C00721,Charles White,Male,2019-05-17,Los Angeles,Bronze,45
+C00722,Amanda Jones,Female,2022-01-16,Phoenix,Bronze,27
+C00723,James Jackson,Male,2021-12-01,Houston,Bronze,55
+C00724,Andrew Johnson,Male,2023-04-25,Los Angeles,Gold,45
+C00725,Richard Williams,Male,2020-09-14,Chicago,Silver,39
+C00726,Nancy White,Female,2022-12-23,Los Angeles,Silver,54
+C00727,Linda Moore,Female,2022-07-24,Chicago,Bronze,20
+C00728,Joseph Moore,Male,2019-01-12,Houston,Silver,57
+C00729,Anthony Miller,Male,2021-10-26,Los Angeles,Gold,43
+C00730,Jennifer Taylor,Female,2019-01-21,Los Angeles,Bronze,19
+C00731,Kenneth Taylor,Male,2021-06-21,Phoenix,Silver,20
+C00732,Thomas Garcia,Male,2021-06-01,New York,Bronze,39
+C00733,Thomas Brown,Male,2020-08-31,Phoenix,Bronze,19
+C00734,Richard Wilson,Male,2019-12-11,Los Angeles,Bronze,47
+C00735,Paul Lopez,Male,2022-03-02,Los Angeles,Silver,45
+C00736,Richard Thompson,Male,2020-02-11,New York,Gold,42
+C00737,Joseph Johnson,Male,2022-08-27,Chicago,Platinum,57
+C00738,William Anderson,Male,2023-07-22,Phoenix,Bronze,33
+C00739,Dorothy White,Female,2021-05-20,New York,Gold,49
+C00740,Deborah Williams,Female,2023-01-02,Los Angeles,Gold,28
+C00741,Paul Moore,Male,2023-05-01,Phoenix,Bronze,29
+C00742,Emily Martin,Female,2023-06-21,Chicago,Silver,35
+C00743,Richard Davis,Male,2023-12-20,Phoenix,Silver,30
+C00744,Sandra Thomas,Female,2022-05-15,Houston,Bronze,54
+C00745,Jennifer Jones,Female,2022-03-08,Los Angeles,Bronze,23
+C00746,John Moore,Male,2021-12-28,Chicago,Bronze,50
+C00747,Mark Taylor,Male,2022-11-02,Phoenix,Silver,49
+C00748,Joseph Martinez,Male,2019-03-18,Chicago,Bronze,59
+C00749,Paul Jackson,Male,2019-09-14,New York,Bronze,52
+C00750,Jennifer Taylor,Female,2020-12-08,New York,Bronze,20
+C00751,Thomas Wilson,Male,2020-09-02,Phoenix,Silver,65
+C00752,Andrew Martinez,Male,2020-03-04,Chicago,Platinum,18
+C00753,Anthony Thomas,Male,2021-12-12,Chicago,Gold,55
+C00754,William Thomas,Male,2023-05-12,New York,Platinum,32
+C00755,Dorothy White,Female,2020-10-14,Los Angeles,Silver,53
+C00756,Jennifer Anderson,Female,2022-12-04,Houston,Bronze,30
+C00757,Ashley Thompson,Female,2022-07-21,Houston,Bronze,19
+C00758,James Martin,Male,2020-02-03,Chicago,Bronze,60
+C00759,Anthony Thompson,Male,2022-07-26,Chicago,Silver,37
+C00760,Barbara Jones,Female,2023-10-30,Chicago,Gold,39
+C00761,Margaret Miller,Female,2023-11-18,Phoenix,Gold,43
+C00762,Nancy White,Female,2020-08-08,New York,Silver,46
+C00763,David Johnson,Male,2019-11-21,Chicago,Silver,62
+C00764,Anthony Wilson,Male,2020-08-03,Phoenix,Bronze,31
+C00765,John Taylor,Male,2023-06-18,Los Angeles,Bronze,51
+C00766,Michael Jones,Male,2022-06-30,New York,Bronze,52
+C00767,Richard Jones,Male,2019-08-02,Houston,Bronze,31
+C00768,Kenneth Wilson,Male,2023-01-15,Chicago,Bronze,55
+C00769,James Jones,Male,2022-11-26,Los Angeles,Bronze,46
+C00770,Melissa Martin,Female,2021-02-05,New York,Silver,47
+C00771,Ashley Taylor,Female,2019-10-11,Houston,Bronze,62
+C00772,David Lopez,Male,2020-06-28,Chicago,Silver,64
+C00773,Michael Thomas,Male,2020-07-23,Houston,Silver,62
+C00774,Andrew Wilson,Male,2020-05-05,New York,Bronze,60
+C00775,Sandra Thompson,Female,2020-11-05,New York,Platinum,25
+C00776,Daniel Hernandez,Male,2019-11-23,Chicago,Silver,46
+C00777,James Williams,Male,2023-04-22,Los Angeles,Bronze,58
+C00778,Anthony Johnson,Male,2022-05-25,Houston,Gold,18
+C00779,Donald Martin,Male,2020-02-29,Chicago,Bronze,47
+C00780,Donald Jones,Male,2021-01-22,New York,Gold,48
+C00781,Deborah Brown,Female,2020-06-14,Chicago,Gold,29
+C00782,James Martinez,Male,2022-04-29,Chicago,Bronze,27
+C00783,Andrew Miller,Male,2020-11-04,Houston,Gold,46
+C00784,Linda Thomas,Female,2023-06-13,New York,Silver,62
+C00785,Anthony Miller,Male,2019-01-15,Chicago,Bronze,33
+C00786,Sandra Smith,Female,2020-09-13,Chicago,Bronze,18
+C00787,Linda Garcia,Female,2019-07-16,Chicago,Bronze,64
+C00788,Daniel Anderson,Male,2023-05-12,Los Angeles,Bronze,53
+C00789,Sandra Brown,Female,2023-08-11,Los Angeles,Bronze,32
+C00790,Anthony Anderson,Male,2021-10-01,Los Angeles,Bronze,18
+C00791,Thomas Lopez,Male,2020-11-14,Houston,Bronze,41
+C00792,George Martin,Male,2020-11-10,New York,Silver,24
+C00793,Linda Lopez,Female,2023-11-04,Phoenix,Bronze,38
+C00794,Nancy Martin,Female,2020-02-18,Houston,Bronze,22
+C00795,Paul Davis,Male,2023-12-23,Chicago,Silver,50
+C00796,Deborah Brown,Female,2019-02-11,Phoenix,Bronze,37
+C00797,Patricia Jones,Female,2021-01-26,Los Angeles,Silver,41
+C00798,John Davis,Male,2020-04-16,Houston,Bronze,64
+C00799,Patricia Jones,Other,2022-10-10,Phoenix,Gold,35
+C00800,Sandra Wilson,Female,2019-05-04,Chicago,Silver,19
+C00801,Jessica Thompson,Female,2021-10-26,Los Angeles,Bronze,21
+C00802,Margaret Jackson,Female,2020-11-22,Los Angeles,Silver,38
+C00803,Steven Williams,Male,2019-01-19,Los Angeles,Bronze,30
+C00804,Barbara Williams,Female,2020-03-15,New York,Platinum,29
+C00805,Jennifer Hernandez,Female,2020-09-26,Phoenix,Bronze,64
+C00806,David Lopez,Male,2020-09-05,Houston,Bronze,33
+C00807,Richard Martinez,Male,2022-10-24,Chicago,Platinum,48
+C00808,Susan Martin,Female,2022-01-22,New York,Bronze,46
+C00809,Steven Smith,Male,2022-09-08,Houston,Gold,42
+C00810,Barbara Thompson,Female,2021-07-21,Houston,Silver,64
+C00811,Charles Thomas,Male,2022-12-11,Los Angeles,Bronze,53
+C00812,Steven Miller,Male,2021-11-01,Phoenix,Bronze,27
+C00813,Matthew Martin,Male,2023-04-05,Los Angeles,Gold,43
+C00814,Lisa White,Female,2022-03-05,Houston,Bronze,22
+C00815,Melissa Garcia,Female,2020-01-22,Houston,Bronze,30
+C00816,Emily Taylor,Female,2021-12-18,Houston,Silver,62
+C00817,Karen Martin,Female,2022-08-10,New York,Gold,20
+C00818,Barbara Martinez,Female,2019-03-29,Chicago,Silver,56
+C00819,Deborah White,Female,2020-04-02,Houston,Bronze,60
+C00820,Anthony Thomas,Male,2019-10-14,Los Angeles,Silver,63
+C00821,Anthony Hernandez,Other,2019-09-07,Phoenix,Silver,28
+C00822,Andrew Thomas,Male,2021-07-27,Houston,Silver,55
+C00823,Melissa Taylor,Female,2019-10-04,Chicago,Bronze,27
+C00824,Mary Garcia,Female,2022-05-21,Chicago,Silver,49
+C00825,Charles Hernandez,Male,2022-07-22,New York,Silver,28
+C00826,David Jackson,Male,2020-02-22,Los Angeles,Bronze,25
+C00827,Patricia Garcia,Female,2020-10-22,Houston,Bronze,30
+C00828,Deborah Brown,Other,2022-06-24,Chicago,Silver,58
+C00829,Thomas Williams,Male,2019-09-24,Los Angeles,Bronze,39
+C00830,Linda Smith,Female,2023-01-24,New York,Silver,21
+C00831,Patricia Brown,Female,2019-01-23,Chicago,Silver,31
+C00832,Sarah Martin,Female,2022-03-13,Phoenix,Silver,48
+C00833,Nancy Anderson,Female,2021-11-11,Chicago,Bronze,33
+C00834,Betty Anderson,Female,2022-03-21,Chicago,Silver,24
+C00835,William Smith,Male,2022-06-02,New York,Gold,56
+C00836,Karen Taylor,Female,2021-05-18,New York,Platinum,46
+C00837,Jessica Smith,Female,2023-01-16,Phoenix,Silver,58
+C00838,Daniel Moore,Male,2022-01-24,Chicago,Gold,32
+C00839,Steven Brown,Male,2019-09-10,Phoenix,Bronze,64
+C00840,Paul White,Male,2020-08-29,Houston,Gold,63
+C00841,Charles Thompson,Male,2023-03-27,Phoenix,Gold,47
+C00842,Amanda Davis,Female,2019-12-26,Los Angeles,Silver,33
+C00843,James Garcia,Male,2019-10-05,Los Angeles,Bronze,38
+C00844,Emily Brown,Female,2020-11-15,Houston,Gold,60
+C00845,Nancy Davis,Female,2023-03-09,Los Angeles,Bronze,54
+C00846,Anthony Thompson,Male,2021-12-02,Phoenix,Bronze,45
+C00847,Michael Williams,Male,2019-12-26,Los Angeles,Bronze,39
+C00848,Barbara Anderson,Female,2019-12-27,Phoenix,Silver,42
+C00849,Amanda Miller,Female,2021-08-23,Phoenix,Bronze,42
+C00850,William Jackson,Male,2022-02-08,Houston,Gold,60
+C00851,Amanda Moore,Female,2019-11-28,Phoenix,Bronze,38
+C00852,Emily Moore,Female,2021-07-11,Los Angeles,Gold,27
+C00853,Charles Jackson,Male,2019-04-17,Phoenix,Silver,62
+C00854,Richard Martin,Male,2023-11-19,New York,Silver,36
+C00855,Richard Davis,Male,2021-11-01,Houston,Bronze,62
+C00856,Margaret Wilson,Female,2020-07-10,New York,Gold,60
+C00857,Karen Martin,Other,2023-08-30,Los Angeles,Bronze,40
+C00858,Charles Miller,Male,2023-06-28,Houston,Gold,62
+C00859,Kenneth Johnson,Male,2020-02-11,Phoenix,Bronze,63
+C00860,Donald Martin,Male,2020-05-23,Chicago,Silver,36
+C00861,James Taylor,Male,2020-08-30,Los Angeles,Gold,64
+C00862,Mark Garcia,Male,2020-04-03,Phoenix,Bronze,21
+C00863,John Brown,Male,2023-01-12,New York,Bronze,50
+C00864,Margaret Davis,Female,2020-04-06,Chicago,Silver,20
+C00865,George Garcia,Male,2023-02-27,New York,Bronze,59
+C00866,Margaret Martinez,Female,2019-10-06,Houston,Gold,58
+C00867,Michael Martin,Male,2020-01-08,Houston,Bronze,59
+C00868,Kenneth Martin,Male,2023-12-29,Phoenix,Silver,35
+C00869,Sandra Wilson,Female,2020-07-16,New York,Bronze,54
+C00870,Andrew Garcia,Male,2019-07-17,Los Angeles,Gold,43
+C00871,Paul Martin,Male,2023-07-25,New York,Gold,22
+C00872,Linda Miller,Female,2023-08-02,Phoenix,Gold,60
+C00873,Donald Anderson,Male,2020-07-13,New York,Bronze,25
+C00874,Robert Thompson,Male,2020-10-02,New York,Silver,34
+C00875,Matthew Thompson,Male,2020-01-23,New York,Silver,28
+C00876,Robert Jackson,Other,2019-01-01,Houston,Bronze,36
+C00877,Daniel Jackson,Male,2023-11-28,Phoenix,Silver,40
+C00878,Patricia Davis,Female,2020-10-13,Phoenix,Silver,20
+C00879,George Thompson,Male,2020-10-30,Los Angeles,Platinum,31
+C00880,Mark Williams,Male,2020-02-04,Phoenix,Gold,53
+C00881,Robert Martinez,Male,2020-05-22,Chicago,Silver,61
+C00882,Jennifer Martinez,Female,2020-03-21,Houston,Silver,58
+C00883,Dorothy Lopez,Female,2023-10-18,Los Angeles,Silver,28
+C00884,Sandra Thomas,Female,2021-09-09,Houston,Platinum,19
+C00885,Michael Thompson,Male,2021-04-19,Phoenix,Bronze,44
+C00886,Daniel Martinez,Male,2019-10-04,New York,Bronze,27
+C00887,Joseph Thomas,Male,2019-11-01,Los Angeles,Bronze,24
+C00888,Steven Brown,Male,2021-08-10,New York,Silver,51
+C00889,Deborah Brown,Female,2021-05-26,Chicago,Silver,21
+C00890,Andrew Thompson,Male,2022-04-25,Los Angeles,Bronze,56
+C00891,Paul Jones,Male,2020-02-01,Houston,Bronze,60
+C00892,John Taylor,Male,2023-10-30,Los Angeles,Gold,63
+C00893,Susan Moore,Female,2022-07-23,Los Angeles,Gold,40
+C00894,Paul Davis,Male,2021-05-06,Houston,Platinum,37
+C00895,Jennifer Williams,Female,2022-06-16,New York,Gold,22
+C00896,Jennifer Wilson,Female,2020-05-27,Los Angeles,Silver,53
+C00897,Sandra Jackson,Female,2019-02-03,Houston,Platinum,64
+C00898,Andrew Brown,Male,2023-05-20,Los Angeles,Silver,43
+C00899,Amanda Taylor,Female,2019-01-23,New York,Gold,33
+C00900,Susan Jackson,Female,2019-05-12,Phoenix,Silver,32
+C00901,John Hernandez,Male,2020-02-19,Los Angeles,Silver,49
+C00902,Joseph Thompson,Male,2019-12-18,Houston,Bronze,25
+C00903,James White,Male,2021-07-01,Chicago,Bronze,43
+C00904,Patricia Moore,Female,2023-05-21,Los Angeles,Gold,57
+C00905,Daniel Wilson,Male,2019-01-19,Houston,Silver,40
+C00906,James Brown,Male,2020-08-01,New York,Silver,45
+C00907,William Hernandez,Male,2023-07-02,Houston,Silver,25
+C00908,Anthony Taylor,Male,2021-02-16,Houston,Bronze,37
+C00909,Thomas Brown,Male,2020-07-20,Chicago,Silver,46
+C00910,James Taylor,Male,2022-01-04,Houston,Gold,63
+C00911,Anthony Hernandez,Male,2021-06-04,Los Angeles,Bronze,65
+C00912,Emily Martinez,Female,2020-05-13,Chicago,Silver,25
+C00913,William Anderson,Male,2023-03-20,Houston,Gold,43
+C00914,Linda Smith,Female,2022-04-23,Phoenix,Bronze,26
+C00915,Joseph Johnson,Male,2019-02-12,Los Angeles,Gold,61
+C00916,Charles Wilson,Male,2019-01-25,Chicago,Silver,49
+C00917,Dorothy Garcia,Female,2021-02-08,New York,Silver,33
+C00918,Karen Hernandez,Female,2021-03-29,Chicago,Platinum,30
+C00919,Dorothy Lopez,Female,2019-11-17,Houston,Gold,29
+C00920,Thomas Thomas,Other,2020-04-07,Los Angeles,Bronze,20
+C00921,Deborah Miller,Other,2020-03-30,Chicago,Silver,23
+C00922,Joseph Davis,Male,2023-06-20,New York,Bronze,39
+C00923,John Wilson,Male,2023-05-04,Houston,Silver,25
+C00924,Joseph Anderson,Male,2021-12-26,Chicago,Gold,21
+C00925,Daniel Miller,Male,2019-06-11,Los Angeles,Silver,36
+C00926,Thomas Martin,Male,2019-11-10,Houston,Silver,41
+C00927,Andrew Jones,Male,2019-10-29,Chicago,Silver,39
+C00928,Melissa Jackson,Female,2022-01-27,Chicago,Gold,56
+C00929,Anthony Williams,Male,2021-05-07,Chicago,Bronze,24
+C00930,Jessica Miller,Female,2020-01-09,Los Angeles,Bronze,63
+C00931,Deborah Anderson,Female,2019-08-21,Houston,Platinum,37
+C00932,Charles Johnson,Other,2020-09-19,Houston,Silver,26
+C00933,Andrew Taylor,Male,2021-02-23,Los Angeles,Gold,41
+C00934,Jennifer Martin,Female,2019-12-31,Houston,Platinum,44
+C00935,Susan Lopez,Female,2023-04-15,Phoenix,Gold,35
+C00936,Richard Thomas,Male,2023-10-26,Los Angeles,Bronze,49
+C00937,Dorothy Thomas,Female,2019-08-21,Phoenix,Bronze,53
+C00938,James Garcia,Male,2021-04-23,Houston,Bronze,54
+C00939,Dorothy Moore,Female,2019-01-28,Los Angeles,Gold,50
+C00940,Thomas Thompson,Male,2020-11-15,Phoenix,Bronze,25
+C00941,John Jones,Male,2023-07-16,Los Angeles,Bronze,35
+C00942,Joseph Miller,Male,2019-06-10,Los Angeles,Silver,52
+C00943,Matthew Anderson,Male,2021-12-15,New York,Silver,23
+C00944,George Wilson,Male,2020-02-20,Phoenix,Silver,38
+C00945,Karen Martinez,Female,2019-02-02,New York,Gold,29
+C00946,Amanda Brown,Other,2023-07-28,Chicago,Silver,64
+C00947,Deborah Thompson,Female,2021-03-10,Houston,Gold,31
+C00948,Anthony Jones,Male,2021-04-15,Houston,Bronze,46
+C00949,Emily Williams,Female,2022-09-10,Los Angeles,Bronze,49
+C00950,Steven Garcia,Male,2020-07-01,Los Angeles,Bronze,59
+C00951,Anthony Lopez,Male,2020-05-21,Chicago,Gold,30
+C00952,Anthony Brown,Male,2022-08-17,New York,Bronze,64
+C00953,Anthony Thomas,Male,2019-02-06,Phoenix,Silver,19
+C00954,Jennifer Martinez,Female,2019-05-16,New York,Bronze,27
+C00955,Michael Thompson,Male,2019-01-30,Phoenix,Platinum,65
+C00956,Emily White,Female,2019-09-21,Chicago,Bronze,46
+C00957,John Thompson,Male,2023-01-27,Los Angeles,Bronze,62
+C00958,Patricia Brown,Female,2020-01-18,Chicago,Bronze,52
+C00959,Joseph Smith,Male,2022-07-14,Chicago,Bronze,32
+C00960,Joseph Thomas,Male,2022-01-02,Houston,Silver,61
+C00961,Charles Taylor,Male,2019-12-09,New York,Bronze,22
+C00962,Robert Johnson,Male,2022-01-25,Phoenix,Platinum,56
+C00963,David Hernandez,Male,2023-07-07,Los Angeles,Bronze,27
+C00964,Linda Martinez,Female,2021-06-10,Chicago,Bronze,49
+C00965,Barbara Jones,Female,2019-08-26,Chicago,Gold,38
+C00966,Michael White,Male,2023-01-26,Los Angeles,Gold,45
+C00967,David Thomas,Male,2021-09-30,Chicago,Platinum,40
+C00968,Mark Lopez,Male,2023-02-04,Chicago,Silver,58
+C00969,Andrew Martin,Male,2021-02-03,Chicago,Bronze,52
+C00970,Anthony Williams,Male,2023-07-24,Phoenix,Gold,55
+C00971,Karen Taylor,Female,2020-11-12,Houston,Gold,18
+C00972,Nancy Jones,Other,2019-02-23,Los Angeles,Bronze,25
+C00973,Barbara Wilson,Female,2022-01-26,New York,Gold,47
+C00974,Sandra Davis,Female,2023-09-10,Los Angeles,Platinum,31
+C00975,William Thomas,Male,2020-03-04,Los Angeles,Bronze,64
+C00976,Linda White,Female,2022-08-12,New York,Bronze,22
+C00977,Betty Jones,Female,2020-05-06,Houston,Bronze,23
+C00978,Mark Jones,Male,2023-11-04,Los Angeles,Gold,29
+C00979,Lisa Martin,Female,2023-06-27,Houston,Silver,44
+C00980,William Johnson,Male,2019-02-11,Chicago,Bronze,59
+C00981,Mary Thomas,Female,2020-06-23,New York,Silver,45
+C00982,Dorothy Wilson,Female,2021-03-12,Houston,Platinum,63
+C00983,Robert Jackson,Male,2020-05-02,Los Angeles,Bronze,42
+C00984,Karen Thomas,Female,2022-05-29,Los Angeles,Silver,29
+C00985,Ashley Martin,Female,2019-08-28,Phoenix,Gold,38
+C00986,Betty Hernandez,Female,2020-05-27,Houston,Bronze,30
+C00987,Daniel Smith,Male,2019-08-30,Chicago,Bronze,33
+C00988,George Smith,Male,2019-11-27,Chicago,Bronze,37
+C00989,Jennifer White,Female,2019-04-11,Los Angeles,Bronze,54
+C00990,Nancy Williams,Female,2023-02-12,New York,Bronze,37
+C00991,Margaret Miller,Other,2021-05-27,New York,Platinum,38
+C00992,Linda Anderson,Female,2020-02-07,Houston,Gold,44
+C00993,Anthony Martin,Male,2020-04-11,Phoenix,Bronze,55
+C00994,Robert Williams,Male,2020-04-15,New York,Silver,63
+C00995,Susan Jackson,Female,2020-03-13,Los Angeles,Gold,51
+C00996,Barbara Anderson,Female,2021-11-26,Phoenix,Silver,36
+C00997,Margaret Davis,Female,2022-08-31,Chicago,Bronze,31
+C00998,Emily Brown,Female,2020-04-18,Phoenix,Silver,18
+C00999,Jennifer Martin,Female,2021-08-19,Los Angeles,Silver,24
+C01000,Thomas White,Male,2021-07-07,Houston,Bronze,41
+C01001,Donald Martinez,Male,2020-07-10,Chicago,Gold,48
+C01002,Barbara Brown,Female,2022-10-05,Chicago,Silver,54
+C01003,George Jones,Male,2021-06-09,Houston,Silver,46
+C01004,Mark Jackson,Male,2021-09-01,Chicago,Bronze,46
+C01005,Patricia Davis,Female,2019-05-13,Chicago,Silver,62
+C01006,David White,Male,2019-11-24,Phoenix,Bronze,43
+C01007,Matthew Moore,Male,2022-12-07,New York,Silver,47
+C01008,Susan Brown,Female,2022-12-15,Phoenix,Bronze,43
+C01009,Daniel Lopez,Male,2021-10-18,Houston,Bronze,49
+C01010,Ashley Johnson,Female,2023-01-19,Los Angeles,Bronze,52
+C01011,Nancy White,Female,2020-03-28,Los Angeles,Silver,20
+C01012,Betty Hernandez,Female,2019-07-13,Phoenix,Platinum,48
+C01013,Mark Martinez,Male,2019-03-13,Los Angeles,Platinum,34
+C01014,Robert Wilson,Male,2019-08-04,Los Angeles,Bronze,63
+C01015,Sarah Garcia,Female,2023-06-19,Houston,Bronze,21
+C01016,Lisa Garcia,Female,2022-08-24,New York,Bronze,30
+C01017,Susan Hernandez,Female,2023-02-05,Chicago,Silver,40
+C01018,George Miller,Male,2019-01-31,Phoenix,Silver,22
+C01019,Nancy Smith,Female,2021-10-02,Phoenix,Silver,27
+C01020,Linda Hernandez,Female,2023-04-01,Houston,Gold,34
+C01021,Barbara Moore,Female,2022-10-31,Phoenix,Platinum,58
+C01022,Richard Hernandez,Male,2020-11-10,Phoenix,Gold,62
+C01023,Jessica Miller,Female,2022-03-19,Phoenix,Bronze,61
+C01024,Mary Wilson,Female,2022-02-24,Phoenix,Gold,37
+C01025,Ashley Hernandez,Female,2020-01-23,Phoenix,Silver,44
+C01026,Daniel Brown,Male,2023-08-13,Chicago,Silver,29
+C01027,David Thompson,Male,2020-07-03,Houston,Silver,45
+C01028,George Brown,Male,2022-09-21,Houston,Silver,23
+C01029,Mark Brown,Male,2019-02-21,New York,Silver,49
+C01030,Dorothy White,Female,2019-11-06,Phoenix,Silver,20
+C01031,Ashley Thompson,Female,2020-10-20,Chicago,Bronze,42
+C01032,Matthew Moore,Male,2022-12-29,New York,Platinum,44
+C01033,Paul Wilson,Male,2022-03-09,Houston,Gold,35
+C01034,James Hernandez,Male,2022-07-12,Chicago,Silver,20
+C01035,Paul Lopez,Male,2022-03-09,New York,Gold,38
+C01036,Joseph Thompson,Male,2023-11-13,Chicago,Platinum,43
+C01037,Melissa Hernandez,Female,2022-05-06,Los Angeles,Gold,26
+C01038,Mary Jackson,Other,2020-06-23,Houston,Silver,28
+C01039,Kenneth Thomas,Male,2020-01-28,Houston,Silver,58
+C01040,Jessica Williams,Female,2020-05-09,Chicago,Platinum,23
+C01041,Andrew Williams,Male,2020-04-20,New York,Bronze,54
+C01042,Matthew Garcia,Male,2020-02-10,Houston,Platinum,33
+C01043,Anthony Martinez,Male,2023-07-22,Los Angeles,Gold,60
+C01044,Kenneth Brown,Male,2020-03-22,New York,Silver,25
+C01045,Lisa Martinez,Female,2020-01-17,Houston,Bronze,29
+C01046,Richard Thomas,Male,2022-01-27,New York,Platinum,24
+C01047,Jennifer Miller,Female,2022-07-09,Houston,Bronze,61
+C01048,Donald Garcia,Male,2021-09-01,Houston,Silver,29
+C01049,George Johnson,Male,2020-07-09,Chicago,Silver,25
+C01050,Melissa Thompson,Other,2023-02-12,Chicago,Platinum,18
+C01051,Jessica Lopez,Female,2021-03-01,Los Angeles,Platinum,19
+C01052,Richard Taylor,Male,2023-05-09,Phoenix,Gold,25
+C01053,William Martinez,Male,2020-03-06,Los Angeles,Bronze,35
+C01054,Andrew Wilson,Male,2019-10-13,Houston,Bronze,47
+C01055,Thomas Garcia,Male,2022-05-27,Houston,Platinum,30
+C01056,Melissa Wilson,Female,2019-11-16,Chicago,Silver,28
+C01057,Ashley Hernandez,Female,2023-02-24,Los Angeles,Silver,56
+C01058,Sandra Miller,Female,2019-12-01,Chicago,Silver,54
+C01059,John Jackson,Male,2019-07-19,Chicago,Silver,34
+C01060,James Brown,Male,2023-07-07,Phoenix,Bronze,29
+C01061,Robert Miller,Male,2020-07-31,Chicago,Bronze,60
+C01062,Daniel Smith,Male,2021-09-03,Chicago,Bronze,63
+C01063,Joseph Thompson,Male,2023-10-30,Chicago,Gold,22
+C01064,Michael Thompson,Male,2020-10-21,Houston,Silver,35
+C01065,Sandra Hernandez,Female,2019-08-21,Phoenix,Silver,38
+C01066,Steven Johnson,Male,2019-06-04,Chicago,Gold,35
+C01067,Daniel White,Male,2022-11-07,Houston,Bronze,42
+C01068,Melissa Smith,Female,2021-06-04,Los Angeles,Bronze,47
+C01069,Andrew Jackson,Male,2022-06-05,Chicago,Bronze,20
+C01070,Sandra Wilson,Female,2019-08-04,Chicago,Silver,35
+C01071,Nancy Martin,Female,2022-05-28,Chicago,Bronze,57
+C01072,Michael Taylor,Male,2022-11-13,New York,Silver,57
+C01073,William Brown,Male,2019-05-29,New York,Gold,38
+C01074,Matthew Thompson,Male,2019-10-01,Houston,Bronze,18
+C01075,Charles Williams,Male,2019-05-14,New York,Bronze,34
+C01076,Susan Jones,Female,2022-03-25,Chicago,Bronze,55
+C01077,Kenneth Hernandez,Male,2021-09-19,Houston,Gold,58
+C01078,Melissa Martin,Female,2023-06-10,Houston,Silver,60
+C01079,Nancy Davis,Other,2021-09-27,Houston,Gold,23
+C01080,Karen Miller,Female,2019-09-15,Chicago,Bronze,62
+C01081,James Miller,Male,2023-03-17,New York,Bronze,47
+C01082,Kenneth Jackson,Male,2019-11-21,Houston,Bronze,50
+C01083,Barbara Jackson,Female,2021-08-26,Chicago,Gold,24
+C01084,Donald Lopez,Male,2022-02-03,Los Angeles,Bronze,50
+C01085,Sandra Garcia,Female,2020-08-06,Los Angeles,Bronze,61
+C01086,Barbara Moore,Female,2023-11-29,Chicago,Silver,24
+C01087,James Martin,Male,2022-12-02,New York,Bronze,60
+C01088,Andrew Williams,Male,2021-04-05,Phoenix,Bronze,40
+C01089,Paul Anderson,Male,2022-05-18,Houston,Silver,21
+C01090,Anthony Hernandez,Male,2019-10-31,Houston,Bronze,30
+C01091,Paul Lopez,Male,2020-07-02,Chicago,Silver,49
+C01092,Michael Davis,Male,2019-06-04,Phoenix,Silver,25
+C01093,Jennifer Thompson,Female,2023-11-23,New York,Bronze,24
+C01094,Michael Davis,Male,2022-06-10,Chicago,Bronze,64
+C01095,Matthew Wilson,Male,2020-06-15,Chicago,Gold,63
+C01096,Paul Lopez,Male,2019-01-10,Phoenix,Bronze,48
+C01097,Jennifer Garcia,Female,2021-01-11,Chicago,Bronze,29
+C01098,Emily Hernandez,Female,2020-03-16,Chicago,Platinum,39
+C01099,David Smith,Male,2021-03-30,New York,Gold,56
+C01100,Karen Martin,Female,2023-12-17,Chicago,Bronze,25
+C01101,Lisa Davis,Female,2023-10-29,New York,Silver,51
+C01102,Michael Wilson,Male,2020-03-31,Phoenix,Gold,65
+C01103,Thomas Martin,Male,2021-12-25,Chicago,Platinum,34
+C01104,Daniel Jackson,Male,2021-12-31,Chicago,Bronze,60
+C01105,James Jones,Male,2021-04-18,Phoenix,Silver,44
+C01106,Mary Davis,Female,2020-03-16,Los Angeles,Bronze,54
+C01107,Anthony Brown,Male,2019-10-05,Houston,Bronze,35
+C01108,Dorothy Garcia,Female,2022-10-27,Phoenix,Platinum,34
+C01109,Sarah Wilson,Female,2022-04-29,Chicago,Silver,30
+C01110,Linda Hernandez,Female,2021-12-02,New York,Gold,47
+C01111,Mary Martin,Female,2021-12-14,Phoenix,Bronze,61
+C01112,Charles Lopez,Male,2020-04-11,Los Angeles,Silver,53
+C01113,Charles Smith,Male,2021-06-14,Los Angeles,Bronze,47
+C01114,Charles Smith,Male,2020-01-19,New York,Bronze,45
+C01115,Barbara Taylor,Female,2019-01-02,Chicago,Bronze,36
+C01116,Jennifer Martinez,Female,2023-10-09,Phoenix,Bronze,27
+C01117,John Martin,Male,2019-09-08,Los Angeles,Bronze,40
+C01118,Linda Martinez,Female,2022-04-15,Los Angeles,Silver,37
+C01119,Daniel White,Male,2023-10-18,Phoenix,Silver,26
+C01120,Charles Wilson,Male,2022-07-17,Los Angeles,Silver,23
+C01121,Margaret Hernandez,Female,2022-12-03,Chicago,Silver,24
+C01122,Betty Moore,Female,2021-08-31,Los Angeles,Silver,40
+C01123,Andrew Smith,Male,2022-06-28,Houston,Silver,44
+C01124,Melissa Jackson,Female,2021-07-28,New York,Gold,41
+C01125,Patricia Thomas,Female,2023-10-24,Los Angeles,Gold,26
+C01126,Dorothy Moore,Female,2022-12-08,Houston,Gold,21
+C01127,Michael Wilson,Male,2019-11-29,New York,Bronze,54
+C01128,Melissa Jackson,Female,2019-07-09,Houston,Bronze,65
+C01129,Emily Jones,Female,2023-05-23,New York,Bronze,32
+C01130,James Martin,Male,2021-08-23,Los Angeles,Gold,57
+C01131,Michael Jackson,Male,2019-01-01,Los Angeles,Bronze,24
+C01132,Paul Moore,Male,2023-01-11,Los Angeles,Bronze,43
+C01133,Susan Davis,Female,2021-07-20,New York,Silver,52
+C01134,Deborah Brown,Female,2022-09-26,Chicago,Gold,45
+C01135,Karen Garcia,Female,2020-07-28,Los Angeles,Bronze,50
+C01136,Michael White,Male,2023-02-01,Phoenix,Bronze,49
+C01137,Linda Moore,Female,2022-04-30,Chicago,Bronze,44
+C01138,Kenneth Thomas,Male,2021-05-30,Houston,Silver,18
+C01139,Matthew Jones,Male,2022-10-12,Phoenix,Bronze,47
+C01140,Paul Miller,Male,2020-05-06,Houston,Bronze,40
+C01141,William Taylor,Male,2019-07-15,Phoenix,Bronze,59
+C01142,Charles Thomas,Male,2020-03-11,Phoenix,Bronze,22
+C01143,David White,Male,2023-01-05,Houston,Silver,63
+C01144,Nancy White,Female,2023-06-21,Phoenix,Bronze,55
+C01145,Mary Garcia,Female,2022-06-08,Chicago,Bronze,32
+C01146,Emily Anderson,Female,2023-04-01,New York,Platinum,32
+C01147,Anthony Hernandez,Male,2020-06-24,Los Angeles,Gold,22
+C01148,Jennifer Moore,Female,2019-12-22,New York,Bronze,41
+C01149,Nancy Brown,Female,2019-04-02,Phoenix,Platinum,62
+C01150,Richard Martinez,Male,2023-11-18,Houston,Silver,49
+C01151,Susan Hernandez,Female,2020-12-01,Houston,Bronze,51
+C01152,Michael Miller,Male,2019-03-17,Los Angeles,Silver,20
+C01153,Melissa Thompson,Female,2022-01-22,Los Angeles,Gold,22
+C01154,Richard White,Male,2023-06-29,Chicago,Silver,48
+C01155,Robert Moore,Male,2023-10-02,Phoenix,Gold,45
+C01156,Dorothy Wilson,Female,2023-11-04,Houston,Bronze,24
+C01157,Daniel Smith,Male,2019-06-09,New York,Silver,32
+C01158,Betty Williams,Female,2021-02-20,Chicago,Bronze,28
+C01159,Paul Lopez,Male,2023-11-23,Chicago,Bronze,50
+C01160,Michael White,Male,2019-06-25,Chicago,Silver,48
+C01161,Sarah Miller,Female,2019-04-11,Chicago,Bronze,39
+C01162,Daniel Johnson,Male,2023-08-27,New York,Gold,33
+C01163,John Taylor,Male,2023-10-18,Houston,Platinum,22
+C01164,Emily Jones,Female,2019-09-08,Houston,Gold,35
+C01165,Matthew Hernandez,Male,2023-03-23,New York,Silver,48
+C01166,Patricia Smith,Female,2020-12-08,Chicago,Bronze,30
+C01167,Mary Thompson,Female,2022-03-24,Phoenix,Silver,48
+C01168,Mark Hernandez,Male,2022-03-18,New York,Silver,53
+C01169,Matthew Taylor,Male,2020-01-02,Los Angeles,Gold,30
+C01170,Robert White,Male,2019-06-29,Chicago,Bronze,18
+C01171,James Davis,Male,2023-07-24,Los Angeles,Silver,21
+C01172,John Anderson,Male,2022-09-24,New York,Bronze,40
+C01173,Barbara Lopez,Female,2021-01-28,Phoenix,Platinum,43
+C01174,Amanda Miller,Female,2019-08-27,Houston,Bronze,49
+C01175,Lisa Taylor,Female,2020-11-15,Chicago,Silver,53
+C01176,Sarah Anderson,Female,2021-01-28,Chicago,Silver,62
+C01177,Mark Lopez,Male,2019-06-17,Phoenix,Bronze,49
+C01178,Paul Davis,Male,2020-03-02,Chicago,Gold,37
+C01179,William Johnson,Male,2022-03-02,Phoenix,Gold,33
+C01180,Mary Martin,Female,2022-11-10,Houston,Platinum,20
+C01181,Robert Johnson,Male,2022-04-08,Chicago,Bronze,35
+C01182,Anthony Moore,Male,2019-02-28,Phoenix,Gold,20
+C01183,Andrew Johnson,Male,2020-07-26,Los Angeles,Silver,60
+C01184,George Anderson,Male,2021-12-16,Chicago,Platinum,34
+C01185,George Hernandez,Male,2019-03-26,Phoenix,Bronze,45
+C01186,Lisa Thompson,Female,2023-09-16,New York,Bronze,47
+C01187,Sarah Garcia,Female,2023-11-01,Houston,Gold,42
+C01188,Mary Martinez,Female,2021-01-10,Houston,Bronze,61
+C01189,Charles Anderson,Male,2021-02-15,Chicago,Gold,54
+C01190,Thomas Lopez,Male,2021-05-02,Houston,Bronze,18
+C01191,David Moore,Male,2021-09-24,New York,Gold,47
+C01192,Matthew Martin,Male,2022-12-20,New York,Bronze,58
+C01193,Robert Martinez,Male,2019-07-02,Phoenix,Silver,57
+C01194,Thomas Martinez,Male,2019-07-18,Phoenix,Silver,34
+C01195,George Johnson,Male,2020-06-26,Houston,Bronze,32
+C01196,Ashley White,Female,2020-07-26,New York,Silver,38
+C01197,Sarah Martinez,Female,2020-12-09,New York,Bronze,19
+C01198,Betty Brown,Female,2019-05-19,Chicago,Silver,22
+C01199,Richard Anderson,Male,2023-05-07,Phoenix,Bronze,54
+C01200,Sandra Wilson,Female,2022-07-16,Chicago,Bronze,27
+C01201,Mark Taylor,Male,2022-01-24,New York,Bronze,48
+C01202,Lisa Jones,Female,2020-05-13,Chicago,Bronze,55
+C01203,Paul Jackson,Male,2020-10-19,New York,Gold,55
+C01204,Patricia Jones,Female,2022-03-23,Chicago,Gold,42
+C01205,Melissa Thompson,Female,2020-11-28,New York,Silver,64
+C01206,Dorothy Johnson,Female,2020-01-12,Houston,Gold,56
+C01207,Sarah Miller,Female,2023-06-05,Houston,Silver,54
+C01208,Betty Davis,Female,2021-10-18,Chicago,Bronze,47
+C01209,Ashley Hernandez,Female,2019-12-25,Chicago,Silver,41
+C01210,Matthew Martin,Male,2023-04-20,New York,Bronze,56
+C01211,William Thompson,Male,2022-07-25,Los Angeles,Bronze,33
+C01212,Lisa Anderson,Female,2020-03-05,Houston,Silver,38
+C01213,William White,Male,2022-08-01,New York,Silver,49
+C01214,Linda Hernandez,Female,2022-11-11,Los Angeles,Bronze,34
+C01215,Barbara Johnson,Female,2022-12-30,Phoenix,Gold,45
+C01216,Dorothy Thomas,Female,2019-08-15,New York,Bronze,45
+C01217,Charles Brown,Male,2023-09-27,Chicago,Bronze,39
+C01218,Patricia Williams,Female,2019-12-01,Chicago,Platinum,65
+C01219,Sandra Wilson,Female,2022-06-24,Chicago,Silver,48
+C01220,Mary White,Female,2023-05-02,Los Angeles,Bronze,55
+C01221,Ashley Garcia,Female,2022-11-10,Chicago,Bronze,50
+C01222,Steven Anderson,Male,2019-10-29,Phoenix,Bronze,21
+C01223,Mark Wilson,Male,2023-06-20,Phoenix,Silver,38
+C01224,John Miller,Male,2020-07-08,Houston,Platinum,45
+C01225,Charles Garcia,Male,2021-09-03,Phoenix,Bronze,25
+C01226,David Wilson,Male,2022-09-25,Chicago,Bronze,34
+C01227,Barbara Brown,Female,2020-12-20,Phoenix,Silver,31
+C01228,Patricia Thompson,Female,2020-06-08,Phoenix,Bronze,52
+C01229,Charles White,Male,2019-03-22,Los Angeles,Bronze,45
+C01230,Linda Brown,Female,2022-11-11,Houston,Bronze,46
+C01231,Thomas Brown,Male,2019-09-27,Houston,Gold,40
+C01232,Nancy Garcia,Female,2020-11-22,New York,Gold,50
+C01233,Robert Anderson,Male,2023-05-13,Chicago,Silver,20
+C01234,Andrew Johnson,Male,2023-06-08,Houston,Bronze,58
+C01235,Joseph Miller,Male,2023-12-27,New York,Bronze,34
+C01236,Charles Jones,Male,2020-08-04,Houston,Gold,30
+C01237,Jennifer Martin,Female,2020-10-27,New York,Bronze,53
+C01238,Thomas Lopez,Male,2020-07-07,Phoenix,Bronze,42
+C01239,David Wilson,Male,2021-12-19,Phoenix,Silver,32
+C01240,Margaret Lopez,Female,2023-03-04,Chicago,Gold,40
+C01241,Charles Hernandez,Male,2019-10-27,Phoenix,Bronze,46
+C01242,Donald Anderson,Male,2022-08-13,Chicago,Bronze,60
+C01243,Steven Martin,Male,2022-05-21,New York,Gold,56
+C01244,Dorothy Miller,Female,2019-03-31,Houston,Bronze,44
+C01245,Nancy Hernandez,Female,2021-10-01,New York,Bronze,43
+C01246,Thomas Martin,Male,2021-03-20,Houston,Platinum,64
+C01247,Mark Davis,Male,2019-05-22,Los Angeles,Bronze,54
+C01248,Deborah Lopez,Female,2019-12-09,Los Angeles,Platinum,39
+C01249,Mary Thomas,Female,2019-03-03,Los Angeles,Platinum,23
+C01250,Patricia Jackson,Female,2023-09-14,Chicago,Bronze,31
+C01251,Margaret Davis,Female,2020-05-02,Chicago,Gold,36
+C01252,Amanda Davis,Female,2021-10-26,Los Angeles,Silver,18
+C01253,Margaret Martin,Female,2023-06-24,New York,Bronze,20
+C01254,Joseph Johnson,Male,2019-03-17,Los Angeles,Bronze,35
+C01255,Barbara Martinez,Female,2022-03-19,New York,Silver,23
+C01256,Andrew Lopez,Male,2022-07-14,New York,Bronze,27
+C01257,Deborah Wilson,Female,2022-04-30,New York,Bronze,38
+C01258,Donald Miller,Male,2019-03-14,Houston,Bronze,24
+C01259,Lisa Hernandez,Female,2023-11-26,Chicago,Silver,23
+C01260,Lisa Thompson,Female,2023-10-09,Los Angeles,Bronze,50
+C01261,Matthew Thompson,Male,2023-03-25,Los Angeles,Gold,63
+C01262,Anthony Davis,Male,2023-12-01,New York,Platinum,46
+C01263,Daniel Jones,Male,2019-12-05,Chicago,Silver,58
+C01264,Steven White,Male,2020-06-09,New York,Bronze,33
+C01265,Kenneth Davis,Male,2023-01-11,New York,Silver,21
+C01266,William Johnson,Male,2021-08-25,Houston,Gold,38
+C01267,Jessica Thompson,Female,2019-01-18,Phoenix,Bronze,49
+C01268,Steven Jackson,Male,2021-01-02,Phoenix,Bronze,53
+C01269,Margaret Jones,Female,2022-08-15,New York,Silver,18
+C01270,Donald Brown,Male,2020-01-13,Los Angeles,Bronze,20
+C01271,Andrew Hernandez,Male,2023-06-18,Houston,Silver,43
+C01272,Thomas Jackson,Male,2022-09-14,New York,Platinum,38
+C01273,Barbara Wilson,Female,2023-10-18,Phoenix,Silver,51
+C01274,Sarah Martin,Female,2022-02-27,Los Angeles,Silver,47
+C01275,Emily Smith,Female,2020-02-25,Los Angeles,Bronze,38
+C01276,James Wilson,Male,2023-01-01,Houston,Bronze,62
+C01277,Daniel Brown,Male,2019-10-19,Los Angeles,Silver,21
+C01278,Andrew Davis,Male,2020-05-01,Phoenix,Bronze,40
+C01279,Sandra White,Female,2021-05-03,New York,Bronze,64
+C01280,Andrew Thompson,Male,2022-06-06,Chicago,Platinum,59
+C01281,Richard Martinez,Male,2020-04-18,Los Angeles,Bronze,29
+C01282,Melissa Thomas,Female,2020-01-29,Chicago,Gold,39
+C01283,Deborah Martin,Female,2021-05-11,Phoenix,Platinum,31
+C01284,Robert Lopez,Male,2020-12-21,Los Angeles,Platinum,27
+C01285,John Jones,Male,2019-01-01,Los Angeles,Bronze,50
+C01286,Paul Brown,Male,2023-01-05,Houston,Bronze,33
+C01287,Matthew Wilson,Male,2022-04-12,Phoenix,Gold,51
+C01288,Sarah Jones,Female,2020-10-26,Chicago,Platinum,45
+C01289,Andrew Hernandez,Male,2021-02-17,Phoenix,Silver,59
+C01290,Matthew Hernandez,Male,2022-02-10,Chicago,Gold,31
+C01291,Susan Smith,Female,2020-08-16,Phoenix,Bronze,30
+C01292,Charles Anderson,Male,2020-08-28,Houston,Bronze,24
+C01293,Deborah Martinez,Female,2023-04-12,Chicago,Platinum,20
+C01294,Sarah Martinez,Female,2022-05-22,Chicago,Bronze,58
+C01295,Nancy Lopez,Other,2019-04-05,New York,Gold,58
+C01296,Andrew Brown,Male,2023-01-10,Houston,Gold,20
+C01297,David Jones,Male,2020-04-20,Chicago,Gold,23
+C01298,Patricia Anderson,Female,2020-01-07,Houston,Bronze,24
+C01299,James Anderson,Male,2020-08-26,Phoenix,Silver,61
+C01300,Melissa Taylor,Female,2020-06-09,Chicago,Platinum,51
+C01301,Patricia Williams,Female,2022-06-06,New York,Silver,30
+C01302,Donald Johnson,Male,2021-04-08,Phoenix,Bronze,35
+C01303,James Wilson,Male,2023-04-20,Phoenix,Silver,35
+C01304,Robert White,Male,2021-11-26,Phoenix,Silver,47
+C01305,Robert Garcia,Male,2019-10-09,New York,Bronze,38
+C01306,Mary Miller,Female,2019-03-04,Phoenix,Gold,58
+C01307,Richard Jones,Male,2021-02-05,Chicago,Bronze,37
+C01308,William White,Male,2021-06-10,New York,Bronze,38
+C01309,Richard Garcia,Male,2020-08-07,Houston,Bronze,36
+C01310,Betty White,Female,2021-04-01,Chicago,Bronze,41
+C01311,Susan Johnson,Female,2023-06-14,Chicago,Silver,55
+C01312,Mark Taylor,Male,2023-11-02,Houston,Bronze,59
+C01313,Thomas Williams,Male,2023-04-15,Chicago,Silver,50
+C01314,Michael Jackson,Male,2022-12-24,Los Angeles,Bronze,60
+C01315,Matthew White,Male,2022-12-22,Los Angeles,Silver,42
+C01316,Betty Smith,Female,2021-09-28,Phoenix,Gold,28
+C01317,Michael Garcia,Male,2021-11-12,Houston,Silver,40
+C01318,James Moore,Male,2023-08-26,Chicago,Bronze,57
+C01319,Emily Davis,Female,2022-09-13,Houston,Gold,34
+C01320,Lisa Johnson,Female,2023-02-08,Chicago,Silver,32
+C01321,Kenneth Thomas,Male,2022-08-16,Phoenix,Gold,55
+C01322,George Jackson,Male,2020-05-31,New York,Platinum,30
+C01323,Patricia Williams,Female,2020-02-08,Phoenix,Silver,37
+C01324,Ashley Smith,Female,2022-11-26,Los Angeles,Bronze,60
+C01325,Robert Garcia,Male,2020-06-18,Los Angeles,Bronze,33
+C01326,Andrew Taylor,Male,2021-01-30,Los Angeles,Bronze,18
+C01327,Anthony Miller,Male,2019-11-07,Houston,Silver,48
+C01328,Linda Thomas,Female,2021-01-24,Houston,Gold,26
+C01329,Nancy Wilson,Female,2020-02-19,Chicago,Bronze,61
+C01330,Emily White,Female,2023-07-18,Houston,Bronze,19
+C01331,Betty Taylor,Female,2020-07-07,Los Angeles,Gold,39
+C01332,Karen Jones,Female,2022-05-22,Phoenix,Platinum,49
+C01333,Daniel Thomas,Male,2021-07-27,Los Angeles,Silver,59
+C01334,Steven Johnson,Male,2021-06-04,Los Angeles,Bronze,34
+C01335,Michael Moore,Male,2022-05-22,Houston,Silver,23
+C01336,Margaret Smith,Female,2019-11-12,Chicago,Silver,28
+C01337,Donald Smith,Male,2023-04-25,Chicago,Bronze,49
+C01338,Thomas Brown,Male,2019-06-19,Houston,Bronze,56
+C01339,Andrew Taylor,Male,2023-01-11,Houston,Gold,25
+C01340,David Jones,Other,2023-07-10,Los Angeles,Gold,18
+C01341,Deborah Moore,Female,2021-03-12,Chicago,Bronze,45
+C01342,Steven Moore,Male,2019-05-04,New York,Bronze,41
+C01343,Nancy Wilson,Female,2022-02-21,New York,Bronze,19
+C01344,James Moore,Male,2021-06-30,Phoenix,Bronze,38
+C01345,Patricia Thompson,Female,2019-12-13,Chicago,Bronze,65
+C01346,William Jones,Male,2019-09-19,Houston,Silver,58
+C01347,Donald Lopez,Male,2021-05-03,Houston,Bronze,33
+C01348,Betty Johnson,Female,2019-05-07,Phoenix,Bronze,27
+C01349,David Anderson,Other,2019-11-11,Phoenix,Bronze,58
+C01350,Thomas Williams,Male,2019-03-11,Chicago,Bronze,45
+C01351,Lisa Lopez,Female,2023-11-09,New York,Bronze,50
+C01352,Patricia Taylor,Female,2021-01-27,Phoenix,Silver,54
+C01353,David Martinez,Male,2022-09-19,Houston,Bronze,50
+C01354,Sarah Smith,Female,2020-07-17,New York,Silver,44
+C01355,Thomas Martinez,Male,2022-07-11,Los Angeles,Silver,47
+C01356,Karen Smith,Female,2021-09-15,Phoenix,Bronze,63
+C01357,George Moore,Male,2021-06-13,Chicago,Gold,55
+C01358,Emily Thompson,Female,2021-10-18,Houston,Silver,18
+C01359,William Moore,Male,2021-12-12,Chicago,Gold,65
+C01360,Thomas Thomas,Male,2020-06-12,Houston,Silver,20
+C01361,Betty Williams,Female,2023-02-20,Phoenix,Silver,31
+C01362,Donald Moore,Male,2021-06-25,Phoenix,Gold,19
+C01363,Melissa Hernandez,Female,2020-06-02,Los Angeles,Silver,44
+C01364,Emily Davis,Female,2021-06-01,New York,Silver,42
+C01365,Richard Miller,Male,2020-01-19,Phoenix,Bronze,25
+C01366,Anthony Thompson,Male,2020-05-09,Phoenix,Gold,44
+C01367,Sarah Anderson,Female,2022-07-23,Chicago,Platinum,41
+C01368,Amanda Thomas,Female,2021-09-14,New York,Silver,32
+C01369,Donald Garcia,Male,2022-12-12,Houston,Bronze,29
+C01370,Donald Garcia,Male,2023-07-13,Houston,Gold,61
+C01371,Mark Miller,Male,2022-07-22,New York,Platinum,58
+C01372,Dorothy Williams,Female,2020-03-06,New York,Silver,56
+C01373,Karen Garcia,Female,2019-03-12,Phoenix,Bronze,54
+C01374,Deborah Thomas,Female,2022-02-24,Houston,Bronze,53
+C01375,Karen Garcia,Female,2020-05-16,Phoenix,Silver,48
+C01376,James Miller,Male,2021-06-29,Los Angeles,Bronze,54
+C01377,David Moore,Male,2022-10-10,Houston,Platinum,50
+C01378,Susan Davis,Female,2021-10-26,New York,Gold,47
+C01379,Mark Jackson,Male,2019-04-11,New York,Silver,48
+C01380,Andrew Brown,Male,2022-07-19,Houston,Platinum,63
+C01381,Ashley Martin,Female,2023-07-18,Phoenix,Gold,64
+C01382,John Taylor,Male,2022-05-22,New York,Gold,43
+C01383,Linda Brown,Female,2022-09-29,Phoenix,Silver,27
+C01384,Linda Garcia,Female,2023-12-07,Chicago,Gold,41
+C01385,Emily Miller,Female,2020-03-17,Houston,Platinum,34
+C01386,Steven Davis,Male,2019-08-19,New York,Silver,34
+C01387,Donald Martinez,Male,2022-10-13,Chicago,Bronze,54
+C01388,Lisa Smith,Female,2020-03-11,Chicago,Bronze,32
+C01389,Susan White,Female,2021-06-23,Chicago,Bronze,58
+C01390,William Jones,Male,2022-09-28,Chicago,Silver,27
+C01391,Joseph Smith,Male,2022-04-08,Phoenix,Bronze,31
+C01392,Matthew Jackson,Male,2023-12-21,Phoenix,Bronze,65
+C01393,William White,Male,2020-06-13,Phoenix,Platinum,50
+C01394,Emily Garcia,Female,2022-03-20,Chicago,Gold,51
+C01395,Robert Anderson,Male,2022-03-26,Houston,Bronze,32
+C01396,Michael Miller,Male,2020-04-11,Chicago,Bronze,40
+C01397,Paul Davis,Male,2019-02-07,Houston,Gold,65
+C01398,Michael Anderson,Male,2019-04-13,Los Angeles,Bronze,50
+C01399,Andrew Williams,Male,2023-07-20,New York,Gold,21
+C01400,Susan Davis,Female,2021-02-09,Houston,Bronze,32
+C01401,Robert Miller,Male,2021-04-05,Houston,Silver,64
+C01402,Patricia Miller,Female,2020-02-16,New York,Silver,32
+C01403,Linda Thompson,Female,2023-12-11,Los Angeles,Silver,21
+C01404,Linda Moore,Female,2019-08-15,Chicago,Bronze,23
+C01405,George Martin,Male,2023-08-13,Houston,Silver,37
+C01406,Michael Moore,Male,2022-08-28,Phoenix,Gold,59
+C01407,Sarah Hernandez,Female,2022-11-18,Los Angeles,Platinum,56
+C01408,Steven Jackson,Male,2020-07-02,Chicago,Bronze,36
+C01409,Thomas Thompson,Male,2023-07-12,Chicago,Bronze,50
+C01410,Susan Martin,Female,2019-12-13,Chicago,Platinum,18
+C01411,Susan Garcia,Female,2023-05-03,Chicago,Silver,22
+C01412,Ashley Anderson,Female,2019-10-21,Houston,Platinum,58
+C01413,Karen Miller,Female,2020-08-24,Phoenix,Gold,37
+C01414,Charles Lopez,Male,2023-07-06,Phoenix,Silver,31
+C01415,Margaret Garcia,Female,2021-10-02,Phoenix,Bronze,28
+C01416,Emily Lopez,Female,2021-10-08,Phoenix,Platinum,44
+C01417,Charles Taylor,Male,2021-03-27,Chicago,Silver,27
+C01418,Daniel Moore,Male,2022-01-04,Chicago,Gold,37
+C01419,Margaret Johnson,Female,2022-07-19,Houston,Bronze,44
+C01420,Sarah Smith,Female,2020-03-10,Chicago,Platinum,63
+C01421,Matthew Smith,Male,2021-03-06,Los Angeles,Bronze,38
+C01422,Jessica Miller,Female,2021-10-08,Houston,Silver,57
+C01423,Joseph Garcia,Male,2021-05-01,Phoenix,Bronze,38
+C01424,Patricia Thomas,Female,2022-12-30,Houston,Platinum,62
+C01425,Michael Johnson,Male,2023-12-26,Houston,Bronze,58
+C01426,Charles Brown,Male,2022-02-21,Chicago,Silver,48
+C01427,Sandra Jones,Female,2019-08-18,Los Angeles,Bronze,27
+C01428,Donald Davis,Male,2020-09-13,Phoenix,Silver,38
+C01429,Lisa Smith,Female,2021-03-21,Phoenix,Silver,26
+C01430,Betty Moore,Female,2021-09-02,New York,Platinum,65
+C01431,Matthew Anderson,Male,2022-12-26,Los Angeles,Bronze,30
+C01432,Mark Hernandez,Male,2019-03-13,Chicago,Bronze,43
+C01433,Dorothy Taylor,Female,2023-06-30,Houston,Bronze,19
+C01434,Daniel Thompson,Male,2019-04-10,Phoenix,Platinum,49
+C01435,Melissa Williams,Female,2019-07-28,Chicago,Gold,53
+C01436,Jennifer White,Female,2023-05-15,New York,Gold,47
+C01437,Sandra Martinez,Female,2020-08-16,Phoenix,Gold,47
+C01438,Jennifer Garcia,Female,2020-04-17,Houston,Silver,59
+C01439,Mark Smith,Male,2023-06-28,Phoenix,Gold,43
+C01440,Joseph Anderson,Male,2022-04-26,Phoenix,Bronze,45
+C01441,Daniel Thompson,Male,2020-11-23,Los Angeles,Silver,47
+C01442,Melissa Jones,Female,2023-11-20,Los Angeles,Platinum,30
+C01443,Andrew Lopez,Male,2020-07-18,Los Angeles,Bronze,20
+C01444,Nancy Davis,Female,2019-08-04,Los Angeles,Bronze,60
+C01445,Thomas Davis,Male,2020-05-22,Los Angeles,Silver,31
+C01446,Anthony Smith,Male,2022-09-27,Chicago,Bronze,46
+C01447,Richard Miller,Male,2022-10-20,Los Angeles,Silver,42
+C01448,Dorothy White,Female,2019-10-16,Phoenix,Platinum,64
+C01449,Steven Lopez,Male,2020-10-13,Phoenix,Bronze,40
+C01450,Paul Taylor,Male,2020-10-15,Chicago,Platinum,48
+C01451,Anthony Hernandez,Male,2022-11-20,Chicago,Bronze,43
+C01452,Mark Wilson,Male,2021-08-21,New York,Gold,32
+C01453,Mary Martinez,Female,2022-04-25,New York,Gold,64
+C01454,James Jones,Male,2021-02-12,Chicago,Bronze,51
+C01455,John Lopez,Male,2022-12-30,Los Angeles,Gold,31
+C01456,Mark Garcia,Male,2022-07-12,Chicago,Gold,29
+C01457,Linda Garcia,Female,2020-07-18,Phoenix,Bronze,19
+C01458,Thomas Lopez,Male,2022-06-08,Houston,Silver,38
+C01459,Emily Johnson,Female,2021-10-27,New York,Bronze,65
+C01460,Deborah Jackson,Female,2019-05-25,Los Angeles,Silver,28
+C01461,Robert Hernandez,Male,2021-12-19,Los Angeles,Gold,22
+C01462,Amanda Moore,Female,2022-12-13,New York,Platinum,26
+C01463,Emily Martinez,Female,2019-01-03,Phoenix,Bronze,26
+C01464,Linda Martin,Female,2022-02-09,Chicago,Platinum,49
+C01465,William Davis,Male,2020-11-12,Phoenix,Silver,60
+C01466,Deborah Brown,Female,2022-06-08,New York,Bronze,33
+C01467,Donald White,Male,2021-07-24,Los Angeles,Bronze,51
+C01468,Barbara Anderson,Female,2021-04-08,Phoenix,Gold,45
+C01469,Patricia Thomas,Female,2023-12-06,Chicago,Gold,58
+C01470,Patricia Davis,Female,2020-07-19,New York,Bronze,28
+C01471,Matthew Miller,Male,2023-11-13,Houston,Silver,58
+C01472,Thomas Thompson,Male,2020-10-29,Phoenix,Silver,46
+C01473,Nancy Garcia,Female,2023-05-18,New York,Platinum,34
+C01474,Ashley Brown,Female,2023-02-23,Chicago,Gold,60
+C01475,Betty Hernandez,Female,2021-03-27,Chicago,Bronze,59
+C01476,Ashley Brown,Female,2020-01-28,New York,Bronze,25
+C01477,Lisa Moore,Female,2020-01-28,Phoenix,Gold,45
+C01478,Margaret Garcia,Other,2019-09-15,Phoenix,Platinum,43
+C01479,Richard Taylor,Male,2020-11-20,Phoenix,Gold,51
+C01480,Dorothy Johnson,Female,2023-10-15,Phoenix,Gold,52
+C01481,Susan Brown,Female,2023-07-08,Chicago,Bronze,61
+C01482,Barbara Thompson,Female,2020-12-03,Los Angeles,Gold,57
+C01483,Margaret Wilson,Female,2021-05-15,Houston,Bronze,42
+C01484,Thomas Wilson,Other,2023-01-20,Phoenix,Silver,18
+C01485,Richard Lopez,Male,2023-09-23,New York,Silver,56
+C01486,Steven Garcia,Male,2022-06-28,New York,Bronze,33
+C01487,Jessica Davis,Female,2022-07-25,Houston,Bronze,40
+C01488,Anthony Brown,Male,2021-05-08,New York,Bronze,64
+C01489,Barbara Martinez,Female,2020-04-16,Phoenix,Bronze,38
+C01490,Linda Lopez,Female,2023-06-06,New York,Bronze,48
+C01491,Amanda Lopez,Female,2021-07-17,Los Angeles,Gold,47
+C01492,John Thomas,Male,2021-11-26,Los Angeles,Gold,34
+C01493,Emily Wilson,Female,2022-08-16,New York,Silver,32
+C01494,Steven Hernandez,Male,2022-01-31,Phoenix,Bronze,44
+C01495,Sarah Martinez,Female,2021-05-20,New York,Gold,58
+C01496,Robert Smith,Male,2021-02-19,Phoenix,Platinum,24
+C01497,Mark Martinez,Male,2023-03-18,Houston,Bronze,24
+C01498,Dorothy Thomas,Female,2023-10-24,Houston,Bronze,20
+C01499,Michael Davis,Male,2019-11-03,Phoenix,Silver,41
+C01500,Patricia Taylor,Female,2022-08-03,Phoenix,Gold,59
+C01501,Patricia Thomas,Female,2023-11-17,Houston,Gold,58
+C01502,Susan Smith,Female,2019-03-21,Houston,Bronze,58
+C01503,Donald Martinez,Male,2022-07-04,Chicago,Gold,40
+C01504,John Anderson,Male,2021-02-11,Chicago,Bronze,47
+C01505,Amanda Anderson,Female,2020-05-13,Chicago,Bronze,65
+C01506,Jennifer Anderson,Female,2020-06-18,Houston,Gold,40
+C01507,Lisa Brown,Female,2020-12-08,Phoenix,Bronze,64
+C01508,Susan Thomas,Female,2021-08-30,New York,Silver,30
+C01509,Ashley Taylor,Female,2023-02-17,Chicago,Bronze,28
+C01510,Charles Jackson,Male,2019-12-13,Los Angeles,Bronze,62
+C01511,Anthony Lopez,Male,2023-10-06,Phoenix,Silver,62
+C01512,Anthony Martinez,Male,2019-10-09,New York,Gold,27
+C01513,Margaret Brown,Female,2022-05-17,Chicago,Bronze,65
+C01514,Karen Moore,Female,2019-09-13,Chicago,Bronze,20
+C01515,Karen Davis,Female,2021-04-30,Los Angeles,Bronze,33
+C01516,Charles Davis,Male,2020-11-01,Los Angeles,Bronze,19
+C01517,Andrew White,Male,2022-09-25,Phoenix,Silver,30
+C01518,Kenneth Thomas,Male,2023-05-31,Houston,Silver,65
+C01519,Sarah Hernandez,Female,2022-02-04,Chicago,Gold,41
+C01520,Betty Williams,Female,2020-12-30,Chicago,Bronze,62
+C01521,Kenneth Jones,Male,2021-02-06,Los Angeles,Gold,24
+C01522,Deborah Davis,Female,2023-07-22,Phoenix,Bronze,64
+C01523,Karen Moore,Female,2023-09-18,Chicago,Gold,35
+C01524,Emily White,Female,2022-11-30,Phoenix,Silver,45
+C01525,Ashley Thompson,Female,2020-06-16,New York,Bronze,59
+C01526,Barbara Williams,Female,2023-01-20,New York,Gold,61
+C01527,James Lopez,Male,2021-05-07,Chicago,Silver,49
+C01528,Jessica Moore,Female,2020-02-19,Houston,Platinum,37
+C01529,Melissa Jackson,Female,2021-08-04,Phoenix,Bronze,44
+C01530,Mary Lopez,Female,2023-12-29,Los Angeles,Bronze,21
+C01531,Dorothy Hernandez,Female,2019-08-09,Chicago,Silver,64
+C01532,Susan Garcia,Female,2021-02-11,Los Angeles,Platinum,19
+C01533,Margaret White,Female,2021-10-27,Houston,Bronze,62
+C01534,Barbara Anderson,Female,2022-03-30,Houston,Silver,29
+C01535,Thomas Martin,Male,2020-07-05,New York,Gold,23
+C01536,Robert Anderson,Male,2020-09-15,Los Angeles,Bronze,46
+C01537,Patricia Thompson,Female,2019-03-05,New York,Gold,21
+C01538,Paul Smith,Male,2019-01-06,Chicago,Platinum,18
+C01539,Kenneth White,Male,2019-03-27,Chicago,Gold,41
+C01540,Emily Garcia,Female,2020-08-08,New York,Silver,52
+C01541,Charles Lopez,Other,2019-10-29,Los Angeles,Gold,41
+C01542,David Jackson,Male,2022-10-01,Phoenix,Gold,27
+C01543,Michael Wilson,Male,2019-05-01,Houston,Platinum,36
+C01544,David Brown,Male,2020-07-14,New York,Silver,49
+C01545,Amanda Thomas,Female,2021-11-14,Los Angeles,Platinum,46
+C01546,Betty Jones,Female,2019-07-23,New York,Bronze,33
+C01547,John Martin,Male,2022-06-10,Houston,Bronze,60
+C01548,Daniel Jackson,Male,2023-06-04,Phoenix,Bronze,54
+C01549,Amanda Miller,Female,2023-06-09,Phoenix,Bronze,36
+C01550,Mark Thomas,Male,2020-09-07,Chicago,Bronze,45
+C01551,Daniel Thompson,Male,2019-03-16,Houston,Silver,48
+C01552,Charles Johnson,Male,2023-03-27,Phoenix,Platinum,51
+C01553,Kenneth White,Male,2019-10-05,New York,Bronze,52
+C01554,Patricia Wilson,Female,2019-05-29,Los Angeles,Silver,42
+C01555,Mark Jackson,Male,2023-07-29,Los Angeles,Bronze,51
+C01556,Michael Moore,Male,2019-05-19,Los Angeles,Platinum,29
+C01557,Emily Miller,Female,2019-08-15,Los Angeles,Gold,54
+C01558,Michael Wilson,Male,2022-03-31,Phoenix,Bronze,18
+C01559,Margaret Davis,Female,2021-10-24,Los Angeles,Platinum,41
+C01560,George Martinez,Male,2020-03-16,Houston,Silver,45
+C01561,Sarah Hernandez,Female,2021-08-20,Phoenix,Bronze,62
+C01562,Richard Martin,Male,2022-07-09,New York,Bronze,34
+C01563,Donald Jones,Male,2022-05-13,Phoenix,Bronze,60
+C01564,Steven Williams,Male,2019-12-22,Los Angeles,Bronze,29
+C01565,Anthony Wilson,Male,2021-03-07,Phoenix,Platinum,52
+C01566,Michael Thomas,Male,2023-11-07,Chicago,Bronze,30
+C01567,Dorothy Johnson,Female,2023-03-28,New York,Bronze,48
+C01568,Anthony Garcia,Male,2020-12-11,Houston,Bronze,23
+C01569,William Moore,Male,2022-02-26,New York,Silver,56
+C01570,Jessica Miller,Female,2023-04-14,New York,Gold,64
+C01571,Daniel Martinez,Male,2019-02-14,Chicago,Platinum,29
+C01572,William Wilson,Male,2019-06-25,Chicago,Bronze,50
+C01573,Donald Smith,Male,2020-08-26,New York,Bronze,46
+C01574,Susan Jones,Female,2023-07-01,New York,Bronze,53
+C01575,Andrew Smith,Male,2019-07-22,Chicago,Silver,57
+C01576,Barbara Brown,Female,2021-09-26,Los Angeles,Bronze,61
+C01577,Anthony White,Male,2019-01-11,Los Angeles,Silver,25
+C01578,Jennifer Smith,Female,2019-04-20,Los Angeles,Silver,59
+C01579,Deborah Thomas,Female,2022-04-14,Houston,Bronze,46
+C01580,Ashley Martin,Female,2021-02-15,Los Angeles,Bronze,27
+C01581,Lisa Garcia,Female,2022-01-23,Houston,Bronze,42
+C01582,Sandra Wilson,Female,2022-02-17,Chicago,Gold,27
+C01583,Anthony Jones,Male,2023-08-10,New York,Gold,58
+C01584,Mark Moore,Male,2022-06-14,Chicago,Silver,64
+C01585,Daniel Anderson,Male,2022-04-21,Houston,Silver,60
+C01586,Richard Miller,Male,2023-07-05,Houston,Bronze,54
+C01587,Amanda Hernandez,Female,2022-02-03,Los Angeles,Platinum,41
+C01588,Andrew Moore,Male,2020-03-15,Chicago,Silver,37
+C01589,Andrew Garcia,Male,2020-09-11,Phoenix,Bronze,60
+C01590,Ashley Smith,Female,2022-09-03,Houston,Bronze,62
+C01591,Kenneth Jones,Male,2020-06-19,Los Angeles,Bronze,59
+C01592,Nancy Moore,Female,2020-09-06,Houston,Bronze,33
+C01593,Deborah Jackson,Female,2023-02-21,Los Angeles,Bronze,65
+C01594,Mary Johnson,Female,2019-07-23,New York,Bronze,39
+C01595,William Miller,Male,2022-01-13,New York,Bronze,37
+C01596,Donald Martin,Male,2021-09-07,New York,Silver,39
+C01597,David Jones,Male,2019-11-12,Los Angeles,Gold,28
+C01598,Andrew Martin,Male,2022-06-26,Houston,Bronze,62
+C01599,Barbara Moore,Female,2021-02-13,Chicago,Platinum,24
+C01600,Steven Garcia,Male,2022-03-29,New York,Silver,19
+C01601,Melissa White,Female,2022-01-30,Phoenix,Platinum,29
+C01602,Melissa Taylor,Female,2023-03-08,Houston,Platinum,39
+C01603,Deborah Wilson,Female,2019-08-03,New York,Bronze,61
+C01604,Jessica Anderson,Female,2019-12-11,Houston,Platinum,36
+C01605,Kenneth Hernandez,Male,2023-03-18,New York,Bronze,28
+C01606,Dorothy Smith,Female,2020-08-19,Chicago,Silver,49
+C01607,Lisa Martinez,Female,2019-06-11,Chicago,Silver,46
+C01608,Donald Williams,Male,2021-04-27,Houston,Gold,39
+C01609,James Wilson,Male,2019-02-03,Phoenix,Gold,42
+C01610,Sarah Thomas,Female,2022-03-26,Los Angeles,Bronze,39
+C01611,Nancy Jones,Female,2022-08-11,Chicago,Silver,40
+C01612,Jennifer Moore,Female,2023-02-27,Chicago,Bronze,60
+C01613,Linda Smith,Female,2021-09-16,New York,Gold,26
+C01614,William White,Male,2020-07-04,New York,Bronze,33
+C01615,Nancy Lopez,Female,2019-01-30,New York,Gold,22
+C01616,Nancy Brown,Female,2022-12-02,Los Angeles,Silver,57
+C01617,Robert Garcia,Male,2020-03-06,New York,Bronze,23
+C01618,Robert Thomas,Male,2020-12-25,New York,Bronze,38
+C01619,Steven Lopez,Male,2020-09-04,Phoenix,Gold,63
+C01620,Paul Smith,Male,2019-07-10,Los Angeles,Silver,23
+C01621,Ashley White,Other,2021-03-28,Los Angeles,Bronze,30
+C01622,Nancy Davis,Female,2019-08-24,New York,Bronze,28
+C01623,Dorothy Wilson,Female,2021-07-10,Houston,Silver,31
+C01624,Paul Smith,Male,2021-12-07,Houston,Gold,59
+C01625,Robert Martin,Male,2020-05-16,Chicago,Bronze,40
+C01626,Ashley Smith,Female,2022-08-29,New York,Bronze,65
+C01627,George Williams,Male,2022-01-28,New York,Silver,54
+C01628,Emily Taylor,Female,2021-09-18,Chicago,Silver,49
+C01629,Jessica Davis,Female,2021-08-31,Chicago,Silver,55
+C01630,Donald Anderson,Male,2022-01-01,Los Angeles,Silver,43
+C01631,Barbara Thomas,Female,2022-12-13,Houston,Silver,44
+C01632,Barbara Thomas,Female,2021-09-11,New York,Bronze,41
+C01633,David Miller,Male,2020-06-20,New York,Bronze,24
+C01634,Richard Smith,Male,2020-04-10,New York,Bronze,49
+C01635,Richard Martin,Male,2023-09-03,Houston,Bronze,56
+C01636,John Taylor,Male,2020-05-11,Houston,Silver,24
+C01637,Barbara Davis,Female,2023-01-21,New York,Silver,51
+C01638,Lisa Garcia,Female,2022-07-17,Houston,Silver,39
+C01639,Deborah Jones,Female,2022-08-25,Chicago,Silver,51
+C01640,William Taylor,Male,2022-03-05,Chicago,Gold,54
+C01641,Joseph Miller,Male,2022-10-21,Houston,Bronze,38
+C01642,Emily Martinez,Female,2021-08-29,Los Angeles,Silver,53
+C01643,Barbara Anderson,Female,2021-10-25,Chicago,Silver,58
+C01644,Deborah Davis,Other,2020-12-12,Phoenix,Gold,33
+C01645,Linda Thomas,Female,2019-03-02,Houston,Bronze,27
+C01646,George Martinez,Male,2023-07-03,Phoenix,Silver,22
+C01647,Thomas Jones,Male,2020-08-23,Houston,Gold,41
+C01648,Daniel Taylor,Male,2020-11-24,New York,Silver,57
+C01649,Emily Anderson,Female,2021-04-27,Houston,Platinum,56
+C01650,George Lopez,Male,2020-08-07,Phoenix,Platinum,25
+C01651,Dorothy Wilson,Female,2020-08-28,Chicago,Silver,33
+C01652,Richard Jones,Male,2019-02-03,Houston,Bronze,36
+C01653,Donald Jones,Male,2022-08-02,New York,Bronze,46
+C01654,Linda Martinez,Female,2022-10-11,Houston,Gold,47
+C01655,Kenneth Jones,Male,2022-11-09,Chicago,Bronze,38
+C01656,Matthew Jones,Male,2021-10-11,New York,Silver,38
+C01657,Margaret Garcia,Female,2022-09-11,Houston,Silver,38
+C01658,Nancy White,Female,2019-04-18,Phoenix,Silver,54
+C01659,Barbara Martin,Female,2019-06-23,New York,Gold,22
+C01660,Joseph Williams,Male,2019-11-14,New York,Silver,41
+C01661,Robert Martin,Male,2022-07-06,Chicago,Bronze,43
+C01662,Anthony Jones,Male,2022-07-17,Phoenix,Silver,53
+C01663,Sarah Davis,Female,2022-10-25,New York,Bronze,33
+C01664,Karen Martin,Female,2023-09-29,New York,Bronze,20
+C01665,William Jackson,Male,2020-12-23,New York,Platinum,38
+C01666,Charles Martin,Male,2022-05-14,Chicago,Bronze,19
+C01667,Patricia Miller,Female,2019-05-05,Houston,Bronze,32
+C01668,Kenneth Taylor,Male,2021-12-21,Phoenix,Gold,50
+C01669,George Wilson,Male,2020-04-18,Los Angeles,Silver,35
+C01670,Richard Lopez,Male,2022-04-21,Phoenix,Bronze,34
+C01671,Charles Moore,Male,2021-03-19,Chicago,Bronze,19
+C01672,Jessica Garcia,Female,2023-05-10,Houston,Gold,25
+C01673,Richard Miller,Male,2019-11-28,New York,Gold,54
+C01674,Lisa Taylor,Female,2020-10-27,Chicago,Gold,47
+C01675,Sarah Miller,Female,2020-12-14,New York,Silver,50
+C01676,Daniel Miller,Male,2020-11-03,New York,Gold,49
+C01677,Deborah Garcia,Female,2022-11-23,Houston,Platinum,49
+C01678,Karen Williams,Female,2021-06-05,Houston,Gold,57
+C01679,Mary Martinez,Female,2019-04-07,New York,Silver,18
+C01680,Michael Johnson,Male,2023-11-01,Chicago,Platinum,41
+C01681,Betty Williams,Female,2022-08-07,Los Angeles,Gold,35
+C01682,Linda Wilson,Female,2021-07-13,Houston,Gold,27
+C01683,James Martin,Male,2020-09-27,Chicago,Bronze,29
+C01684,Kenneth Thompson,Male,2020-12-30,New York,Silver,35
+C01685,William Miller,Male,2023-10-16,Chicago,Silver,22
+C01686,Sandra Moore,Female,2019-04-03,Houston,Bronze,44
+C01687,William Martinez,Other,2023-11-27,Los Angeles,Gold,63
+C01688,Mary Martinez,Female,2020-09-21,Chicago,Gold,30
+C01689,Patricia White,Female,2019-01-07,Los Angeles,Platinum,45
+C01690,Patricia Wilson,Female,2023-02-26,Phoenix,Gold,41
+C01691,Amanda Garcia,Female,2022-11-18,New York,Gold,41
+C01692,Betty Hernandez,Female,2023-08-08,Chicago,Bronze,29
+C01693,Charles Jones,Male,2022-12-23,Phoenix,Platinum,61
+C01694,Sandra Williams,Female,2022-06-21,Houston,Bronze,56
+C01695,Ashley Moore,Female,2021-10-30,Chicago,Platinum,52
+C01696,Barbara Lopez,Female,2021-12-03,Los Angeles,Silver,39
+C01697,Melissa Jones,Female,2020-05-10,Phoenix,Gold,31
+C01698,Paul Thompson,Male,2022-07-25,Houston,Gold,20
+C01699,Andrew Garcia,Male,2019-01-13,Phoenix,Bronze,65
+C01700,Nancy Taylor,Female,2021-11-06,Los Angeles,Silver,53
+C01701,Betty Hernandez,Female,2022-05-05,Houston,Bronze,62
+C01702,Richard Smith,Male,2022-11-10,New York,Bronze,50
+C01703,Charles Davis,Male,2019-08-13,New York,Silver,43
+C01704,Jessica Smith,Female,2023-08-11,Chicago,Silver,19
+C01705,Robert Williams,Male,2020-10-05,New York,Bronze,34
+C01706,Margaret Smith,Female,2022-08-03,Houston,Platinum,62
+C01707,Charles Hernandez,Male,2022-04-19,Phoenix,Bronze,57
+C01708,Patricia Martin,Female,2019-05-11,Phoenix,Silver,38
+C01709,Anthony Thompson,Male,2023-01-11,Chicago,Gold,24
+C01710,Emily Smith,Female,2021-12-26,Houston,Platinum,42
+C01711,Amanda Williams,Female,2019-09-27,New York,Silver,23
+C01712,Nancy Davis,Female,2019-10-20,Los Angeles,Silver,56
+C01713,Donald Miller,Male,2021-08-20,Houston,Silver,57
+C01714,James Jackson,Male,2020-02-03,Houston,Silver,46
+C01715,Kenneth Thomas,Male,2022-12-10,New York,Bronze,52
+C01716,Steven Garcia,Male,2020-01-01,New York,Silver,46
+C01717,Nancy Hernandez,Female,2019-05-04,Chicago,Bronze,25
+C01718,Emily Davis,Female,2019-08-27,Los Angeles,Bronze,18
+C01719,Patricia Wilson,Female,2020-07-02,Houston,Gold,29
+C01720,Joseph Moore,Male,2023-12-19,Los Angeles,Gold,62
+C01721,George White,Male,2020-03-08,New York,Bronze,19
+C01722,Paul Taylor,Male,2022-08-28,Houston,Bronze,58
+C01723,Mark Thompson,Male,2023-01-11,Phoenix,Bronze,62
+C01724,Matthew Martin,Male,2019-09-29,Houston,Bronze,43
+C01725,Susan Williams,Female,2020-03-03,Phoenix,Bronze,54
+C01726,Amanda Taylor,Female,2022-10-17,Los Angeles,Silver,53
+C01727,Michael Thompson,Male,2020-07-30,Chicago,Silver,20
+C01728,Anthony Smith,Male,2021-07-22,Los Angeles,Bronze,41
+C01729,Thomas White,Male,2019-02-07,New York,Bronze,51
+C01730,Joseph Martin,Male,2020-03-01,New York,Bronze,31
+C01731,Linda Garcia,Female,2023-01-25,Los Angeles,Silver,42
+C01732,Jennifer Jones,Female,2023-08-10,Phoenix,Gold,60
+C01733,Jennifer Martin,Female,2020-03-27,Los Angeles,Gold,50
+C01734,Sandra Taylor,Female,2021-02-06,New York,Silver,32
+C01735,Daniel Thomas,Male,2022-09-03,Chicago,Bronze,19
+C01736,Deborah Davis,Female,2022-03-06,Los Angeles,Bronze,65
+C01737,David Davis,Male,2023-05-03,Los Angeles,Gold,56
+C01738,James Hernandez,Male,2019-08-22,Phoenix,Silver,22
+C01739,John Taylor,Male,2020-03-28,Phoenix,Gold,35
+C01740,Andrew Lopez,Male,2021-11-26,Houston,Bronze,38
+C01741,Margaret White,Female,2022-12-30,Chicago,Silver,62
+C01742,Nancy Williams,Female,2023-11-19,Phoenix,Bronze,62
+C01743,William Martinez,Other,2023-07-14,Houston,Silver,58
+C01744,Karen Anderson,Female,2021-06-16,Chicago,Silver,38
+C01745,Jessica Anderson,Female,2021-12-18,Los Angeles,Platinum,51
+C01746,Richard Lopez,Male,2022-08-09,Houston,Silver,26
+C01747,Andrew Anderson,Male,2022-01-28,Chicago,Gold,31
+C01748,Lisa Davis,Female,2020-06-22,Houston,Bronze,31
+C01749,Emily Taylor,Female,2021-11-14,Phoenix,Bronze,33
+C01750,Donald Thompson,Male,2021-04-21,Houston,Platinum,39
+C01751,Anthony Thompson,Male,2019-08-12,Los Angeles,Bronze,43
+C01752,Donald Thompson,Male,2021-03-02,New York,Platinum,55
+C01753,John Hernandez,Male,2022-07-30,Chicago,Bronze,58
+C01754,Nancy Brown,Female,2023-01-20,Houston,Silver,26
+C01755,Robert Martinez,Male,2019-06-19,Los Angeles,Bronze,24
+C01756,Sandra Miller,Female,2020-01-31,Phoenix,Gold,20
+C01757,George Martinez,Male,2019-12-13,Phoenix,Bronze,36
+C01758,Kenneth Martinez,Male,2020-11-15,Houston,Silver,53
+C01759,Melissa Anderson,Female,2020-04-16,Chicago,Bronze,32
+C01760,Deborah Smith,Female,2022-04-05,Los Angeles,Bronze,28
+C01761,Linda Brown,Female,2021-04-18,New York,Gold,33
+C01762,David Davis,Male,2022-11-28,Houston,Silver,35
+C01763,George Thomas,Male,2021-08-16,New York,Silver,46
+C01764,Donald Moore,Male,2019-09-12,Los Angeles,Silver,27
+C01765,Sarah Miller,Female,2022-03-27,Houston,Bronze,61
+C01766,James Martin,Male,2023-06-16,Houston,Bronze,50
+C01767,Matthew Jones,Male,2022-10-05,Phoenix,Silver,63
+C01768,Margaret Miller,Female,2022-03-19,New York,Bronze,31
+C01769,Charles Davis,Male,2021-05-01,Chicago,Bronze,42
+C01770,Melissa Davis,Female,2019-03-17,Phoenix,Silver,59
+C01771,Matthew Taylor,Male,2019-03-09,New York,Bronze,42
+C01772,Robert Hernandez,Male,2022-10-15,New York,Platinum,34
+C01773,Thomas Martin,Male,2022-02-12,Chicago,Platinum,28
+C01774,George Jackson,Male,2023-12-25,Los Angeles,Silver,30
+C01775,Donald Williams,Other,2022-02-06,New York,Bronze,63
+C01776,Robert Jackson,Male,2023-09-14,Los Angeles,Bronze,34
+C01777,Thomas Garcia,Male,2020-03-16,Houston,Gold,32
+C01778,Robert Lopez,Male,2023-06-06,Houston,Bronze,21
+C01779,Emily Hernandez,Female,2020-06-30,Phoenix,Bronze,28
+C01780,Robert Williams,Male,2020-08-30,Los Angeles,Silver,24
+C01781,Ashley Thompson,Female,2020-07-09,Chicago,Silver,41
+C01782,James Anderson,Male,2020-08-03,Los Angeles,Bronze,28
+C01783,John Thomas,Male,2019-03-06,Chicago,Silver,26
+C01784,Joseph Lopez,Male,2020-04-29,Los Angeles,Gold,41
+C01785,Susan Brown,Female,2022-12-07,Phoenix,Bronze,63
+C01786,Anthony Jones,Male,2019-05-12,Los Angeles,Bronze,18
+C01787,Anthony Thompson,Male,2023-03-03,Chicago,Silver,52
+C01788,Dorothy Taylor,Female,2022-12-20,Houston,Platinum,56
+C01789,Dorothy Hernandez,Female,2022-06-12,Phoenix,Gold,28
+C01790,Jessica Williams,Female,2020-01-28,Phoenix,Gold,56
+C01791,Sandra Thomas,Female,2019-12-25,Chicago,Silver,42
+C01792,James Miller,Male,2021-09-04,Chicago,Silver,45
+C01793,Charles Thomas,Male,2020-03-10,Los Angeles,Silver,33
+C01794,Thomas Martin,Male,2020-12-06,Los Angeles,Platinum,43
+C01795,Ashley Jones,Female,2022-02-28,Houston,Gold,44
+C01796,Michael Wilson,Male,2020-03-28,New York,Gold,41
+C01797,Mark Williams,Male,2022-04-15,New York,Gold,56
+C01798,John Martin,Male,2023-05-12,Chicago,Silver,22
+C01799,David Smith,Male,2021-08-22,Chicago,Platinum,24
+C01800,Mary Jackson,Female,2023-10-11,Los Angeles,Bronze,31
+C01801,George Moore,Male,2022-10-25,Phoenix,Silver,40
+C01802,Paul White,Male,2022-02-17,Phoenix,Bronze,25
+C01803,Patricia Thompson,Female,2022-09-08,Houston,Gold,64
+C01804,Anthony Anderson,Male,2020-04-21,Phoenix,Platinum,60
+C01805,Jessica Williams,Female,2021-04-09,Houston,Bronze,57
+C01806,Charles Smith,Male,2020-11-15,Houston,Bronze,26
+C01807,William Hernandez,Male,2020-08-24,Los Angeles,Silver,53
+C01808,Robert Garcia,Male,2020-10-16,Phoenix,Bronze,20
+C01809,Susan Martin,Female,2019-07-25,Chicago,Bronze,25
+C01810,Betty Martin,Female,2021-11-30,New York,Silver,34
+C01811,Nancy Jackson,Female,2021-10-24,Phoenix,Silver,27
+C01812,Karen Davis,Female,2021-05-16,Phoenix,Gold,19
+C01813,Charles Martin,Male,2021-10-16,Houston,Platinum,64
+C01814,Thomas Brown,Male,2021-07-22,Houston,Gold,27
+C01815,Joseph Moore,Male,2020-11-11,Phoenix,Gold,27
+C01816,Margaret Hernandez,Female,2023-04-21,New York,Bronze,54
+C01817,Steven Williams,Male,2021-01-23,Chicago,Bronze,38
+C01818,Steven Smith,Male,2022-09-04,New York,Bronze,39
+C01819,Steven Thomas,Male,2021-01-02,Chicago,Silver,55
+C01820,George Garcia,Male,2020-12-31,Los Angeles,Bronze,39
+C01821,Linda Williams,Female,2022-03-16,Los Angeles,Gold,23
+C01822,Robert Jones,Male,2022-08-24,New York,Silver,21
+C01823,Matthew Taylor,Male,2019-04-12,New York,Bronze,60
+C01824,Daniel Brown,Male,2020-05-28,Phoenix,Gold,20
+C01825,Richard Garcia,Male,2019-05-03,Phoenix,Silver,43
+C01826,Paul Williams,Male,2021-06-24,Houston,Silver,57
+C01827,Thomas Garcia,Male,2022-12-07,Chicago,Silver,59
+C01828,John Thomas,Male,2020-11-26,Phoenix,Silver,39
+C01829,Dorothy Wilson,Female,2022-11-06,Los Angeles,Bronze,36
+C01830,Charles Anderson,Male,2020-12-31,Houston,Gold,31
+C01831,John White,Male,2020-04-27,Los Angeles,Bronze,25
+C01832,Robert Wilson,Male,2022-10-26,Los Angeles,Bronze,39
+C01833,Linda Thompson,Female,2023-02-05,Chicago,Silver,64
+C01834,John Taylor,Male,2020-10-13,Phoenix,Gold,28
+C01835,Thomas Thomas,Male,2019-07-25,Houston,Bronze,29
+C01836,Daniel Moore,Male,2022-05-19,Houston,Gold,26
+C01837,Melissa Garcia,Female,2022-08-05,Chicago,Silver,18
+C01838,Nancy Jones,Female,2022-07-15,Los Angeles,Bronze,20
+C01839,Richard Garcia,Male,2023-03-20,Los Angeles,Platinum,44
+C01840,Deborah Taylor,Female,2022-01-25,New York,Gold,39
+C01841,William Anderson,Male,2023-04-06,New York,Bronze,61
+C01842,Kenneth Lopez,Male,2022-04-28,Phoenix,Gold,57
+C01843,Kenneth Thompson,Male,2019-05-03,Los Angeles,Silver,36
+C01844,Patricia Smith,Other,2022-11-19,Phoenix,Bronze,44
+C01845,Sandra Moore,Female,2019-07-15,Phoenix,Silver,56
+C01846,Joseph Moore,Male,2021-09-06,Phoenix,Gold,34
+C01847,Melissa Martinez,Female,2019-05-01,Chicago,Gold,43
+C01848,Donald Davis,Male,2020-12-13,Chicago,Bronze,43
+C01849,Thomas Thompson,Male,2019-08-25,New York,Gold,52
+C01850,John Martin,Male,2021-08-09,Houston,Gold,55
+C01851,Linda Davis,Female,2023-09-13,Los Angeles,Bronze,42
+C01852,Jessica Smith,Female,2020-07-04,Phoenix,Silver,61
+C01853,James Brown,Male,2021-02-02,Houston,Platinum,26
+C01854,Mark Garcia,Male,2021-06-27,Chicago,Silver,45
+C01855,Lisa Wilson,Female,2022-01-27,Los Angeles,Bronze,52
+C01856,Linda Smith,Female,2019-08-25,Phoenix,Platinum,33
+C01857,Linda Moore,Female,2021-04-19,New York,Platinum,39
+C01858,Michael Martin,Male,2023-07-19,New York,Silver,60
+C01859,Robert Taylor,Male,2019-09-16,Phoenix,Bronze,29
+C01860,Mary Lopez,Female,2023-08-22,Houston,Platinum,23
+C01861,Andrew Miller,Male,2021-11-28,New York,Bronze,48
+C01862,Mark Brown,Male,2022-04-24,Chicago,Gold,50
+C01863,Steven White,Male,2020-08-13,Houston,Silver,65
+C01864,Betty Thompson,Other,2020-12-05,New York,Gold,47
+C01865,John Johnson,Male,2022-02-20,Houston,Bronze,46
+C01866,Matthew Anderson,Male,2022-01-09,Los Angeles,Bronze,44
+C01867,Linda Lopez,Female,2022-12-10,New York,Bronze,51
+C01868,Amanda Thompson,Female,2020-02-26,Phoenix,Silver,64
+C01869,Daniel Davis,Male,2019-04-11,Chicago,Gold,37
+C01870,Linda Johnson,Female,2021-06-30,Phoenix,Bronze,37
+C01871,Sarah Anderson,Female,2022-03-25,Los Angeles,Platinum,44
+C01872,George Wilson,Other,2022-02-04,New York,Bronze,44
+C01873,Robert Jones,Male,2021-06-04,New York,Bronze,51
+C01874,Linda Martinez,Female,2019-11-08,Phoenix,Bronze,39
+C01875,Melissa Williams,Female,2020-07-21,Chicago,Silver,32
+C01876,Robert Thompson,Male,2023-09-06,New York,Gold,54
+C01877,Michael Thomas,Male,2023-09-13,Phoenix,Silver,20
+C01878,Nancy Martinez,Female,2022-07-29,Chicago,Bronze,65
+C01879,Kenneth Smith,Male,2019-10-21,New York,Platinum,24
+C01880,Michael Martinez,Male,2022-01-26,Houston,Silver,28
+C01881,Susan Garcia,Female,2021-02-08,Phoenix,Bronze,59
+C01882,Mary Martin,Female,2019-11-19,Phoenix,Silver,31
+C01883,Mark Smith,Male,2023-05-03,Los Angeles,Bronze,61
+C01884,Jessica Martin,Female,2023-11-27,Phoenix,Gold,53
+C01885,Anthony Miller,Male,2020-10-17,Los Angeles,Silver,51
+C01886,Mark White,Male,2022-06-10,Chicago,Platinum,36
+C01887,Thomas Lopez,Male,2020-01-23,Chicago,Gold,49
+C01888,Paul Jones,Other,2022-06-13,New York,Silver,54
+C01889,Karen Jones,Female,2023-12-08,Los Angeles,Bronze,63
+C01890,Robert Thomas,Male,2021-02-15,New York,Gold,26
+C01891,Richard Brown,Male,2019-12-16,Los Angeles,Silver,62
+C01892,William Jones,Male,2021-11-26,New York,Bronze,64
+C01893,Margaret Jackson,Female,2021-10-07,New York,Platinum,61
+C01894,William Miller,Male,2020-09-18,Chicago,Gold,42
+C01895,Thomas Hernandez,Male,2021-01-24,Chicago,Silver,21
+C01896,John Moore,Male,2022-12-11,Chicago,Bronze,51
+C01897,William Wilson,Male,2019-12-10,Chicago,Gold,35
+C01898,Paul Williams,Male,2019-02-12,Los Angeles,Silver,55
+C01899,Thomas Martin,Male,2020-11-27,Houston,Silver,42
+C01900,William Smith,Male,2020-11-16,Chicago,Silver,33
+C01901,William Brown,Male,2023-09-11,Houston,Silver,35
+C01902,Dorothy Wilson,Female,2019-11-04,Chicago,Bronze,65
+C01903,Michael Davis,Male,2023-10-29,Houston,Platinum,36
+C01904,Melissa Jackson,Female,2023-09-24,Chicago,Gold,29
+C01905,John Anderson,Other,2019-01-11,Houston,Bronze,62
+C01906,Richard Garcia,Male,2021-11-26,Phoenix,Bronze,24
+C01907,Sarah White,Female,2022-08-12,Chicago,Bronze,30
+C01908,Linda Thomas,Female,2023-10-23,Houston,Silver,48
+C01909,Daniel Taylor,Male,2021-01-30,Phoenix,Bronze,48
+C01910,Amanda Smith,Female,2023-03-13,Los Angeles,Bronze,62
+C01911,John Miller,Male,2020-03-01,New York,Bronze,47
+C01912,Amanda Moore,Female,2019-08-14,Houston,Bronze,63
+C01913,Michael Johnson,Male,2020-10-28,Los Angeles,Bronze,34
+C01914,Sarah White,Female,2022-06-25,New York,Bronze,46
+C01915,Robert Martinez,Male,2021-01-05,Los Angeles,Silver,56
+C01916,Sarah Thompson,Female,2021-01-19,Phoenix,Bronze,28
+C01917,Jessica Hernandez,Female,2023-03-01,New York,Gold,39
+C01918,Kenneth Martinez,Male,2023-12-16,New York,Bronze,18
+C01919,Amanda Garcia,Female,2022-01-13,Houston,Gold,19
+C01920,Andrew Miller,Other,2023-11-12,New York,Bronze,29
+C01921,Richard Miller,Male,2019-05-21,Los Angeles,Gold,30
+C01922,Joseph Lopez,Male,2019-07-10,Los Angeles,Silver,26
+C01923,Charles Hernandez,Male,2020-09-26,New York,Bronze,27
+C01924,Mary Garcia,Female,2020-05-09,New York,Silver,41
+C01925,Susan Miller,Female,2022-07-30,New York,Bronze,22
+C01926,David Martinez,Male,2022-09-12,Los Angeles,Bronze,63
+C01927,Melissa White,Female,2023-07-08,Phoenix,Platinum,39
+C01928,Richard Moore,Male,2023-07-14,Houston,Silver,45
+C01929,Sarah Lopez,Female,2022-10-14,Los Angeles,Bronze,31
+C01930,Andrew Moore,Male,2021-07-07,New York,Bronze,23
+C01931,Joseph Thompson,Male,2020-01-29,Phoenix,Platinum,25
+C01932,William Johnson,Male,2023-12-10,Phoenix,Gold,51
+C01933,Karen Johnson,Female,2020-12-21,Los Angeles,Gold,50
+C01934,Amanda Williams,Female,2019-08-19,Phoenix,Bronze,39
+C01935,Amanda Jones,Female,2021-03-17,Phoenix,Bronze,29
+C01936,Joseph Williams,Male,2020-09-29,New York,Bronze,51
+C01937,Amanda Williams,Female,2019-08-10,Los Angeles,Silver,65
+C01938,Daniel Smith,Male,2021-05-08,Chicago,Platinum,20
+C01939,Mary Williams,Female,2019-03-17,New York,Gold,38
+C01940,Jessica Martin,Female,2023-12-26,Los Angeles,Bronze,24
+C01941,Patricia Lopez,Female,2023-08-02,Houston,Silver,19
+C01942,Joseph Jackson,Other,2021-08-29,Los Angeles,Bronze,59
+C01943,Amanda Jones,Female,2021-03-21,Chicago,Bronze,56
+C01944,Jennifer Jones,Female,2021-06-11,Phoenix,Silver,29
+C01945,Steven Johnson,Male,2019-05-12,Chicago,Bronze,50
+C01946,James Martinez,Male,2019-05-18,Houston,Silver,33
+C01947,Paul Martinez,Male,2021-11-26,Houston,Bronze,51
+C01948,Mark Jones,Male,2023-10-16,Los Angeles,Bronze,35
+C01949,John Taylor,Male,2021-09-26,Phoenix,Bronze,37
+C01950,Amanda Johnson,Female,2022-03-12,Los Angeles,Gold,58
+C01951,George Lopez,Male,2020-10-07,Houston,Bronze,53
+C01952,Dorothy Garcia,Female,2019-02-22,Houston,Gold,26
+C01953,Anthony Martinez,Male,2019-05-26,New York,Platinum,51
+C01954,Sarah Martinez,Female,2023-07-03,New York,Gold,59
+C01955,Karen Jackson,Female,2023-01-11,Los Angeles,Silver,30
+C01956,Jennifer Thomas,Female,2020-08-06,Houston,Silver,35
+C01957,Anthony Lopez,Male,2019-07-23,Los Angeles,Bronze,61
+C01958,Lisa Hernandez,Female,2023-06-09,Chicago,Silver,37
+C01959,William Taylor,Male,2022-07-28,Los Angeles,Gold,64
+C01960,Thomas Williams,Male,2019-11-20,Phoenix,Bronze,47
+C01961,Margaret Garcia,Female,2021-06-25,New York,Platinum,40
+C01962,Karen Taylor,Female,2019-05-12,Chicago,Bronze,39
+C01963,Mary Williams,Female,2021-07-01,Phoenix,Bronze,48
+C01964,Paul White,Male,2021-05-19,Houston,Gold,51
+C01965,Linda Taylor,Female,2019-03-11,Phoenix,Gold,33
+C01966,Sarah Anderson,Female,2023-05-31,Phoenix,Bronze,64
+C01967,Daniel Johnson,Male,2019-07-11,Los Angeles,Silver,36
+C01968,Mark Miller,Other,2021-06-24,New York,Bronze,40
+C01969,Linda Thomas,Female,2021-03-11,Los Angeles,Silver,64
+C01970,Deborah Moore,Female,2019-11-14,Los Angeles,Bronze,51
+C01971,Deborah Miller,Female,2020-01-20,Houston,Silver,33
+C01972,William Thomas,Male,2020-09-07,Phoenix,Silver,59
+C01973,Robert Williams,Other,2019-05-02,Chicago,Gold,23
+C01974,Nancy Thomas,Female,2023-03-24,Phoenix,Gold,24
+C01975,Dorothy Smith,Female,2022-06-19,Houston,Gold,18
+C01976,James White,Male,2019-03-24,Los Angeles,Platinum,24
+C01977,Deborah Jackson,Female,2019-12-15,Chicago,Silver,18
+C01978,Emily Martinez,Female,2021-11-03,Los Angeles,Silver,64
+C01979,Sandra Smith,Female,2020-01-07,Chicago,Platinum,57
+C01980,John Williams,Male,2021-12-10,Los Angeles,Bronze,37
+C01981,Kenneth Wilson,Male,2020-01-18,Phoenix,Gold,24
+C01982,Steven Anderson,Male,2020-12-19,Phoenix,Bronze,19
+C01983,David Miller,Male,2022-06-19,Phoenix,Bronze,56
+C01984,Thomas Anderson,Male,2019-08-17,Phoenix,Bronze,39
+C01985,Charles Jones,Male,2021-03-03,Houston,Platinum,51
+C01986,James Anderson,Male,2019-05-14,Phoenix,Gold,33
+C01987,Patricia Jackson,Female,2022-08-24,Houston,Silver,62
+C01988,James Johnson,Male,2020-02-05,New York,Silver,30
+C01989,Margaret Lopez,Female,2020-09-23,New York,Bronze,23
+C01990,Richard Brown,Male,2022-11-16,New York,Bronze,29
+C01991,Mark Jackson,Male,2021-11-24,Los Angeles,Bronze,53
+C01992,Steven Hernandez,Male,2019-12-04,Los Angeles,Silver,53
+C01993,Lisa Johnson,Female,2023-06-18,Los Angeles,Gold,25
+C01994,Paul Moore,Male,2023-09-19,Los Angeles,Bronze,30
+C01995,Andrew Jackson,Male,2023-01-21,Chicago,Gold,26
+C01996,George Brown,Male,2020-12-27,Houston,Silver,21
+C01997,Mary Lopez,Female,2022-11-03,New York,Silver,21
+C01998,Robert Wilson,Male,2023-10-20,Phoenix,Silver,36
+C01999,Donald Martinez,Male,2019-02-19,Phoenix,Gold,55
+C02000,Mark Lopez,Male,2023-11-15,Los Angeles,Silver,54
+C02001,Deborah Lopez,Female,2021-07-09,Houston,Gold,65
+C02002,Andrew Taylor,Male,2023-06-11,Houston,Bronze,55
+C02003,Nancy White,Female,2023-11-03,Houston,Bronze,24
+C02004,Kenneth Lopez,Male,2023-04-04,Chicago,Gold,30
+C02005,Karen Wilson,Female,2019-12-03,Los Angeles,Bronze,27
+C02006,John Hernandez,Male,2023-10-06,Houston,Platinum,57
+C02007,Joseph Moore,Other,2023-01-09,New York,Bronze,44
+C02008,Lisa Thompson,Female,2020-06-24,New York,Gold,64
+C02009,George Taylor,Male,2020-11-15,Los Angeles,Bronze,59
+C02010,Amanda Smith,Female,2023-06-05,Los Angeles,Bronze,36
+C02011,Linda Jones,Female,2022-06-19,New York,Gold,62
+C02012,Barbara Thomas,Female,2021-11-26,Phoenix,Bronze,55
+C02013,Sarah Williams,Female,2020-03-31,Chicago,Silver,53
+C02014,Jennifer Miller,Female,2021-12-06,Houston,Silver,18
+C02015,William Miller,Male,2022-08-16,Phoenix,Bronze,51
+C02016,Jessica Martinez,Female,2020-01-09,Chicago,Bronze,43
+C02017,Charles Jackson,Male,2023-12-31,Phoenix,Gold,35
+C02018,Karen Smith,Female,2020-05-25,New York,Silver,18
+C02019,Anthony Williams,Male,2022-04-28,Phoenix,Platinum,21
+C02020,Jennifer Williams,Female,2022-04-17,New York,Silver,60
+C02021,Mary Johnson,Female,2021-11-06,Los Angeles,Gold,22
+C02022,Deborah Williams,Female,2021-05-17,Houston,Bronze,65
+C02023,Paul Miller,Male,2022-06-20,Chicago,Gold,55
+C02024,Betty Davis,Female,2020-03-22,Houston,Bronze,58
+C02025,George Wilson,Male,2023-03-19,Chicago,Silver,43
+C02026,Anthony Hernandez,Male,2022-10-27,Los Angeles,Gold,60
+C02027,Jennifer Martin,Female,2021-12-06,Los Angeles,Bronze,64
+C02028,Melissa Lopez,Female,2019-05-29,Houston,Platinum,22
+C02029,Thomas Williams,Male,2023-06-16,Chicago,Silver,30
+C02030,William Anderson,Male,2020-12-22,Los Angeles,Bronze,40
+C02031,Andrew Williams,Male,2022-05-31,Los Angeles,Bronze,47
+C02032,Robert Lopez,Male,2020-05-25,New York,Silver,28
+C02033,Joseph Jackson,Male,2020-11-11,New York,Gold,60
+C02034,Matthew Thomas,Male,2023-03-21,Chicago,Silver,25
+C02035,Andrew Wilson,Male,2019-08-19,Los Angeles,Gold,37
+C02036,Nancy Johnson,Female,2020-06-08,Chicago,Gold,27
+C02037,Michael Hernandez,Male,2019-05-14,Houston,Platinum,35
+C02038,Paul Brown,Other,2021-01-04,Chicago,Silver,43
+C02039,Emily Jackson,Female,2020-03-16,Houston,Platinum,28
+C02040,Steven White,Male,2020-05-16,Los Angeles,Silver,52
+C02041,Mark Garcia,Male,2020-08-23,Los Angeles,Bronze,54
+C02042,George Moore,Male,2023-03-07,Phoenix,Gold,32
+C02043,Amanda Davis,Female,2020-12-20,Houston,Gold,25
+C02044,Daniel Davis,Male,2021-09-16,Phoenix,Silver,54
+C02045,Melissa Thompson,Female,2019-03-13,Houston,Silver,64
+C02046,John Thomas,Male,2020-01-05,Houston,Silver,49
+C02047,Barbara Smith,Female,2023-05-30,Los Angeles,Gold,41
+C02048,David Garcia,Male,2020-03-22,New York,Bronze,32
+C02049,Anthony Taylor,Male,2020-05-09,Chicago,Bronze,18
+C02050,Sarah Thomas,Female,2022-10-21,Chicago,Platinum,54
+C02051,Susan Williams,Female,2023-06-13,Los Angeles,Silver,54
+C02052,George Johnson,Male,2022-05-21,Los Angeles,Platinum,53
+C02053,Deborah Lopez,Female,2021-04-14,Phoenix,Bronze,52
+C02054,Barbara Johnson,Female,2019-02-20,Chicago,Platinum,39
+C02055,Amanda Hernandez,Female,2020-12-14,New York,Silver,64
+C02056,Lisa Jones,Female,2021-02-18,Phoenix,Silver,37
+C02057,Robert Williams,Male,2023-05-11,Phoenix,Silver,36
+C02058,John Moore,Male,2023-08-23,Chicago,Silver,23
+C02059,Margaret Moore,Female,2020-12-31,Chicago,Gold,42
+C02060,George Moore,Male,2020-08-03,Houston,Bronze,35
+C02061,Ashley Martin,Female,2019-07-17,Houston,Gold,57
+C02062,George White,Male,2023-08-11,Phoenix,Bronze,45
+C02063,William Anderson,Male,2020-04-23,Phoenix,Gold,51
+C02064,Andrew Anderson,Male,2019-04-29,Phoenix,Gold,61
+C02065,Joseph Taylor,Male,2020-08-01,Phoenix,Silver,21
+C02066,Margaret Thomas,Female,2022-01-24,Chicago,Gold,64
+C02067,James Brown,Male,2022-11-19,Phoenix,Silver,28
+C02068,Nancy Taylor,Female,2020-06-30,Chicago,Gold,35
+C02069,Kenneth Thomas,Male,2023-06-15,Chicago,Bronze,30
+C02070,Joseph Jones,Male,2021-07-02,Los Angeles,Bronze,61
+C02071,Karen Miller,Female,2021-04-16,Phoenix,Gold,52
+C02072,Sarah Williams,Female,2021-11-22,Phoenix,Silver,61
+C02073,Steven Garcia,Male,2021-11-15,Chicago,Gold,39
+C02074,Kenneth Davis,Male,2023-11-23,Houston,Bronze,62
+C02075,Paul Brown,Male,2022-02-23,Los Angeles,Bronze,53
+C02076,Steven Jackson,Male,2019-03-21,Houston,Platinum,34
+C02077,Deborah Anderson,Female,2023-10-02,Houston,Bronze,49
+C02078,Lisa Lopez,Female,2020-11-27,Chicago,Bronze,25
+C02079,Linda Martin,Female,2019-08-20,Phoenix,Platinum,56
+C02080,Daniel White,Male,2020-09-10,Houston,Silver,33
+C02081,Jessica Thomas,Female,2019-09-25,Chicago,Gold,37
+C02082,Daniel Miller,Male,2022-11-10,New York,Bronze,24
+C02083,Jessica Hernandez,Female,2022-02-11,Los Angeles,Silver,48
+C02084,Daniel Johnson,Male,2022-08-17,Phoenix,Silver,19
+C02085,Michael Wilson,Male,2020-04-10,Phoenix,Silver,23
+C02086,Deborah Jackson,Female,2020-07-04,New York,Silver,25
+C02087,Barbara Martin,Female,2023-10-11,Phoenix,Bronze,18
+C02088,Paul Thompson,Male,2020-12-31,Chicago,Gold,40
+C02089,Andrew Hernandez,Male,2020-03-01,Houston,Platinum,44
+C02090,Ashley Thompson,Female,2023-12-19,New York,Silver,46
+C02091,Daniel Jackson,Male,2020-06-04,Chicago,Bronze,39
+C02092,Sandra Taylor,Female,2021-11-20,Chicago,Gold,38
+C02093,George Brown,Male,2023-04-09,Phoenix,Bronze,23
+C02094,James Johnson,Other,2019-03-20,Houston,Bronze,20
+C02095,Melissa Davis,Female,2022-03-03,Los Angeles,Silver,22
+C02096,Daniel Williams,Male,2019-12-26,Los Angeles,Gold,31
+C02097,Richard Hernandez,Male,2023-02-01,New York,Bronze,53
+C02098,Dorothy Jackson,Female,2021-06-01,Los Angeles,Bronze,57
+C02099,Joseph Hernandez,Male,2023-03-05,Houston,Bronze,46
+C02100,Barbara Smith,Female,2021-06-28,Houston,Silver,26
+C02101,Lisa Miller,Female,2020-06-05,Chicago,Platinum,22
+C02102,Michael Jones,Male,2020-06-21,Phoenix,Gold,30
+C02103,James Wilson,Male,2020-03-20,New York,Gold,57
+C02104,Paul Davis,Male,2019-01-26,New York,Gold,44
+C02105,Donald Taylor,Male,2020-09-25,Chicago,Gold,19
+C02106,Robert Moore,Male,2023-01-05,Phoenix,Silver,29
+C02107,Sarah Taylor,Female,2023-01-31,Los Angeles,Silver,53
+C02108,Kenneth Johnson,Male,2022-03-23,Chicago,Bronze,38
+C02109,Ashley Thomas,Female,2023-05-07,Los Angeles,Gold,60
+C02110,Andrew Garcia,Male,2019-11-14,Phoenix,Bronze,63
+C02111,Ashley Miller,Female,2022-12-27,Houston,Bronze,30
+C02112,Melissa Garcia,Female,2020-11-06,Houston,Platinum,19
+C02113,Kenneth Lopez,Male,2020-04-27,Chicago,Silver,31
+C02114,Nancy White,Female,2019-11-10,Houston,Gold,22
+C02115,David Anderson,Male,2023-09-07,Chicago,Bronze,59
+C02116,Amanda Miller,Female,2021-01-29,Chicago,Gold,38
+C02117,Emily Moore,Female,2021-04-08,Phoenix,Silver,65
+C02118,James White,Male,2022-05-06,Houston,Bronze,39
+C02119,Emily Lopez,Female,2023-11-30,Chicago,Gold,63
+C02120,Kenneth Moore,Male,2022-10-20,New York,Silver,18
+C02121,Patricia Anderson,Female,2022-09-29,Los Angeles,Bronze,33
+C02122,Michael Miller,Male,2023-06-26,Phoenix,Platinum,49
+C02123,Paul Davis,Male,2023-10-01,Chicago,Platinum,26
+C02124,Matthew Thomas,Male,2019-11-03,Los Angeles,Bronze,64
+C02125,Patricia Martinez,Female,2020-06-22,New York,Bronze,53
+C02126,Dorothy White,Female,2022-12-17,Houston,Silver,46
+C02127,Betty Garcia,Female,2022-03-02,Chicago,Silver,33
+C02128,John Miller,Male,2019-07-09,Phoenix,Gold,19
+C02129,David White,Other,2021-01-04,Chicago,Platinum,54
+C02130,David Miller,Male,2019-07-26,Chicago,Bronze,64
+C02131,Barbara White,Female,2019-10-18,Phoenix,Bronze,28
+C02132,Jessica Martin,Female,2019-03-16,Phoenix,Bronze,35
+C02133,Kenneth Hernandez,Male,2020-09-01,Phoenix,Platinum,48
+C02134,Michael Jones,Male,2023-04-03,New York,Bronze,43
+C02135,Susan Brown,Female,2020-04-16,New York,Bronze,61
+C02136,George Williams,Male,2020-03-09,Houston,Bronze,25
+C02137,David Johnson,Male,2019-11-21,New York,Bronze,25
+C02138,Nancy Jackson,Female,2022-10-19,Phoenix,Bronze,46
+C02139,Kenneth Miller,Male,2020-10-27,Los Angeles,Bronze,45
+C02140,David Moore,Male,2023-07-24,Houston,Bronze,59
+C02141,Lisa Garcia,Female,2019-11-18,Chicago,Bronze,24
+C02142,Paul Jones,Male,2023-10-01,New York,Silver,39
+C02143,Barbara Lopez,Female,2021-10-11,New York,Platinum,36
+C02144,Matthew Taylor,Male,2020-08-24,Houston,Gold,64
+C02145,Mary Miller,Female,2019-07-25,Houston,Gold,63
+C02146,Melissa Martin,Female,2020-02-03,Phoenix,Gold,19
+C02147,Thomas Miller,Male,2022-11-10,New York,Bronze,45
+C02148,Lisa Jones,Female,2023-08-04,Chicago,Bronze,31
+C02149,William Smith,Male,2019-08-21,New York,Gold,27
+C02150,Deborah Garcia,Female,2022-08-05,Houston,Bronze,48
+C02151,Deborah Lopez,Female,2021-05-13,Los Angeles,Bronze,21
+C02152,Melissa Smith,Female,2019-09-23,Houston,Silver,44
+C02153,Michael Anderson,Male,2021-05-24,Los Angeles,Silver,38
+C02154,Mary Davis,Female,2020-05-07,Chicago,Gold,62
+C02155,George Taylor,Male,2019-07-02,Chicago,Bronze,43
+C02156,Lisa Lopez,Female,2022-11-03,Houston,Bronze,22
+C02157,Mark Garcia,Male,2021-12-17,Chicago,Bronze,33
+C02158,Thomas Moore,Male,2019-11-27,Chicago,Bronze,45
+C02159,Michael Jackson,Male,2023-09-21,New York,Bronze,25
+C02160,Michael Moore,Male,2022-07-05,New York,Silver,43
+C02161,Sandra Jackson,Female,2019-10-07,Chicago,Silver,20
+C02162,Matthew Moore,Male,2019-10-30,Phoenix,Gold,24
+C02163,Patricia Moore,Female,2019-12-03,Los Angeles,Platinum,23
+C02164,Joseph Johnson,Male,2022-06-23,Los Angeles,Silver,47
+C02165,Charles Taylor,Male,2019-05-29,Los Angeles,Gold,51
+C02166,David Brown,Male,2020-09-11,Chicago,Gold,63
+C02167,Matthew Thompson,Male,2023-10-22,Los Angeles,Silver,51
+C02168,Steven Smith,Male,2022-08-27,Chicago,Silver,31
+C02169,Jessica Lopez,Female,2021-11-02,New York,Bronze,43
+C02170,Sandra Thomas,Female,2022-09-27,Los Angeles,Platinum,45
+C02171,Joseph Jones,Male,2023-12-23,Los Angeles,Bronze,62
+C02172,Anthony Hernandez,Male,2019-06-28,Houston,Platinum,45
+C02173,James Williams,Male,2021-10-23,New York,Silver,25
+C02174,Michael Martinez,Male,2023-02-17,New York,Silver,20
+C02175,Amanda Thompson,Female,2021-03-27,New York,Silver,22
+C02176,Nancy Davis,Female,2021-04-17,Phoenix,Silver,60
+C02177,George Lopez,Male,2020-06-18,New York,Bronze,50
+C02178,Deborah Martin,Female,2021-07-13,New York,Silver,43
+C02179,Jennifer Miller,Female,2023-03-12,Phoenix,Silver,47
+C02180,Anthony Lopez,Male,2020-01-09,Phoenix,Gold,53
+C02181,William Miller,Male,2022-04-01,Chicago,Platinum,49
+C02182,Sarah Davis,Female,2023-02-15,Chicago,Silver,32
+C02183,Dorothy White,Female,2022-09-19,Los Angeles,Bronze,56
+C02184,Ashley Smith,Female,2019-12-20,Chicago,Platinum,22
+C02185,William Smith,Male,2022-08-31,Chicago,Gold,31
+C02186,Andrew Garcia,Male,2022-12-02,Houston,Gold,24
+C02187,James Martinez,Male,2020-05-07,New York,Silver,24
+C02188,Deborah White,Female,2019-09-18,Phoenix,Bronze,50
+C02189,William Brown,Male,2023-12-22,Phoenix,Silver,23
+C02190,Melissa Wilson,Female,2023-07-28,Houston,Silver,60
+C02191,Anthony Martinez,Male,2019-08-08,Phoenix,Platinum,37
+C02192,Matthew Jackson,Male,2020-01-09,Phoenix,Silver,50
+C02193,Betty Moore,Female,2022-09-30,Los Angeles,Platinum,18
+C02194,John Hernandez,Male,2019-03-21,Phoenix,Bronze,48
+C02195,David Miller,Male,2019-10-19,Chicago,Gold,42
+C02196,Robert Garcia,Male,2022-06-06,Phoenix,Bronze,50
+C02197,Deborah Hernandez,Female,2021-04-20,Houston,Gold,53
+C02198,Steven Johnson,Male,2022-05-03,Phoenix,Silver,35
+C02199,Sarah Williams,Female,2020-12-13,New York,Gold,55
+C02200,Andrew Davis,Male,2022-08-20,Houston,Bronze,29
+C02201,Daniel Thomas,Male,2023-09-15,Houston,Silver,40
+C02202,Margaret Garcia,Female,2022-11-30,New York,Silver,36
+C02203,Lisa Lopez,Female,2022-08-02,New York,Gold,42
+C02204,Sandra Smith,Female,2021-04-02,Houston,Platinum,35
+C02205,James Jones,Male,2020-04-16,Houston,Bronze,53
+C02206,Matthew White,Male,2020-03-18,Chicago,Bronze,33
+C02207,Paul White,Male,2023-08-26,Houston,Bronze,32
+C02208,Karen Lopez,Female,2023-07-14,Chicago,Silver,20
+C02209,William Jackson,Male,2021-03-14,Houston,Bronze,46
+C02210,Jennifer Williams,Female,2022-08-13,Phoenix,Bronze,37
+C02211,Joseph Taylor,Male,2019-12-17,New York,Silver,60
+C02212,Jessica Hernandez,Female,2020-05-22,Phoenix,Platinum,24
+C02213,Daniel Garcia,Male,2022-06-20,Los Angeles,Gold,33
+C02214,Linda Thomas,Female,2021-09-24,New York,Silver,39
+C02215,Sarah Wilson,Female,2022-01-24,New York,Platinum,49
+C02216,John Miller,Male,2019-10-30,Los Angeles,Silver,62
+C02217,Robert Martin,Male,2023-10-29,Chicago,Silver,65
+C02218,Barbara Martinez,Female,2019-07-22,Houston,Gold,56
+C02219,Amanda Thompson,Female,2023-08-26,Phoenix,Silver,64
+C02220,Barbara Brown,Female,2022-12-05,New York,Gold,35
+C02221,Michael Davis,Male,2022-07-09,New York,Silver,38
+C02222,Thomas Thompson,Male,2022-05-10,Phoenix,Silver,45
+C02223,Melissa Thomas,Female,2021-02-12,Phoenix,Silver,62
+C02224,Margaret White,Female,2021-08-26,Phoenix,Platinum,37
+C02225,John Brown,Male,2021-03-22,New York,Platinum,25
+C02226,Steven Taylor,Male,2020-07-15,Phoenix,Bronze,33
+C02227,Jennifer Martin,Female,2019-05-19,Houston,Bronze,23
+C02228,Deborah Thompson,Female,2019-07-12,Houston,Bronze,53
+C02229,William Brown,Male,2021-09-03,Houston,Bronze,50
+C02230,Anthony Martin,Male,2022-03-02,Phoenix,Silver,18
+C02231,William Wilson,Male,2023-11-14,New York,Bronze,51
+C02232,Anthony Thomas,Male,2019-05-26,Phoenix,Bronze,61
+C02233,Sandra Martin,Female,2023-09-26,Chicago,Silver,44
+C02234,James Wilson,Male,2022-09-15,New York,Bronze,38
+C02235,Nancy Thompson,Female,2023-03-03,Houston,Gold,19
+C02236,Joseph Miller,Male,2021-08-16,Phoenix,Gold,50
+C02237,Matthew Martinez,Male,2020-02-11,Phoenix,Bronze,43
+C02238,Nancy Wilson,Female,2020-07-26,Houston,Gold,21
+C02239,Matthew Davis,Male,2021-11-03,New York,Silver,21
+C02240,Susan Brown,Female,2022-08-14,New York,Bronze,29
+C02241,Steven Martin,Male,2022-11-05,Los Angeles,Silver,37
+C02242,Anthony Smith,Male,2021-09-08,Houston,Silver,24
+C02243,Paul Martinez,Male,2019-11-07,New York,Bronze,52
+C02244,Amanda Smith,Female,2019-07-06,Phoenix,Bronze,24
+C02245,Emily Thompson,Female,2022-05-15,Houston,Silver,26
+C02246,Betty Moore,Female,2020-06-21,Los Angeles,Silver,18
+C02247,David Hernandez,Male,2022-06-23,Chicago,Gold,22
+C02248,Dorothy Martinez,Female,2020-05-26,Los Angeles,Bronze,32
+C02249,Kenneth Thomas,Male,2022-08-29,Houston,Bronze,52
+C02250,David Taylor,Male,2021-12-24,New York,Platinum,34
+C02251,Andrew Davis,Male,2020-02-02,Phoenix,Bronze,50
+C02252,Sarah Johnson,Female,2022-01-29,Chicago,Gold,20
+C02253,Donald Anderson,Male,2022-02-15,Houston,Bronze,65
+C02254,Jessica Jones,Female,2019-08-27,Los Angeles,Bronze,63
+C02255,Steven Lopez,Male,2023-07-28,Houston,Silver,64
+C02256,Joseph Wilson,Male,2022-05-21,New York,Gold,59
+C02257,Andrew Thompson,Male,2019-04-06,Los Angeles,Bronze,42
+C02258,Mary Thompson,Female,2023-01-14,Los Angeles,Bronze,21
+C02259,Patricia Martinez,Female,2022-04-17,New York,Platinum,39
+C02260,Andrew Jackson,Male,2020-12-14,Los Angeles,Bronze,27
+C02261,Karen Wilson,Female,2020-12-13,Chicago,Bronze,18
+C02262,Margaret Moore,Female,2019-11-19,New York,Silver,48
+C02263,Matthew Garcia,Male,2019-07-28,Phoenix,Gold,35
+C02264,Mark Johnson,Male,2022-01-21,Chicago,Bronze,52
+C02265,Emily Lopez,Female,2022-01-28,Los Angeles,Silver,57
+C02266,Daniel Davis,Male,2023-09-13,Los Angeles,Bronze,59
+C02267,Paul Jackson,Male,2023-07-26,Phoenix,Silver,60
+C02268,Melissa White,Female,2022-04-14,Chicago,Gold,45
+C02269,Deborah Johnson,Female,2020-04-26,Phoenix,Gold,37
+C02270,Michael Martinez,Male,2020-02-17,Chicago,Gold,46
+C02271,Robert Lopez,Male,2020-12-23,Los Angeles,Bronze,52
+C02272,Jessica Thompson,Female,2020-06-27,Houston,Bronze,59
+C02273,Karen White,Female,2020-05-20,Los Angeles,Silver,24
+C02274,Susan Garcia,Other,2023-09-04,Los Angeles,Silver,54
+C02275,Michael White,Other,2023-05-26,Los Angeles,Gold,53
+C02276,Michael Smith,Male,2020-01-12,Los Angeles,Bronze,29
+C02277,Paul Thomas,Male,2019-01-07,Los Angeles,Bronze,47
+C02278,Paul Lopez,Male,2019-05-21,Houston,Platinum,60
+C02279,Linda Smith,Female,2023-02-02,Phoenix,Gold,53
+C02280,Jennifer Wilson,Female,2020-08-11,New York,Bronze,21
+C02281,Karen Williams,Female,2021-06-18,Los Angeles,Platinum,55
+C02282,Amanda Jones,Female,2023-02-08,Phoenix,Bronze,30
+C02283,Michael Johnson,Male,2021-09-09,Chicago,Gold,18
+C02284,Margaret Garcia,Female,2019-02-22,Los Angeles,Silver,18
+C02285,Melissa Thomas,Female,2021-05-16,Chicago,Platinum,46
+C02286,Anthony Hernandez,Male,2019-05-24,New York,Silver,35
+C02287,Charles Williams,Male,2022-05-05,New York,Platinum,63
+C02288,Mary Moore,Female,2020-11-29,New York,Platinum,52
+C02289,Steven Johnson,Male,2021-04-15,Chicago,Gold,51
+C02290,Mark Hernandez,Male,2023-10-12,Phoenix,Gold,53
+C02291,Kenneth White,Male,2020-03-13,Los Angeles,Bronze,57
+C02292,Paul Davis,Male,2022-11-27,Houston,Gold,52
+C02293,Melissa Brown,Female,2023-06-04,Houston,Gold,48
+C02294,William Taylor,Other,2023-02-16,Phoenix,Gold,19
+C02295,Ashley Williams,Female,2022-08-25,Chicago,Bronze,54
+C02296,Karen Jones,Female,2019-03-14,Houston,Silver,19
+C02297,Paul White,Male,2022-01-18,New York,Silver,53
+C02298,Andrew Smith,Male,2021-07-29,Los Angeles,Platinum,54
+C02299,Betty Anderson,Female,2019-08-15,Chicago,Gold,50
+C02300,Lisa Wilson,Other,2020-01-01,Chicago,Silver,63
+C02301,Margaret Lopez,Female,2020-03-04,New York,Silver,29
+C02302,Robert Lopez,Male,2023-09-10,New York,Bronze,63
+C02303,David Garcia,Male,2020-03-04,Phoenix,Silver,27
+C02304,Jennifer Moore,Female,2021-11-04,Phoenix,Silver,21
+C02305,Barbara Brown,Female,2022-02-12,Chicago,Bronze,53
+C02306,Patricia Anderson,Female,2022-03-04,Chicago,Silver,45
+C02307,Matthew Martin,Male,2023-12-01,Phoenix,Bronze,18
+C02308,Anthony Davis,Male,2019-06-04,Phoenix,Bronze,63
+C02309,Richard Jones,Male,2019-06-14,Chicago,Silver,35
+C02310,Emily Lopez,Other,2023-04-13,Houston,Bronze,38
+C02311,Paul Garcia,Male,2019-10-04,Chicago,Silver,28
+C02312,Sandra Williams,Female,2021-01-16,Chicago,Bronze,42
+C02313,Jennifer Johnson,Female,2022-03-05,Phoenix,Bronze,40
+C02314,Melissa Taylor,Female,2019-07-03,Phoenix,Bronze,18
+C02315,Michael Williams,Male,2022-12-12,Phoenix,Gold,38
+C02316,Joseph Moore,Male,2019-05-16,Los Angeles,Gold,21
+C02317,Robert Hernandez,Male,2019-05-17,Phoenix,Bronze,55
+C02318,Sarah Williams,Female,2019-01-15,Chicago,Platinum,50
+C02319,Lisa Davis,Female,2023-10-12,Phoenix,Gold,59
+C02320,Melissa Thompson,Female,2023-06-10,Los Angeles,Silver,54
+C02321,Deborah Martinez,Female,2022-07-04,Los Angeles,Bronze,35
+C02322,Jennifer Lopez,Female,2022-07-08,Houston,Gold,64
+C02323,Lisa Thompson,Female,2023-01-13,Phoenix,Bronze,23
+C02324,Nancy Johnson,Female,2019-08-08,Los Angeles,Bronze,27
+C02325,Susan Williams,Female,2022-06-06,Chicago,Bronze,47
+C02326,Paul Davis,Male,2022-01-23,Chicago,Silver,39
+C02327,Thomas Thompson,Male,2019-07-07,Los Angeles,Silver,45
+C02328,Amanda Davis,Female,2022-10-23,New York,Bronze,63
+C02329,Amanda Wilson,Female,2023-08-11,Chicago,Silver,29
+C02330,Lisa Thomas,Female,2022-04-03,Chicago,Platinum,26
+C02331,Donald Martinez,Male,2021-11-03,Phoenix,Bronze,63
+C02332,Matthew Williams,Male,2022-10-26,New York,Silver,41
+C02333,James Lopez,Male,2023-10-21,Houston,Bronze,20
+C02334,Emily Wilson,Female,2021-10-05,Phoenix,Bronze,64
+C02335,Linda Williams,Female,2019-11-13,New York,Gold,24
+C02336,Mary Jones,Female,2022-04-20,Houston,Bronze,39
+C02337,Patricia Garcia,Female,2022-10-15,Chicago,Silver,28
+C02338,Daniel Martinez,Male,2022-02-26,New York,Platinum,62
+C02339,Barbara Garcia,Female,2019-01-03,New York,Gold,46
+C02340,Patricia Smith,Female,2023-10-25,Chicago,Bronze,28
+C02341,Linda Anderson,Female,2019-06-07,Houston,Bronze,31
+C02342,Melissa Martinez,Female,2021-12-14,Los Angeles,Platinum,46
+C02343,Steven Brown,Male,2022-09-23,Phoenix,Bronze,46
+C02344,Patricia Taylor,Female,2022-12-11,Los Angeles,Silver,63
+C02345,Jennifer Johnson,Female,2019-03-29,Phoenix,Platinum,18
+C02346,James Miller,Male,2020-11-02,Houston,Platinum,62
+C02347,John Miller,Male,2021-05-11,Phoenix,Bronze,45
+C02348,Andrew Wilson,Male,2021-06-02,New York,Bronze,58
+C02349,Nancy Lopez,Female,2020-11-18,Phoenix,Platinum,57
+C02350,Karen Taylor,Female,2022-01-20,Los Angeles,Bronze,61
+C02351,Robert Johnson,Male,2019-05-22,Phoenix,Bronze,21
+C02352,Mary Smith,Female,2023-11-05,Houston,Platinum,43
+C02353,Andrew Thomas,Male,2023-08-29,Phoenix,Bronze,63
+C02354,Joseph Martin,Male,2019-05-17,Houston,Gold,50
+C02355,Jessica Miller,Female,2020-01-25,Chicago,Gold,54
+C02356,James Smith,Male,2022-03-10,Chicago,Gold,43
+C02357,James Miller,Male,2020-05-03,Houston,Bronze,28
+C02358,Margaret Anderson,Female,2019-08-15,Chicago,Silver,34
+C02359,Ashley Thompson,Female,2020-07-24,Los Angeles,Bronze,34
+C02360,Melissa Jones,Female,2020-08-03,Los Angeles,Silver,32
+C02361,John White,Male,2019-10-23,Los Angeles,Bronze,20
+C02362,Mary Thompson,Female,2019-05-25,Houston,Bronze,53
+C02363,Michael Williams,Male,2021-01-24,Houston,Bronze,42
+C02364,James Wilson,Male,2020-02-27,Houston,Silver,61
+C02365,Melissa Thompson,Female,2022-11-19,Chicago,Bronze,52
+C02366,Robert Garcia,Male,2023-10-24,Houston,Gold,55
+C02367,Patricia Davis,Female,2021-08-26,Phoenix,Bronze,33
+C02368,Barbara Moore,Female,2020-07-10,Houston,Gold,41
+C02369,Ashley Smith,Female,2019-08-30,Chicago,Bronze,62
+C02370,Matthew Garcia,Male,2022-10-14,Phoenix,Bronze,32
+C02371,David Brown,Male,2020-08-10,Phoenix,Silver,59
+C02372,Dorothy Brown,Female,2020-06-15,Phoenix,Bronze,51
+C02373,Melissa Brown,Female,2019-01-14,Phoenix,Silver,45
+C02374,Amanda Taylor,Female,2023-04-13,New York,Silver,39
+C02375,Ashley Martin,Female,2021-08-30,Phoenix,Silver,28
+C02376,John Anderson,Male,2023-05-25,New York,Bronze,33
+C02377,Margaret Lopez,Female,2020-11-01,Houston,Bronze,27
+C02378,Dorothy Martinez,Female,2023-01-30,Phoenix,Gold,39
+C02379,Barbara Garcia,Female,2019-10-26,Chicago,Platinum,64
+C02380,Richard Lopez,Male,2019-06-17,Houston,Bronze,36
+C02381,William Johnson,Male,2020-12-11,Phoenix,Bronze,34
+C02382,Richard Jones,Male,2023-02-22,New York,Platinum,65
+C02383,Betty White,Female,2019-07-25,Phoenix,Silver,56
+C02384,Mary Jones,Female,2020-01-29,Los Angeles,Gold,20
+C02385,Charles Davis,Other,2021-05-10,Los Angeles,Platinum,26
+C02386,Barbara Brown,Female,2023-03-28,Los Angeles,Bronze,33
+C02387,Barbara Jackson,Female,2019-05-09,Chicago,Gold,23
+C02388,Anthony Miller,Male,2019-05-27,Houston,Silver,18
+C02389,Donald Moore,Male,2020-12-18,New York,Platinum,47
+C02390,Andrew Davis,Male,2023-12-22,Chicago,Bronze,26
+C02391,Jennifer Hernandez,Female,2020-05-18,New York,Platinum,61
+C02392,John Garcia,Male,2022-03-20,New York,Gold,55
+C02393,Andrew Martinez,Male,2019-04-01,Phoenix,Bronze,22
+C02394,Robert Miller,Male,2020-05-18,Phoenix,Bronze,25
+C02395,Anthony Thompson,Male,2023-04-06,Houston,Bronze,41
+C02396,Patricia Thomas,Female,2022-05-06,Houston,Silver,32
+C02397,Margaret Taylor,Female,2019-09-19,Houston,Silver,41
+C02398,Thomas Wilson,Male,2021-06-10,New York,Gold,59
+C02399,Richard Wilson,Male,2022-09-02,New York,Bronze,56
+C02400,Mary Wilson,Female,2023-10-30,Los Angeles,Silver,59
+C02401,David Thomas,Male,2022-11-10,Phoenix,Bronze,26
+C02402,Barbara Martinez,Female,2019-12-31,Houston,Bronze,31
+C02403,Amanda Anderson,Female,2021-12-03,Houston,Platinum,35
+C02404,John Thompson,Male,2023-05-19,Los Angeles,Gold,65
+C02405,Sandra Jones,Female,2019-11-01,Houston,Gold,58
+C02406,Melissa Thomas,Female,2019-09-20,Los Angeles,Silver,34
+C02407,William Wilson,Male,2021-11-18,Los Angeles,Gold,47
+C02408,Karen Davis,Female,2019-06-28,Los Angeles,Bronze,33
+C02409,Karen Williams,Female,2019-04-18,Chicago,Gold,23
+C02410,Mary Taylor,Female,2023-07-02,Chicago,Silver,64
+C02411,Anthony White,Male,2022-12-21,Chicago,Gold,61
+C02412,Thomas Anderson,Male,2022-11-10,Chicago,Silver,30
+C02413,Emily Martinez,Female,2022-09-18,Chicago,Bronze,43
+C02414,Jennifer Hernandez,Female,2023-04-12,Houston,Bronze,31
+C02415,Matthew Smith,Male,2020-07-04,Chicago,Bronze,52
+C02416,Nancy Garcia,Female,2021-08-09,New York,Silver,43
+C02417,Anthony Wilson,Male,2022-02-27,Phoenix,Silver,46
+C02418,Thomas Jones,Male,2021-01-14,Los Angeles,Bronze,33
+C02419,Margaret Brown,Female,2020-01-04,Chicago,Bronze,36
+C02420,Amanda Miller,Other,2021-04-02,New York,Silver,33
+C02421,Nancy Wilson,Female,2019-12-28,Los Angeles,Bronze,31
+C02422,Donald Davis,Male,2022-07-06,New York,Bronze,24
+C02423,Paul Taylor,Male,2020-01-14,New York,Silver,28
+C02424,Amanda Moore,Female,2019-09-04,Los Angeles,Bronze,23
+C02425,Thomas Garcia,Male,2020-04-30,Phoenix,Bronze,45
+C02426,Emily Johnson,Female,2021-03-18,Phoenix,Bronze,25
+C02427,James Jackson,Male,2020-05-23,Houston,Gold,44
+C02428,Ashley Moore,Female,2020-04-03,Chicago,Bronze,46
+C02429,Sandra Miller,Female,2022-05-28,Los Angeles,Silver,30
+C02430,John Taylor,Male,2021-05-15,Houston,Platinum,27
+C02431,Betty Anderson,Female,2019-07-15,Houston,Bronze,59
+C02432,Barbara Martin,Female,2019-05-22,Phoenix,Bronze,61
+C02433,Nancy Moore,Female,2019-07-24,Los Angeles,Bronze,60
+C02434,Joseph White,Male,2019-03-24,Los Angeles,Silver,62
+C02435,Dorothy Williams,Female,2020-11-07,New York,Gold,49
+C02436,Margaret Lopez,Female,2020-09-08,Los Angeles,Bronze,40
+C02437,Susan Smith,Female,2023-05-29,Chicago,Gold,56
+C02438,Betty Jones,Female,2023-02-14,Los Angeles,Gold,64
+C02439,Jessica Davis,Female,2021-12-30,Chicago,Gold,27
+C02440,George Miller,Male,2022-10-07,Los Angeles,Bronze,51
+C02441,Emily Davis,Female,2019-01-05,Phoenix,Bronze,40
+C02442,Paul Taylor,Male,2022-08-07,Los Angeles,Silver,20
+C02443,Donald Johnson,Male,2019-06-02,Houston,Silver,50
+C02444,Michael Jackson,Male,2023-03-27,Los Angeles,Gold,28
+C02445,Michael Jones,Male,2019-11-03,Los Angeles,Bronze,43
+C02446,Andrew Thompson,Male,2023-09-17,New York,Bronze,58
+C02447,Sandra Martinez,Female,2023-03-12,Los Angeles,Silver,52
+C02448,Ashley Martinez,Female,2023-01-26,Chicago,Bronze,26
+C02449,William Jones,Male,2020-11-04,Los Angeles,Platinum,28
+C02450,Charles Martinez,Male,2019-11-26,Phoenix,Gold,27
+C02451,Susan Garcia,Female,2023-10-25,Chicago,Bronze,64
+C02452,George Anderson,Male,2022-03-17,Chicago,Bronze,31
+C02453,Emily Davis,Female,2022-04-25,Chicago,Bronze,22
+C02454,Emily Martinez,Female,2021-04-23,New York,Bronze,24
+C02455,Andrew Wilson,Male,2021-09-06,Los Angeles,Bronze,25
+C02456,Robert Davis,Male,2019-02-12,Phoenix,Gold,42
+C02457,Charles Thomas,Male,2019-06-28,Los Angeles,Silver,32
+C02458,Margaret Williams,Female,2023-01-11,Phoenix,Silver,38
+C02459,Sarah White,Female,2019-05-20,Chicago,Bronze,22
+C02460,Sandra Martinez,Female,2019-07-29,Los Angeles,Bronze,22
+C02461,Sarah Smith,Female,2021-11-29,New York,Bronze,54
+C02462,Jessica White,Female,2022-03-14,New York,Silver,38
+C02463,Patricia Martin,Female,2022-01-16,Houston,Gold,18
+C02464,David Smith,Male,2020-06-08,Los Angeles,Silver,22
+C02465,Jennifer Jones,Female,2023-03-22,Phoenix,Bronze,37
+C02466,Sandra Lopez,Female,2023-11-11,New York,Bronze,43
+C02467,Melissa Jackson,Female,2022-11-11,Houston,Silver,48
+C02468,Steven Davis,Male,2022-08-17,Los Angeles,Silver,23
+C02469,Barbara Smith,Other,2020-07-29,Phoenix,Bronze,47
+C02470,Emily Thompson,Female,2023-07-06,Chicago,Silver,44
+C02471,Kenneth Wilson,Male,2020-10-08,Chicago,Platinum,30
+C02472,Jessica Smith,Female,2022-04-02,New York,Bronze,50
+C02473,Barbara Johnson,Female,2020-07-18,Phoenix,Bronze,28
+C02474,Betty Martin,Female,2021-12-29,New York,Gold,42
+C02475,Kenneth Martin,Other,2023-10-16,Chicago,Silver,18
+C02476,Donald Thomas,Male,2022-07-31,New York,Platinum,37
+C02477,Lisa White,Female,2022-09-14,Chicago,Silver,46
+C02478,Robert Hernandez,Male,2021-08-19,Phoenix,Gold,30
+C02479,Patricia Martinez,Female,2022-08-18,Houston,Silver,39
+C02480,Joseph Martin,Male,2021-01-28,New York,Bronze,30
+C02481,Melissa Hernandez,Female,2022-04-14,New York,Platinum,57
+C02482,Melissa Taylor,Female,2022-10-03,Los Angeles,Bronze,26
+C02483,Patricia Taylor,Female,2020-11-23,Phoenix,Bronze,55
+C02484,Linda Garcia,Female,2020-07-10,Houston,Bronze,51
+C02485,Joseph Williams,Male,2020-10-03,Los Angeles,Silver,38
+C02486,Andrew White,Male,2023-06-18,Phoenix,Silver,39
+C02487,Mark Davis,Male,2021-05-25,Phoenix,Silver,37
+C02488,Lisa Martinez,Female,2021-06-26,Chicago,Gold,22
+C02489,Deborah White,Female,2022-05-13,Chicago,Silver,33
+C02490,Donald Wilson,Male,2021-03-14,Phoenix,Bronze,32
+C02491,Dorothy Thompson,Female,2022-06-27,Phoenix,Bronze,28
+C02492,William Lopez,Male,2021-10-16,Los Angeles,Silver,64
+C02493,Amanda Jackson,Female,2020-11-09,Houston,Platinum,55
+C02494,James White,Male,2020-05-04,Chicago,Bronze,46
+C02495,Steven Johnson,Male,2020-06-22,Los Angeles,Bronze,48
+C02496,Charles Hernandez,Male,2023-05-31,Chicago,Bronze,41
+C02497,William Johnson,Male,2023-12-25,Chicago,Bronze,33
+C02498,Charles Thomas,Male,2021-05-14,New York,Silver,22
+C02499,Mary Jones,Female,2020-11-25,Los Angeles,Silver,65
+C02500,Donald Anderson,Male,2019-12-23,Chicago,Bronze,43
+C02501,Melissa Anderson,Female,2022-05-01,Chicago,Bronze,58
+C02502,Jennifer White,Female,2023-09-22,Houston,Platinum,57
+C02503,Amanda Wilson,Female,2021-03-22,Los Angeles,Gold,30
+C02504,Jennifer Williams,Female,2022-05-17,Chicago,Bronze,32
+C02505,Lisa Garcia,Female,2019-05-30,Phoenix,Gold,30
+C02506,Joseph Miller,Male,2020-02-26,Houston,Bronze,37
+C02507,Michael Smith,Male,2021-04-03,Houston,Silver,37
+C02508,Margaret Thompson,Female,2023-12-06,Los Angeles,Silver,19
+C02509,Barbara White,Female,2021-09-01,New York,Gold,35
+C02510,Jennifer Martin,Female,2019-06-05,Houston,Bronze,46
+C02511,John Wilson,Male,2021-03-29,Chicago,Bronze,31
+C02512,Matthew Johnson,Male,2020-12-10,Chicago,Silver,28
+C02513,Nancy Garcia,Female,2021-05-20,Los Angeles,Silver,46
+C02514,Barbara Jackson,Female,2020-05-10,Chicago,Bronze,27
+C02515,Barbara Anderson,Female,2019-01-29,Phoenix,Bronze,43
+C02516,James Davis,Other,2020-10-31,Phoenix,Bronze,19
+C02517,Robert Brown,Male,2022-06-22,Los Angeles,Silver,60
+C02518,Mary Moore,Female,2022-02-08,Houston,Platinum,45
+C02519,Nancy Davis,Female,2021-12-15,Los Angeles,Gold,65
+C02520,Robert Garcia,Male,2022-02-24,New York,Bronze,32
+C02521,Susan Davis,Female,2021-03-13,Phoenix,Gold,19
+C02522,Andrew Wilson,Male,2020-02-14,Los Angeles,Bronze,47
+C02523,Mary Williams,Female,2023-12-12,New York,Gold,47
+C02524,Betty Johnson,Female,2020-02-16,Los Angeles,Bronze,46
+C02525,Amanda Moore,Female,2021-03-15,Houston,Silver,64
+C02526,Emily Anderson,Female,2023-01-19,New York,Silver,34
+C02527,John Thomas,Male,2020-07-22,Houston,Platinum,41
+C02528,Steven Jones,Male,2022-10-01,Phoenix,Bronze,39
+C02529,Nancy Lopez,Female,2019-07-19,Phoenix,Bronze,20
+C02530,Amanda Wilson,Female,2021-12-02,Phoenix,Bronze,63
+C02531,Emily Davis,Female,2020-04-03,Chicago,Platinum,58
+C02532,Michael Jones,Male,2019-08-26,Los Angeles,Gold,23
+C02533,Margaret Johnson,Other,2020-01-06,New York,Silver,33
+C02534,Deborah Johnson,Other,2023-09-14,Chicago,Silver,60
+C02535,Steven Wilson,Male,2019-06-03,New York,Gold,62
+C02536,Betty Brown,Female,2020-12-01,New York,Silver,55
+C02537,Nancy Brown,Female,2022-01-07,Phoenix,Bronze,49
+C02538,Anthony Martinez,Male,2020-03-17,New York,Platinum,33
+C02539,Betty Wilson,Female,2020-07-18,Los Angeles,Bronze,27
+C02540,Daniel Martinez,Male,2020-07-01,Los Angeles,Bronze,55
+C02541,Mary Thompson,Female,2020-08-20,Houston,Platinum,30
+C02542,John Wilson,Other,2021-07-03,Los Angeles,Bronze,50
+C02543,James Martinez,Male,2023-12-08,Phoenix,Platinum,47
+C02544,Deborah Thomas,Female,2019-02-02,New York,Gold,50
+C02545,Donald Martin,Male,2021-08-31,Chicago,Bronze,34
+C02546,Jessica Garcia,Female,2020-07-18,Phoenix,Bronze,56
+C02547,Steven Martin,Male,2021-04-12,Chicago,Bronze,38
+C02548,James Hernandez,Male,2022-01-19,Los Angeles,Silver,23
+C02549,George Jones,Male,2019-09-18,Houston,Bronze,19
+C02550,Lisa Brown,Female,2020-05-04,Chicago,Bronze,22
+C02551,Barbara White,Female,2022-06-29,Chicago,Bronze,38
+C02552,Sandra Davis,Female,2023-12-12,Chicago,Silver,47
+C02553,Lisa Garcia,Female,2020-06-19,Los Angeles,Gold,20
+C02554,George Jackson,Male,2021-11-07,Houston,Silver,19
+C02555,Michael Davis,Male,2020-08-27,Phoenix,Bronze,59
+C02556,Melissa Thompson,Female,2019-05-06,Phoenix,Bronze,32
+C02557,William Brown,Male,2019-09-18,Los Angeles,Bronze,29
+C02558,Michael Taylor,Male,2021-07-08,New York,Silver,52
+C02559,Emily Thomas,Female,2023-08-16,Los Angeles,Silver,37
+C02560,Daniel Martinez,Male,2023-12-16,New York,Bronze,53
+C02561,William Smith,Male,2021-08-18,Phoenix,Platinum,20
+C02562,Steven Moore,Male,2023-04-11,Houston,Platinum,58
+C02563,Anthony Thomas,Male,2021-09-01,Phoenix,Silver,36
+C02564,Barbara Miller,Female,2020-01-04,Houston,Silver,36
+C02565,Mark Jones,Male,2020-03-13,Los Angeles,Gold,29
+C02566,Robert Johnson,Male,2019-02-23,New York,Bronze,36
+C02567,Linda Wilson,Female,2023-07-11,Los Angeles,Bronze,64
+C02568,Linda Williams,Female,2023-11-01,Houston,Gold,48
+C02569,George Lopez,Male,2022-06-16,Phoenix,Silver,35
+C02570,Dorothy Miller,Female,2019-10-27,Phoenix,Silver,25
+C02571,Mark Hernandez,Male,2020-11-12,Phoenix,Gold,19
+C02572,Jessica Garcia,Female,2019-07-13,Los Angeles,Bronze,52
+C02573,Michael Smith,Male,2022-05-15,Chicago,Bronze,38
+C02574,Paul Davis,Male,2020-07-11,New York,Bronze,53
+C02575,Sandra Lopez,Female,2023-09-15,New York,Silver,28
+C02576,Margaret Thompson,Female,2019-07-14,Phoenix,Bronze,62
+C02577,Joseph Davis,Male,2022-11-22,Houston,Gold,29
+C02578,Margaret Lopez,Other,2020-10-04,Phoenix,Gold,42
+C02579,Robert Jackson,Male,2023-02-11,Los Angeles,Silver,39
+C02580,Margaret Garcia,Female,2023-08-12,New York,Platinum,43
+C02581,Michael Smith,Male,2022-09-10,Houston,Silver,22
+C02582,Richard Davis,Male,2023-04-21,Los Angeles,Gold,63
+C02583,Joseph Taylor,Male,2023-08-07,Phoenix,Gold,29
+C02584,Nancy Smith,Female,2019-07-16,Houston,Silver,43
+C02585,Mark Taylor,Male,2019-10-23,Houston,Silver,55
+C02586,Thomas Davis,Male,2023-07-31,Los Angeles,Silver,22
+C02587,Michael Moore,Male,2022-10-13,Phoenix,Platinum,50
+C02588,Andrew Davis,Male,2022-07-25,New York,Silver,52
+C02589,James Jones,Male,2023-03-26,Chicago,Bronze,62
+C02590,David Lopez,Male,2022-05-25,Houston,Silver,40
+C02591,Jessica Wilson,Female,2020-03-05,Phoenix,Bronze,57
+C02592,Karen Lopez,Female,2020-05-19,Phoenix,Bronze,35
+C02593,Lisa Jones,Female,2019-01-29,Houston,Gold,55
+C02594,William Lopez,Male,2021-04-13,Phoenix,Silver,44
+C02595,Ashley White,Female,2021-08-04,Houston,Bronze,57
+C02596,George Moore,Male,2023-10-14,Houston,Bronze,37
+C02597,Kenneth Wilson,Male,2021-12-29,Houston,Silver,43
+C02598,George Jackson,Male,2023-05-01,Chicago,Bronze,37
+C02599,Donald Jackson,Male,2021-01-23,New York,Bronze,58
+C02600,Andrew Brown,Male,2023-12-12,Chicago,Silver,42
+C02601,Lisa Anderson,Female,2023-07-17,Chicago,Bronze,18
+C02602,James Anderson,Male,2023-05-19,Phoenix,Gold,28
+C02603,Barbara Moore,Female,2019-04-08,New York,Bronze,20
+C02604,John Smith,Male,2023-09-14,Houston,Silver,52
+C02605,Michael Davis,Male,2021-02-23,Los Angeles,Bronze,18
+C02606,Patricia Anderson,Female,2023-11-16,Phoenix,Silver,48
+C02607,Deborah Lopez,Female,2023-08-08,Chicago,Silver,65
+C02608,Mark Davis,Male,2019-11-26,Houston,Silver,18
+C02609,Mary Johnson,Female,2022-10-21,Los Angeles,Gold,18
+C02610,Anthony Brown,Male,2021-12-07,Los Angeles,Gold,55
+C02611,Matthew Thomas,Male,2020-09-23,Phoenix,Bronze,36
+C02612,Ashley Thompson,Female,2023-10-23,New York,Bronze,60
+C02613,Steven Smith,Male,2023-11-05,Chicago,Bronze,59
+C02614,Patricia Smith,Female,2020-05-18,New York,Silver,25
+C02615,Thomas Wilson,Male,2020-01-17,Los Angeles,Bronze,37
+C02616,Thomas Anderson,Male,2019-05-15,Chicago,Bronze,45
+C02617,Betty Garcia,Female,2022-05-30,Phoenix,Gold,37
+C02618,Matthew Lopez,Male,2020-01-27,New York,Bronze,56
+C02619,Sandra Garcia,Female,2020-03-01,Houston,Bronze,29
+C02620,Richard Wilson,Male,2019-01-25,Los Angeles,Bronze,46
+C02621,Anthony Wilson,Male,2021-08-12,New York,Silver,52
+C02622,Karen Lopez,Female,2021-10-08,Chicago,Bronze,45
+C02623,Daniel Smith,Male,2020-12-21,Chicago,Silver,49
+C02624,Betty Miller,Female,2021-06-12,New York,Bronze,24
+C02625,Karen Thomas,Female,2019-06-25,Los Angeles,Bronze,26
+C02626,Emily Davis,Female,2019-07-31,Los Angeles,Platinum,58
+C02627,Sandra Martinez,Female,2022-12-10,Los Angeles,Silver,52
+C02628,Nancy Thompson,Female,2021-12-12,Phoenix,Silver,38
+C02629,Matthew Jones,Male,2021-08-06,Los Angeles,Bronze,63
+C02630,Daniel Martin,Male,2019-12-26,Chicago,Platinum,41
+C02631,John Jackson,Male,2019-07-26,Phoenix,Bronze,58
+C02632,Donald Wilson,Male,2019-10-16,New York,Bronze,35
+C02633,Matthew Jones,Male,2022-02-11,Houston,Silver,37
+C02634,Ashley Brown,Female,2021-07-08,Houston,Bronze,40
+C02635,Thomas Wilson,Male,2023-11-10,Phoenix,Silver,56
+C02636,Andrew Smith,Male,2020-12-19,Los Angeles,Silver,32
+C02637,Robert Miller,Male,2020-11-07,Los Angeles,Silver,33
+C02638,Patricia Jackson,Female,2020-07-20,Phoenix,Silver,48
+C02639,Amanda Williams,Female,2020-06-27,Phoenix,Gold,40
+C02640,Charles Thompson,Male,2023-01-16,Los Angeles,Bronze,45
+C02641,Michael Moore,Male,2019-07-14,Los Angeles,Bronze,62
+C02642,Joseph Martin,Male,2020-10-22,Chicago,Platinum,50
+C02643,Matthew Hernandez,Male,2023-10-20,New York,Gold,61
+C02644,Steven Williams,Male,2021-05-17,Houston,Gold,65
+C02645,Kenneth Thomas,Male,2022-03-23,Houston,Platinum,55
+C02646,Susan Jones,Other,2020-11-28,New York,Bronze,55
+C02647,Sandra Martinez,Female,2022-03-14,Phoenix,Silver,39
+C02648,Mary Johnson,Female,2023-11-22,New York,Silver,25
+C02649,Karen White,Female,2023-09-18,New York,Bronze,19
+C02650,Jennifer Thompson,Female,2021-11-23,Phoenix,Bronze,56
+C02651,Susan Wilson,Female,2021-06-21,Houston,Platinum,42
+C02652,Lisa Lopez,Female,2023-05-18,Chicago,Gold,60
+C02653,Susan Thompson,Female,2023-12-16,Phoenix,Bronze,41
+C02654,Paul Jones,Male,2023-11-10,Houston,Bronze,51
+C02655,Jennifer Moore,Female,2019-06-09,New York,Bronze,65
+C02656,Robert Jones,Male,2023-08-02,Phoenix,Silver,37
+C02657,Ashley Smith,Female,2022-11-04,Phoenix,Gold,39
+C02658,Linda Martinez,Female,2021-03-27,Phoenix,Platinum,31
+C02659,Anthony Jackson,Male,2020-05-11,Houston,Silver,24
+C02660,Richard Jackson,Male,2020-11-07,New York,Silver,50
+C02661,Jennifer White,Female,2023-07-25,Chicago,Bronze,33
+C02662,David Martinez,Other,2023-03-08,Phoenix,Gold,39
+C02663,George White,Male,2019-03-12,Phoenix,Gold,58
+C02664,Patricia Taylor,Female,2022-10-15,Los Angeles,Silver,38
+C02665,Melissa Miller,Female,2022-08-14,Los Angeles,Platinum,32
+C02666,Andrew Smith,Male,2021-08-30,Chicago,Gold,64
+C02667,Nancy Miller,Female,2019-02-06,Houston,Gold,26
+C02668,Joseph White,Male,2020-01-13,Houston,Bronze,23
+C02669,Kenneth Martin,Male,2023-07-13,New York,Bronze,37
+C02670,Karen Hernandez,Female,2021-09-06,Los Angeles,Bronze,20
+C02671,Andrew Brown,Male,2023-07-09,Phoenix,Bronze,50
+C02672,William Wilson,Male,2021-10-15,New York,Bronze,31
+C02673,Paul Martin,Male,2019-08-05,Houston,Platinum,31
+C02674,Jennifer Miller,Female,2020-03-10,Houston,Platinum,62
+C02675,Richard Taylor,Male,2022-05-30,Chicago,Silver,33
+C02676,Andrew Anderson,Male,2019-01-23,Phoenix,Silver,45
+C02677,Joseph Williams,Male,2021-06-25,New York,Silver,59
+C02678,Emily White,Female,2022-03-12,Chicago,Bronze,29
+C02679,Charles Davis,Male,2019-12-26,Chicago,Bronze,43
+C02680,Joseph Martin,Male,2020-02-21,Phoenix,Gold,49
+C02681,Mark Thomas,Male,2020-05-07,Los Angeles,Silver,44
+C02682,Paul Williams,Male,2021-02-13,New York,Bronze,42
+C02683,Michael Lopez,Male,2022-07-04,Chicago,Bronze,62
+C02684,Jessica Anderson,Female,2021-10-01,Houston,Silver,52
+C02685,Matthew Brown,Male,2021-04-05,Chicago,Bronze,20
+C02686,Emily Miller,Female,2023-08-27,Los Angeles,Bronze,18
+C02687,William Jackson,Male,2022-07-27,Chicago,Bronze,24
+C02688,Dorothy White,Female,2021-04-20,Chicago,Silver,32
+C02689,Kenneth Hernandez,Male,2020-10-18,Phoenix,Platinum,54
+C02690,George Smith,Male,2022-06-03,New York,Bronze,54
+C02691,Thomas Lopez,Male,2023-07-26,Los Angeles,Gold,50
+C02692,Betty Brown,Female,2021-09-20,Houston,Gold,63
+C02693,Ashley Jones,Female,2021-10-18,Los Angeles,Silver,49
+C02694,Mark Thompson,Male,2020-09-02,New York,Bronze,53
+C02695,Sarah Johnson,Female,2022-04-07,New York,Gold,30
+C02696,Jennifer Jackson,Female,2023-04-15,Chicago,Gold,49
+C02697,Betty Jackson,Female,2022-10-08,Los Angeles,Silver,32
+C02698,Donald Smith,Male,2021-06-01,Los Angeles,Gold,34
+C02699,George Brown,Male,2019-01-27,New York,Silver,40
+C02700,David Thompson,Male,2022-07-26,Los Angeles,Platinum,26
+C02701,John Martinez,Male,2021-04-01,Houston,Gold,22
+C02702,Deborah Johnson,Female,2020-12-23,Los Angeles,Gold,64
+C02703,Thomas Williams,Male,2020-02-21,Chicago,Bronze,19
+C02704,Sarah Brown,Female,2023-03-18,New York,Silver,54
+C02705,Joseph Thompson,Male,2022-02-27,Los Angeles,Platinum,59
+C02706,Charles Brown,Male,2023-02-08,New York,Gold,58
+C02707,Donald Smith,Male,2021-05-10,Los Angeles,Silver,55
+C02708,Kenneth Hernandez,Male,2022-04-25,Phoenix,Platinum,31
+C02709,Charles Jones,Male,2019-08-31,Los Angeles,Platinum,29
+C02710,Michael Brown,Male,2020-10-26,Chicago,Bronze,52
+C02711,Paul Hernandez,Male,2020-08-20,Phoenix,Bronze,24
+C02712,Andrew Thomas,Male,2023-01-15,Houston,Bronze,46
+C02713,John Lopez,Male,2020-04-15,Los Angeles,Gold,39
+C02714,Robert White,Male,2022-07-10,Los Angeles,Gold,41
+C02715,James Anderson,Male,2023-08-17,Los Angeles,Silver,47
+C02716,Emily Davis,Female,2019-04-04,Houston,Bronze,26
+C02717,Mary Moore,Female,2023-10-16,Chicago,Platinum,31
+C02718,John Moore,Male,2020-08-11,Phoenix,Gold,28
+C02719,Anthony White,Male,2020-09-26,Los Angeles,Silver,20
+C02720,Steven Jones,Male,2019-08-23,Phoenix,Silver,29
+C02721,Thomas Hernandez,Male,2021-02-27,New York,Bronze,25
+C02722,Robert Martin,Male,2020-06-03,Houston,Silver,18
+C02723,William Davis,Male,2021-01-30,Houston,Silver,37
+C02724,Barbara Williams,Female,2020-02-14,Chicago,Bronze,59
+C02725,Kenneth Martinez,Male,2021-11-29,Houston,Bronze,23
+C02726,Lisa Moore,Female,2019-02-22,Los Angeles,Silver,48
+C02727,David Hernandez,Male,2019-03-12,Los Angeles,Bronze,59
+C02728,Steven Hernandez,Male,2020-11-28,Chicago,Platinum,23
+C02729,Mary Jones,Female,2021-07-21,Houston,Gold,35
+C02730,Betty Brown,Female,2022-01-20,Chicago,Silver,42
+C02731,Michael Anderson,Male,2019-11-27,New York,Silver,52
+C02732,Sandra Thompson,Female,2019-10-10,Phoenix,Bronze,43
+C02733,Sarah Martin,Female,2023-07-23,Chicago,Gold,53
+C02734,Barbara Miller,Female,2023-05-15,Houston,Silver,47
+C02735,Andrew Wilson,Other,2019-01-31,Houston,Silver,47
+C02736,Andrew Williams,Male,2020-12-17,Chicago,Silver,54
+C02737,Melissa Jones,Female,2023-03-05,New York,Bronze,23
+C02738,Paul Miller,Male,2019-06-06,Houston,Silver,43
+C02739,Nancy Davis,Female,2020-02-02,Phoenix,Gold,35
+C02740,John Jackson,Male,2022-09-19,Phoenix,Bronze,28
+C02741,Thomas Hernandez,Male,2023-06-28,New York,Silver,29
+C02742,Susan Miller,Female,2019-01-31,Los Angeles,Bronze,65
+C02743,Betty Anderson,Female,2020-04-06,Houston,Gold,18
+C02744,Mary Thompson,Female,2019-01-07,Los Angeles,Bronze,51
+C02745,Anthony Moore,Male,2021-06-25,Houston,Gold,33
+C02746,Paul White,Male,2019-01-16,Phoenix,Bronze,54
+C02747,James Smith,Male,2020-01-06,New York,Silver,55
+C02748,William Martin,Male,2020-04-18,New York,Gold,30
+C02749,Melissa Moore,Female,2023-12-14,Houston,Silver,65
+C02750,Daniel Wilson,Male,2019-01-28,Phoenix,Silver,52
+C02751,Sarah Thomas,Female,2023-08-29,New York,Silver,33
+C02752,Joseph Davis,Male,2023-05-20,New York,Bronze,45
+C02753,Jennifer Brown,Female,2021-01-29,New York,Platinum,51
+C02754,Thomas Anderson,Male,2023-09-22,New York,Silver,50
+C02755,Mary Miller,Female,2021-08-18,Los Angeles,Bronze,58
+C02756,Jessica Anderson,Female,2019-02-07,Chicago,Bronze,33
+C02757,Anthony White,Male,2019-04-04,Chicago,Silver,56
+C02758,Thomas Thomas,Male,2023-12-14,Phoenix,Gold,45
+C02759,Andrew Jones,Male,2019-06-16,Houston,Bronze,35
+C02760,Dorothy Jones,Female,2023-08-02,New York,Platinum,26
+C02761,William Thomas,Male,2021-06-16,Los Angeles,Platinum,27
+C02762,Emily Martinez,Female,2023-04-05,New York,Gold,62
+C02763,Betty Miller,Female,2022-12-23,Chicago,Bronze,44
+C02764,Donald Smith,Male,2020-11-21,Chicago,Bronze,18
+C02765,Andrew Jones,Male,2019-10-22,Chicago,Platinum,53
+C02766,Robert Garcia,Male,2019-12-28,Chicago,Silver,58
+C02767,Anthony Brown,Male,2019-02-25,Chicago,Bronze,20
+C02768,Thomas Hernandez,Male,2020-06-21,New York,Bronze,44
+C02769,Paul Jones,Male,2020-02-02,New York,Silver,47
+C02770,William White,Male,2020-06-30,New York,Bronze,65
+C02771,Thomas Thompson,Male,2019-10-06,Houston,Bronze,63
+C02772,Daniel Davis,Male,2022-08-27,Chicago,Silver,64
+C02773,Charles Garcia,Male,2019-05-23,Chicago,Platinum,27
+C02774,Charles Thomas,Male,2020-11-10,Houston,Gold,19
+C02775,Betty Martin,Female,2021-10-31,New York,Bronze,64
+C02776,Barbara Martinez,Female,2021-08-18,Los Angeles,Silver,33
+C02777,Sandra Thompson,Female,2022-08-03,Chicago,Bronze,28
+C02778,Barbara Moore,Female,2019-11-12,Los Angeles,Gold,60
+C02779,Mark Thomas,Male,2019-01-12,Los Angeles,Silver,40
+C02780,Jennifer Lopez,Female,2020-02-08,Houston,Bronze,46
+C02781,Sarah Lopez,Female,2022-10-05,Houston,Silver,36
+C02782,Kenneth Johnson,Male,2019-09-08,Houston,Silver,58
+C02783,Michael Jackson,Male,2019-04-24,Los Angeles,Silver,37
+C02784,Barbara Davis,Female,2021-07-25,Phoenix,Platinum,38
+C02785,Sandra Thomas,Female,2021-08-13,Chicago,Bronze,53
+C02786,Sandra Martinez,Female,2020-04-13,Los Angeles,Bronze,56
+C02787,David Smith,Male,2021-03-08,Chicago,Silver,43
+C02788,Linda Lopez,Female,2019-10-01,Chicago,Gold,49
+C02789,Ashley Davis,Female,2019-09-07,Los Angeles,Silver,18
+C02790,Kenneth Wilson,Male,2020-12-01,Houston,Bronze,50
+C02791,Sarah White,Female,2019-07-21,Phoenix,Silver,44
+C02792,James Taylor,Male,2022-06-12,Phoenix,Silver,24
+C02793,Linda Wilson,Other,2020-07-18,New York,Bronze,30
+C02794,James Brown,Male,2020-08-02,Chicago,Bronze,63
+C02795,Joseph Martin,Male,2023-06-29,Houston,Silver,27
+C02796,Patricia Miller,Female,2023-04-19,New York,Bronze,28
+C02797,Sarah Thompson,Other,2020-09-18,New York,Bronze,55
+C02798,Sarah Johnson,Female,2019-06-03,Phoenix,Bronze,18
+C02799,Joseph Brown,Male,2023-01-15,Los Angeles,Gold,62
+C02800,Amanda Hernandez,Female,2022-12-20,Houston,Gold,20
+C02801,Barbara Taylor,Female,2022-04-20,New York,Gold,61
+C02802,Paul Brown,Other,2019-06-08,Phoenix,Gold,55
+C02803,Nancy Taylor,Female,2022-12-20,Chicago,Gold,18
+C02804,Daniel Jackson,Male,2022-09-21,New York,Bronze,28
+C02805,Donald Jackson,Male,2020-06-01,New York,Silver,65
+C02806,John Davis,Male,2022-12-24,New York,Silver,47
+C02807,Amanda Jackson,Female,2019-11-25,New York,Silver,25
+C02808,Richard Lopez,Male,2020-04-25,Phoenix,Bronze,55
+C02809,Andrew Miller,Male,2023-03-04,Houston,Gold,49
+C02810,Sandra Thompson,Female,2019-05-06,Chicago,Silver,24
+C02811,Andrew Taylor,Male,2021-06-10,New York,Silver,40
+C02812,Susan Martinez,Female,2023-04-05,Houston,Bronze,60
+C02813,Anthony Garcia,Male,2020-02-24,Chicago,Bronze,28
+C02814,Anthony Lopez,Male,2019-04-29,New York,Gold,60
+C02815,Emily Smith,Female,2022-11-17,Houston,Bronze,42
+C02816,Deborah Brown,Female,2022-01-12,Houston,Bronze,33
+C02817,Barbara Williams,Female,2022-02-07,Phoenix,Silver,38
+C02818,Barbara Thomas,Female,2022-06-17,New York,Gold,22
+C02819,Matthew Johnson,Male,2019-01-30,New York,Bronze,59
+C02820,Jessica Brown,Female,2020-05-01,Phoenix,Bronze,57
+C02821,Amanda Wilson,Female,2023-12-01,Phoenix,Bronze,50
+C02822,Michael Hernandez,Male,2019-02-01,New York,Bronze,56
+C02823,Patricia Jones,Female,2021-09-09,New York,Gold,24
+C02824,Betty Thompson,Female,2022-03-17,Chicago,Silver,42
+C02825,George Anderson,Male,2021-01-31,Chicago,Bronze,32
+C02826,Mary Brown,Female,2019-10-18,Chicago,Bronze,35
+C02827,Kenneth Hernandez,Male,2020-04-28,Houston,Silver,25
+C02828,Michael Jones,Male,2023-09-11,Chicago,Bronze,52
+C02829,Linda Jones,Female,2023-03-11,New York,Bronze,32
+C02830,Michael Anderson,Male,2023-10-15,Phoenix,Silver,41
+C02831,George Moore,Male,2019-05-22,Chicago,Gold,28
+C02832,Lisa Hernandez,Female,2019-02-28,Los Angeles,Bronze,65
+C02833,Ashley Jones,Female,2022-08-06,Chicago,Gold,20
+C02834,Richard Johnson,Male,2019-11-13,Chicago,Bronze,50
+C02835,Steven Thompson,Male,2022-04-08,Houston,Gold,59
+C02836,Steven Anderson,Male,2019-07-10,Los Angeles,Bronze,37
+C02837,Lisa Williams,Female,2020-07-30,Los Angeles,Gold,37
+C02838,Margaret Johnson,Female,2022-11-27,Phoenix,Silver,28
+C02839,Anthony Jackson,Male,2021-03-17,Phoenix,Gold,43
+C02840,Lisa Johnson,Female,2020-07-31,Los Angeles,Silver,46
+C02841,Anthony Miller,Male,2020-02-27,Houston,Bronze,27
+C02842,Jessica Thompson,Female,2020-10-03,Houston,Platinum,43
+C02843,William Miller,Male,2020-03-05,Houston,Bronze,51
+C02844,Sandra Smith,Female,2023-01-16,Houston,Silver,34
+C02845,Melissa Davis,Female,2023-06-14,Phoenix,Platinum,29
+C02846,Sarah Smith,Female,2022-02-25,New York,Gold,40
+C02847,Melissa Hernandez,Female,2020-03-25,New York,Silver,65
+C02848,Ashley Hernandez,Female,2021-10-14,New York,Silver,34
+C02849,John Martin,Male,2021-09-26,New York,Silver,50
+C02850,Betty Martinez,Female,2023-04-02,Phoenix,Gold,28
+C02851,Mary Davis,Female,2023-12-28,Houston,Gold,51
+C02852,Anthony Jones,Male,2020-07-16,Chicago,Silver,47
+C02853,William Martin,Male,2020-07-01,Los Angeles,Bronze,24
+C02854,Emily Hernandez,Female,2022-12-15,New York,Gold,56
+C02855,Patricia Wilson,Female,2019-11-28,New York,Silver,28
+C02856,Sarah Thompson,Female,2022-03-01,Phoenix,Bronze,43
+C02857,Linda Hernandez,Female,2019-04-11,Phoenix,Bronze,55
+C02858,David Hernandez,Male,2020-07-10,New York,Bronze,54
+C02859,Anthony Martinez,Male,2021-04-06,Phoenix,Bronze,49
+C02860,Robert Moore,Male,2023-08-25,New York,Bronze,47
+C02861,Jessica Moore,Female,2019-09-07,New York,Silver,20
+C02862,Jessica Miller,Female,2019-04-13,Chicago,Bronze,29
+C02863,Sarah Thomas,Female,2020-07-24,Houston,Bronze,54
+C02864,Sarah Moore,Female,2022-09-30,Los Angeles,Bronze,45
+C02865,Melissa Johnson,Female,2019-01-17,Los Angeles,Silver,65
+C02866,Susan Taylor,Female,2021-10-07,Houston,Bronze,57
+C02867,Deborah Davis,Female,2023-09-05,Phoenix,Bronze,65
+C02868,Steven Garcia,Male,2022-12-06,Phoenix,Gold,52
+C02869,Anthony Davis,Male,2023-11-14,New York,Bronze,40
+C02870,John Jones,Male,2023-10-16,New York,Gold,45
+C02871,Donald Garcia,Male,2021-10-25,Houston,Gold,53
+C02872,Thomas Lopez,Male,2020-09-30,Chicago,Silver,65
+C02873,Paul Thompson,Male,2022-11-07,Phoenix,Gold,45
+C02874,Betty Hernandez,Female,2022-07-24,Chicago,Gold,19
+C02875,Michael White,Male,2019-02-01,Los Angeles,Silver,28
+C02876,Matthew Wilson,Male,2020-08-01,Phoenix,Gold,33
+C02877,John White,Male,2021-03-15,Phoenix,Silver,32
+C02878,Karen Miller,Female,2021-12-18,Los Angeles,Platinum,29
+C02879,Patricia Jones,Female,2021-01-30,New York,Bronze,41
+C02880,Joseph Anderson,Male,2019-07-04,Chicago,Bronze,36
+C02881,Margaret White,Female,2019-04-14,Chicago,Bronze,50
+C02882,Jessica Lopez,Female,2021-06-03,Phoenix,Silver,30
+C02883,Joseph Thomas,Male,2020-05-18,Los Angeles,Bronze,28
+C02884,James Taylor,Male,2019-01-23,Phoenix,Gold,54
+C02885,Andrew Martinez,Other,2020-12-17,Phoenix,Bronze,23
+C02886,Nancy Lopez,Female,2019-06-28,Los Angeles,Silver,43
+C02887,Linda Jones,Female,2020-02-21,Chicago,Platinum,33
+C02888,Charles White,Male,2019-08-22,Houston,Silver,41
+C02889,George Martinez,Male,2019-02-16,Chicago,Bronze,59
+C02890,Linda White,Female,2022-10-24,New York,Bronze,26
+C02891,Michael Martin,Male,2019-08-25,Los Angeles,Gold,41
+C02892,Sarah Martin,Female,2020-02-03,Los Angeles,Platinum,38
+C02893,Margaret Martinez,Female,2023-04-30,Los Angeles,Silver,42
+C02894,Deborah Hernandez,Female,2020-03-16,New York,Gold,25
+C02895,Melissa White,Female,2020-12-11,Houston,Bronze,28
+C02896,Sarah Johnson,Female,2021-09-06,Phoenix,Gold,30
+C02897,Karen Anderson,Female,2019-07-15,Los Angeles,Bronze,40
+C02898,William Brown,Male,2021-04-21,New York,Bronze,55
+C02899,Donald Martin,Male,2019-06-03,New York,Silver,55
+C02900,Barbara Taylor,Female,2021-03-21,Houston,Silver,62
+C02901,Dorothy Thompson,Female,2020-04-21,Chicago,Platinum,33
+C02902,Amanda Brown,Female,2021-09-25,Chicago,Gold,55
+C02903,Amanda Martin,Female,2019-01-24,Los Angeles,Bronze,49
+C02904,Richard Miller,Male,2022-04-02,New York,Gold,33
+C02905,Linda Taylor,Female,2023-10-01,Los Angeles,Silver,57
+C02906,Charles Hernandez,Male,2022-12-22,New York,Gold,35
+C02907,Betty Jackson,Female,2021-11-02,New York,Silver,51
+C02908,Nancy Hernandez,Female,2023-08-10,Los Angeles,Bronze,63
+C02909,Paul Martinez,Male,2020-06-18,Houston,Bronze,43
+C02910,Matthew Wilson,Male,2023-12-21,Houston,Gold,31
+C02911,Margaret Garcia,Female,2019-09-07,Chicago,Gold,53
+C02912,Michael Thompson,Male,2021-12-24,Los Angeles,Bronze,29
+C02913,Lisa Moore,Female,2022-06-14,Chicago,Bronze,29
+C02914,James Williams,Male,2021-02-21,Phoenix,Gold,28
+C02915,Kenneth White,Male,2021-04-29,Los Angeles,Bronze,29
+C02916,Mark Thomas,Male,2019-02-11,Phoenix,Silver,28
+C02917,Thomas Anderson,Male,2022-06-27,Houston,Bronze,21
+C02918,Steven Wilson,Male,2020-08-26,Phoenix,Bronze,59
+C02919,John Williams,Male,2020-12-20,New York,Silver,54
+C02920,David Jones,Male,2020-09-15,Los Angeles,Silver,28
+C02921,Melissa Davis,Female,2019-10-18,Chicago,Bronze,42
+C02922,Dorothy Jones,Female,2022-07-28,New York,Platinum,47
+C02923,Margaret Brown,Female,2021-09-22,Houston,Bronze,61
+C02924,Sandra Jones,Female,2019-06-20,Houston,Silver,43
+C02925,Matthew Smith,Male,2023-06-22,Chicago,Gold,18
+C02926,Thomas Hernandez,Male,2022-12-09,Phoenix,Bronze,23
+C02927,Linda Miller,Female,2020-03-31,Houston,Gold,30
+C02928,Robert Hernandez,Male,2021-03-15,Houston,Bronze,37
+C02929,Sarah Wilson,Female,2019-11-05,Los Angeles,Bronze,25
+C02930,Anthony Jackson,Male,2022-12-12,Los Angeles,Silver,41
+C02931,Jessica Martinez,Female,2019-04-09,Houston,Silver,56
+C02932,Mark Williams,Male,2019-05-20,Chicago,Gold,48
+C02933,Ashley Smith,Female,2019-11-07,Chicago,Silver,23
+C02934,Lisa Garcia,Female,2023-10-21,Houston,Bronze,20
+C02935,Thomas Martinez,Male,2020-11-12,Los Angeles,Silver,22
+C02936,Daniel Miller,Male,2021-04-14,Houston,Bronze,50
+C02937,Mary Garcia,Female,2022-10-25,Houston,Silver,40
+C02938,Margaret Jones,Female,2022-02-22,Chicago,Gold,44
+C02939,Susan Miller,Female,2021-05-22,Phoenix,Silver,51
+C02940,Mary Smith,Female,2021-04-07,Houston,Bronze,56
+C02941,Daniel Martin,Male,2021-11-13,Chicago,Silver,65
+C02942,Joseph Anderson,Male,2022-04-29,Chicago,Gold,55
+C02943,Joseph Martin,Male,2019-04-11,Phoenix,Silver,52
+C02944,Steven Hernandez,Male,2022-08-20,New York,Bronze,65
+C02945,Paul Martinez,Male,2022-11-16,New York,Silver,35
+C02946,Robert Thompson,Male,2022-05-15,Los Angeles,Gold,46
+C02947,Ashley Jones,Female,2021-03-07,Chicago,Gold,61
+C02948,Jennifer Taylor,Female,2022-06-09,Houston,Silver,60
+C02949,Dorothy Lopez,Female,2019-09-28,Chicago,Silver,54
+C02950,Susan White,Female,2020-04-08,New York,Silver,25
+C02951,Ashley Thompson,Female,2021-08-15,New York,Bronze,42
+C02952,Mark Johnson,Male,2021-01-03,New York,Bronze,39
+C02953,Mark White,Male,2021-02-09,New York,Silver,50
+C02954,Donald Miller,Male,2022-05-16,Los Angeles,Silver,19
+C02955,William Garcia,Male,2020-01-09,Houston,Silver,65
+C02956,Thomas Williams,Male,2023-01-16,Los Angeles,Platinum,57
+C02957,Dorothy Hernandez,Female,2022-11-05,New York,Silver,39
+C02958,John Thomas,Male,2021-10-20,Los Angeles,Silver,48
+C02959,Susan Jackson,Female,2020-09-26,Los Angeles,Bronze,62
+C02960,Margaret Smith,Female,2023-04-14,Phoenix,Gold,65
+C02961,Lisa White,Female,2021-09-29,Chicago,Gold,26
+C02962,Amanda Hernandez,Female,2022-11-15,Los Angeles,Bronze,62
+C02963,Ashley Smith,Female,2022-06-01,New York,Silver,44
+C02964,Anthony Garcia,Male,2019-07-10,Houston,Gold,54
+C02965,Paul Lopez,Male,2023-12-08,New York,Silver,23
+C02966,Amanda Jones,Female,2020-05-11,Phoenix,Silver,44
+C02967,Karen Moore,Female,2020-09-26,Chicago,Gold,23
+C02968,Lisa Lopez,Female,2019-01-19,Houston,Silver,34
+C02969,Richard White,Male,2021-06-26,Los Angeles,Bronze,52
+C02970,Steven Anderson,Other,2019-09-28,Los Angeles,Silver,37
+C02971,Melissa Lopez,Female,2019-12-17,Phoenix,Bronze,44
+C02972,Robert Lopez,Male,2022-03-27,Houston,Silver,39
+C02973,George Jackson,Male,2019-01-07,Phoenix,Bronze,28
+C02974,Thomas Davis,Male,2023-05-12,Chicago,Gold,21
+C02975,Amanda Brown,Female,2019-08-23,Los Angeles,Silver,44
+C02976,Anthony Martinez,Male,2019-01-18,Houston,Bronze,60
+C02977,Dorothy White,Female,2021-12-03,Los Angeles,Gold,21
+C02978,Kenneth Jones,Male,2021-02-23,New York,Gold,59
+C02979,Donald Johnson,Male,2019-01-05,Phoenix,Bronze,25
+C02980,Charles Johnson,Male,2020-04-29,Houston,Silver,46
+C02981,John Jackson,Male,2023-05-14,New York,Silver,58
+C02982,David Lopez,Male,2022-06-03,New York,Bronze,44
+C02983,Paul Anderson,Male,2021-07-08,Phoenix,Gold,19
+C02984,Kenneth Anderson,Male,2023-05-24,New York,Silver,54
+C02985,Jennifer Williams,Female,2022-12-21,Los Angeles,Silver,44
+C02986,Anthony Brown,Male,2019-12-16,Phoenix,Gold,28
+C02987,John Jackson,Male,2020-02-16,Houston,Bronze,26
+C02988,David Hernandez,Male,2020-01-08,New York,Silver,30
+C02989,George Thomas,Male,2020-11-09,Chicago,Bronze,58
+C02990,Emily Smith,Female,2021-11-03,Los Angeles,Platinum,23
+C02991,William Wilson,Male,2021-07-06,Los Angeles,Gold,28
+C02992,William Davis,Male,2019-02-27,Chicago,Silver,47
+C02993,Thomas White,Male,2020-07-21,Chicago,Silver,46
+C02994,Margaret Moore,Female,2019-07-02,Houston,Bronze,18
+C02995,Nancy Jones,Female,2021-07-01,Los Angeles,Bronze,62
+C02996,Mark Martinez,Male,2022-01-07,Chicago,Bronze,50
+C02997,Sarah Smith,Female,2022-09-27,New York,Gold,33
+C02998,Dorothy Thompson,Female,2021-04-25,Houston,Gold,27
+C02999,Steven Davis,Male,2023-11-06,New York,Silver,51
+C03000,Richard Jones,Male,2022-05-27,Chicago,Silver,32

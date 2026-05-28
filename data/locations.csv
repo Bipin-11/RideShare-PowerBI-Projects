@@ -1,0 +1,32 @@
+location_id,zone_name,city,region
+L001,Manhattan,New York,South
+L002,Brooklyn,New York,East
+L003,Queens,New York,West
+L004,Bronx,New York,Central
+L005,Staten Island,New York,North
+L006,JFK Airport,New York,South
+L007,LaGuardia,New York,East
+L008,Downtown LA,Los Angeles,West
+L009,Hollywood,Los Angeles,Central
+L010,Santa Monica,Los Angeles,North
+L011,Venice Beach,Los Angeles,South
+L012,LAX Airport,Los Angeles,East
+L013,Beverly Hills,Los Angeles,West
+L014,Downtown Chicago,Chicago,Central
+L015,Lincoln Park,Chicago,North
+L016,Wicker Park,Chicago,South
+L017,O'Hare Airport,Chicago,East
+L018,Midway,Chicago,West
+L019,Hyde Park,Chicago,Central
+L020,Downtown Houston,Houston,North
+L021,Midtown,Houston,South
+L022,The Galleria,Houston,East
+L023,Sugar Land,Houston,West
+L024,Hobby Airport,Houston,Central
+L025,Katy,Houston,North
+L026,Downtown Phoenix,Phoenix,South
+L027,Scottsdale,Phoenix,East
+L028,Tempe,Phoenix,West
+L029,Mesa,Phoenix,Central
+L030,Sky Harbor Airport,Phoenix,North
+L031,Chandler,Phoenix,South

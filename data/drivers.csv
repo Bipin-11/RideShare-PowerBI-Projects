@@ -1,0 +1,501 @@
+driver_id,name,gender,join_date,vehicle_type,rating,city
+D0001,Andrew Williams,Male,2020-05-04,Economy,4.3,New York
+D0002,Joseph Jackson,Male,2018-04-03,Economy,4.5,Phoenix
+D0003,Donald White,Male,2019-09-10,Economy,4.2,Phoenix
+D0004,Susan Hernandez,Female,2018-01-21,SUV,3.7,Chicago
+D0005,Michael Taylor,Male,2019-10-31,Economy,4.6,Chicago
+D0006,Amanda Brown,Female,2018-05-15,SUV,4.2,Chicago
+D0007,Kenneth Miller,Male,2020-06-29,XL,4.6,Houston
+D0008,Robert Davis,Male,2019-12-10,SUV,3.8,New York
+D0009,Richard Martinez,Male,2021-11-09,Economy,4.0,New York
+D0010,Karen Garcia,Female,2019-06-16,Premium,4.0,New York
+D0011,John Davis,Male,2022-09-27,SUV,4.4,Houston
+D0012,Jessica White,Female,2021-05-31,Economy,4.6,New York
+D0013,Thomas Jones,Male,2022-04-01,Premium,3.6,Chicago
+D0014,Melissa Hernandez,Female,2022-08-02,Economy,4.8,Los Angeles
+D0015,John Brown,Male,2019-11-13,Premium,4.5,Phoenix
+D0016,Margaret Thomas,Female,2021-08-04,Premium,4.3,Los Angeles
+D0017,Joseph Thompson,Other,2022-07-02,Bike,4.3,Phoenix
+D0018,Sandra Garcia,Female,2020-11-22,Economy,4.8,Chicago
+D0019,Michael Wilson,Male,2020-03-29,Premium,5.0,Houston
+D0020,Susan Thompson,Female,2019-04-20,Economy,4.2,Phoenix
+D0021,Lisa Davis,Female,2020-10-04,Economy,4.1,Phoenix
+D0022,Robert Martin,Male,2022-10-29,Bike,4.3,New York
+D0023,Emily Garcia,Other,2022-07-14,Premium,4.3,New York
+D0024,Amanda Miller,Female,2021-08-07,Bike,4.1,Chicago
+D0025,Joseph Williams,Male,2021-03-06,Economy,3.9,Chicago
+D0026,Joseph Smith,Male,2022-09-17,Economy,4.5,Chicago
+D0027,Jennifer Jackson,Female,2018-07-02,XL,4.4,New York
+D0028,William White,Male,2022-02-17,Economy,5.0,Los Angeles
+D0029,Mark Taylor,Male,2022-01-09,Economy,4.4,Phoenix
+D0030,Michael Johnson,Male,2018-06-18,SUV,4.1,Houston
+D0031,Sandra Garcia,Female,2018-12-06,Economy,4.3,Houston
+D0032,Andrew Brown,Male,2018-08-23,Economy,4.6,Chicago
+D0033,Karen Garcia,Female,2022-08-07,Bike,4.8,New York
+D0034,John Garcia,Male,2019-10-27,XL,3.4,Houston
+D0035,Mark Thompson,Male,2021-04-27,Premium,4.2,Houston
+D0036,John White,Male,2020-07-10,Economy,5.0,Houston
+D0037,Paul Garcia,Male,2020-09-01,Premium,4.8,Phoenix
+D0038,Jennifer Lopez,Female,2018-09-06,XL,4.5,New York
+D0039,Melissa Lopez,Female,2020-01-01,Premium,3.5,New York
+D0040,Melissa Jackson,Female,2021-07-26,SUV,4.8,New York
+D0041,Barbara Wilson,Female,2019-09-27,Economy,4.1,Chicago
+D0042,George White,Male,2018-08-14,Economy,4.0,Houston
+D0043,Robert Davis,Male,2019-10-25,Economy,4.1,New York
+D0044,Charles Lopez,Male,2021-09-23,XL,4.3,Chicago
+D0045,William Martinez,Male,2022-09-20,Bike,4.1,Phoenix
+D0046,Lisa Lopez,Female,2022-09-15,Economy,4.9,New York
+D0047,Sarah Johnson,Female,2019-09-25,Premium,4.0,Los Angeles
+D0048,Nancy Jones,Female,2020-05-09,Economy,3.6,New York
+D0049,Robert Jones,Male,2021-10-04,Economy,3.9,Chicago
+D0050,William Hernandez,Male,2021-02-21,Premium,4.2,Phoenix
+D0051,Matthew Miller,Male,2021-02-06,XL,4.9,Los Angeles
+D0052,Sandra Lopez,Female,2021-01-03,SUV,3.9,Los Angeles
+D0053,Sandra Smith,Female,2020-01-06,XL,5.0,Los Angeles
+D0054,Sandra Davis,Female,2020-10-29,SUV,3.5,Los Angeles
+D0055,Richard Moore,Male,2018-12-02,Premium,4.2,Chicago
+D0056,Richard Thomas,Male,2019-12-09,Economy,4.4,Chicago
+D0057,Anthony Thompson,Male,2018-08-04,Premium,4.6,Chicago
+D0058,Sarah Garcia,Female,2018-12-25,XL,4.2,Chicago
+D0059,Nancy Hernandez,Female,2020-04-04,Economy,4.8,Phoenix
+D0060,Dorothy Miller,Other,2018-12-26,Economy,4.4,Phoenix
+D0061,Richard Taylor,Male,2021-09-16,Premium,5.0,Chicago
+D0062,Michael Wilson,Male,2020-10-22,Premium,4.3,Houston
+D0063,Richard Hernandez,Male,2021-06-22,Premium,4.0,Phoenix
+D0064,Lisa Thomas,Female,2019-06-25,Premium,4.8,Houston
+D0065,Nancy Moore,Female,2020-08-02,Premium,4.2,Phoenix
+D0066,David Williams,Male,2019-10-26,Premium,4.7,Houston
+D0067,Charles Davis,Male,2020-11-07,Economy,5.0,Chicago
+D0068,Steven Lopez,Male,2018-05-24,Economy,4.8,Los Angeles
+D0069,Joseph Jones,Male,2022-11-24,Premium,4.5,New York
+D0070,Karen Garcia,Female,2018-11-28,SUV,4.9,New York
+D0071,Donald Jackson,Male,2022-09-28,Premium,4.3,Phoenix
+D0072,Dorothy Hernandez,Female,2021-10-07,Premium,5.0,Phoenix
+D0073,Joseph Martinez,Male,2019-05-10,Economy,4.3,Phoenix
+D0074,Robert Wilson,Male,2020-01-14,Economy,3.8,Phoenix
+D0075,Anthony Jones,Male,2020-09-20,Economy,4.4,Los Angeles
+D0076,Donald Hernandez,Male,2021-06-20,Economy,4.2,Los Angeles
+D0077,James White,Male,2021-07-29,Bike,3.8,New York
+D0078,Anthony Hernandez,Male,2020-12-28,Economy,4.7,Houston
+D0079,Sarah Hernandez,Female,2022-08-24,Premium,4.6,Phoenix
+D0080,Anthony Garcia,Male,2020-11-10,SUV,3.5,Houston
+D0081,Mary Williams,Female,2022-07-18,Premium,4.7,Houston
+D0082,Thomas Thomas,Male,2021-12-05,Economy,4.4,Houston
+D0083,Mark Martinez,Male,2020-10-12,Economy,3.9,Chicago
+D0084,Matthew Davis,Male,2022-08-03,Economy,5.0,New York
+D0085,Mary Lopez,Female,2018-05-06,Economy,4.3,New York
+D0086,Kenneth Miller,Male,2022-01-11,SUV,3.3,Los Angeles
+D0087,Linda Garcia,Female,2021-02-20,SUV,4.6,Houston
+D0088,Kenneth Thomas,Male,2018-03-21,Bike,4.8,Chicago
+D0089,Linda Wilson,Female,2019-09-09,Premium,4.8,Houston
+D0090,Betty Thompson,Female,2022-10-25,SUV,4.6,Phoenix
+D0091,Emily Brown,Female,2018-08-03,XL,3.9,Houston
+D0092,Sandra Garcia,Female,2021-11-29,SUV,4.3,Houston
+D0093,Ashley Hernandez,Female,2020-04-19,SUV,3.6,Phoenix
+D0094,Robert Martinez,Male,2020-02-02,XL,3.7,Phoenix
+D0095,Steven Anderson,Male,2021-12-14,Economy,3.8,Houston
+D0096,Daniel Martinez,Male,2021-01-07,SUV,4.0,Los Angeles
+D0097,Karen Hernandez,Female,2020-05-08,Economy,3.8,Phoenix
+D0098,Emily Moore,Female,2020-01-17,SUV,4.1,Houston
+D0099,Matthew Martin,Male,2019-11-20,SUV,4.1,New York
+D0100,Amanda Anderson,Female,2021-08-14,Bike,4.5,Phoenix
+D0101,Nancy Brown,Female,2020-04-21,SUV,4.2,Chicago
+D0102,Emily Martinez,Female,2019-07-30,Economy,4.6,Phoenix
+D0103,Kenneth Davis,Other,2022-06-18,XL,3.4,Phoenix
+D0104,William Martinez,Male,2018-02-13,SUV,3.7,Chicago
+D0105,Betty Brown,Other,2022-09-16,Premium,4.0,New York
+D0106,Nancy Garcia,Female,2021-12-29,Premium,5.0,New York
+D0107,Kenneth Johnson,Male,2022-01-24,Premium,4.4,New York
+D0108,Robert Davis,Male,2022-10-15,Bike,4.4,Los Angeles
+D0109,Dorothy Thomas,Female,2021-07-17,Economy,3.7,New York
+D0110,Sandra Wilson,Female,2020-07-12,XL,3.9,Houston
+D0111,Jennifer Garcia,Female,2018-11-05,Economy,4.6,Phoenix
+D0112,Mark Moore,Male,2018-08-22,Economy,4.2,Los Angeles
+D0113,Donald Williams,Male,2018-04-12,SUV,4.4,Phoenix
+D0114,Amanda Davis,Female,2019-09-07,Economy,4.9,Los Angeles
+D0115,Melissa Wilson,Female,2019-03-18,Economy,4.5,Los Angeles
+D0116,Thomas Jackson,Male,2020-08-02,SUV,4.4,Houston
+D0117,George Martinez,Male,2018-09-07,SUV,3.6,Phoenix
+D0118,James Martinez,Male,2022-11-23,Premium,3.8,New York
+D0119,David White,Male,2019-06-29,XL,3.7,Phoenix
+D0120,Emily Taylor,Female,2022-03-08,Bike,4.4,Houston
+D0121,Charles Thomas,Male,2018-11-21,SUV,4.5,Houston
+D0122,Daniel Brown,Male,2018-10-01,Economy,4.0,Phoenix
+D0123,Jessica Jackson,Female,2018-01-04,Economy,4.0,Houston
+D0124,Patricia Miller,Female,2022-03-29,Premium,3.9,Chicago
+D0125,Deborah Davis,Female,2020-06-13,Economy,3.7,Chicago
+D0126,Robert Davis,Male,2018-02-12,Premium,4.5,Los Angeles
+D0127,Charles Jackson,Male,2018-12-31,Bike,4.2,New York
+D0128,Joseph Moore,Male,2022-02-08,Bike,4.1,Chicago
+D0129,Robert Martinez,Male,2019-08-16,XL,4.7,Phoenix
+D0130,James Wilson,Male,2022-04-27,Economy,4.1,Houston
+D0131,Amanda Martin,Female,2022-12-07,Economy,4.8,Chicago
+D0132,Daniel Miller,Male,2022-08-16,Economy,4.3,Chicago
+D0133,Emily Thomas,Female,2019-12-27,Economy,4.6,Los Angeles
+D0134,Robert Jones,Other,2019-04-18,Premium,4.0,Houston
+D0135,Dorothy Moore,Female,2020-10-28,Economy,4.9,Phoenix
+D0136,Barbara Williams,Female,2021-06-27,XL,3.7,New York
+D0137,Nancy Thompson,Female,2020-04-03,Premium,4.0,Houston
+D0138,Patricia Lopez,Female,2022-02-25,XL,4.8,Houston
+D0139,Michael Brown,Male,2020-06-11,Economy,5.0,New York
+D0140,John Anderson,Male,2020-07-19,XL,4.3,Houston
+D0141,David Garcia,Male,2021-03-10,Economy,4.0,New York
+D0142,Joseph Martin,Male,2021-04-03,Premium,4.4,Los Angeles
+D0143,Donald Wilson,Male,2021-12-03,SUV,4.0,Phoenix
+D0144,Kenneth Wilson,Male,2021-10-04,Bike,4.0,Phoenix
+D0145,Emily Brown,Female,2021-11-20,Economy,4.5,Houston
+D0146,Charles Smith,Male,2021-01-20,Premium,4.1,Los Angeles
+D0147,George Martin,Male,2022-10-25,Bike,4.8,Houston
+D0148,Betty Davis,Female,2019-12-16,Premium,3.8,Chicago
+D0149,Lisa Moore,Female,2019-03-01,Premium,3.7,Los Angeles
+D0150,Lisa Anderson,Female,2019-02-13,Economy,3.7,New York
+D0151,Paul Martinez,Male,2019-02-15,Economy,4.5,Houston
+D0152,Charles Anderson,Male,2022-02-06,Bike,3.5,Los Angeles
+D0153,Anthony Thompson,Male,2018-08-22,XL,5.0,New York
+D0154,Andrew Brown,Male,2021-05-10,Economy,5.0,Chicago
+D0155,Michael Davis,Male,2020-03-25,Bike,3.7,Houston
+D0156,George Davis,Male,2022-10-11,Economy,3.9,Houston
+D0157,Barbara Johnson,Female,2021-12-13,Economy,4.6,New York
+D0158,Joseph Thompson,Male,2022-03-11,Economy,4.1,New York
+D0159,Mark White,Male,2021-02-26,Bike,4.0,Los Angeles
+D0160,Deborah Hernandez,Female,2018-11-04,XL,3.7,Los Angeles
+D0161,Matthew Brown,Male,2021-02-25,Economy,4.4,Chicago
+D0162,Sarah Miller,Female,2021-01-19,Economy,4.7,Chicago
+D0163,Mary Johnson,Female,2021-11-13,Premium,4.5,New York
+D0164,Richard Williams,Male,2019-01-27,SUV,4.5,Chicago
+D0165,George Smith,Male,2019-11-02,SUV,4.4,Phoenix
+D0166,Amanda Martinez,Female,2019-03-26,Bike,4.0,Chicago
+D0167,Kenneth Anderson,Male,2018-03-22,SUV,4.6,Los Angeles
+D0168,Mark Jackson,Male,2018-06-12,Economy,4.6,New York
+D0169,Ashley Jackson,Female,2022-01-19,Premium,3.9,New York
+D0170,Dorothy Wilson,Female,2018-05-15,SUV,4.4,Los Angeles
+D0171,Linda Martin,Female,2018-04-07,Economy,4.7,Houston
+D0172,William Williams,Male,2018-09-09,Economy,4.5,Houston
+D0173,Paul Wilson,Male,2022-12-24,Bike,4.0,Los Angeles
+D0174,Michael Thompson,Male,2021-08-29,Economy,4.2,Houston
+D0175,Michael Anderson,Male,2019-12-11,Economy,3.7,Los Angeles
+D0176,William Martin,Male,2020-03-02,Economy,4.7,Houston
+D0177,William Thompson,Male,2018-09-23,SUV,4.5,New York
+D0178,Linda Hernandez,Female,2022-10-11,Premium,4.4,New York
+D0179,Deborah Wilson,Female,2021-08-07,Bike,4.7,Chicago
+D0180,Steven Davis,Male,2022-04-26,Economy,3.8,Chicago
+D0181,Mark Thompson,Male,2022-09-25,Premium,3.8,New York
+D0182,Sarah Smith,Female,2022-09-26,Economy,4.8,Phoenix
+D0183,William White,Male,2020-08-17,Economy,4.6,Los Angeles
+D0184,Paul Miller,Male,2018-04-06,Economy,4.1,Houston
+D0185,Kenneth Lopez,Male,2020-11-25,Economy,4.5,Houston
+D0186,Deborah Johnson,Female,2019-04-29,Economy,4.6,New York
+D0187,Paul Brown,Male,2021-08-10,Economy,3.9,New York
+D0188,Kenneth Martin,Male,2020-05-30,SUV,4.3,Chicago
+D0189,Jessica Wilson,Female,2018-05-22,Economy,4.5,Phoenix
+D0190,Linda Smith,Female,2020-03-04,Economy,5.0,Los Angeles
+D0191,Amanda Taylor,Female,2019-06-30,Economy,4.6,Houston
+D0192,Donald Williams,Male,2018-05-12,Economy,4.7,New York
+D0193,Margaret Smith,Female,2022-11-17,Economy,3.8,Chicago
+D0194,Matthew Williams,Male,2021-11-30,XL,4.6,Chicago
+D0195,Lisa Anderson,Female,2020-01-26,Economy,3.9,Houston
+D0196,Michael Jackson,Male,2019-06-07,Economy,4.5,Los Angeles
+D0197,William Davis,Male,2020-12-21,Premium,3.7,Phoenix
+D0198,William Williams,Male,2019-09-05,Economy,5.0,New York
+D0199,Melissa Lopez,Female,2022-03-16,Premium,3.8,Los Angeles
+D0200,Jennifer Martin,Female,2020-09-09,Economy,4.4,Chicago
+D0201,Ashley Moore,Female,2020-05-03,Economy,4.0,Houston
+D0202,Robert Lopez,Male,2020-06-10,Economy,4.1,New York
+D0203,John Moore,Male,2021-12-08,SUV,3.4,Phoenix
+D0204,Dorothy Jones,Female,2020-09-25,Premium,3.8,Phoenix
+D0205,John Davis,Male,2020-12-03,Premium,4.5,New York
+D0206,Daniel Taylor,Other,2022-06-17,Premium,4.3,Houston
+D0207,Nancy Williams,Female,2021-04-18,Premium,4.0,Chicago
+D0208,George Jones,Male,2021-04-16,Economy,4.5,Chicago
+D0209,Anthony Jones,Male,2019-03-16,SUV,4.6,Chicago
+D0210,Margaret Anderson,Female,2018-09-21,Economy,4.1,Phoenix
+D0211,Mary Taylor,Female,2022-06-24,Premium,4.8,Los Angeles
+D0212,Steven Miller,Male,2019-10-28,Economy,4.6,Chicago
+D0213,Ashley Jackson,Other,2019-04-27,Economy,5.0,Los Angeles
+D0214,Barbara Garcia,Female,2019-02-12,Premium,4.7,New York
+D0215,Karen Moore,Female,2019-05-30,Economy,4.3,Los Angeles
+D0216,Joseph Wilson,Male,2021-10-26,Economy,4.2,Phoenix
+D0217,Ashley Wilson,Female,2019-08-26,Bike,3.6,Houston
+D0218,Richard Lopez,Male,2021-07-24,Bike,5.0,Houston
+D0219,Linda Jackson,Female,2018-06-12,Premium,3.8,Los Angeles
+D0220,Paul Jones,Male,2019-05-14,Economy,3.7,New York
+D0221,Mark Johnson,Male,2019-11-21,Bike,4.6,Houston
+D0222,Robert Taylor,Male,2020-01-03,Economy,3.5,Houston
+D0223,William Johnson,Male,2018-11-04,SUV,4.6,Los Angeles
+D0224,Barbara Martin,Female,2022-01-07,SUV,3.8,Chicago
+D0225,Deborah Jackson,Female,2018-09-04,Economy,4.6,Houston
+D0226,Michael Johnson,Male,2020-06-14,Economy,4.3,Houston
+D0227,Andrew Smith,Male,2021-11-21,Premium,5.0,Los Angeles
+D0228,Mary Lopez,Female,2019-03-23,Economy,4.6,Phoenix
+D0229,Matthew Williams,Male,2021-07-18,Premium,4.5,Chicago
+D0230,Margaret Martin,Female,2022-04-27,Premium,4.8,Phoenix
+D0231,Betty Davis,Female,2021-03-05,SUV,4.3,New York
+D0232,Betty Thompson,Female,2020-10-30,Economy,4.4,New York
+D0233,Emily Garcia,Female,2019-06-28,Bike,4.6,Chicago
+D0234,Richard Johnson,Male,2021-11-22,Economy,3.8,Los Angeles
+D0235,Amanda Martin,Female,2020-09-07,Bike,4.7,Los Angeles
+D0236,John Anderson,Male,2019-08-17,Economy,4.1,Chicago
+D0237,Anthony Anderson,Male,2021-02-17,Economy,3.9,Chicago
+D0238,Paul Martinez,Male,2022-03-26,Economy,4.5,Los Angeles
+D0239,Lisa Anderson,Female,2018-09-03,Economy,3.1,New York
+D0240,George Hernandez,Male,2020-07-07,Economy,4.9,New York
+D0241,Deborah Hernandez,Female,2020-12-28,XL,3.7,Los Angeles
+D0242,Margaret Taylor,Female,2018-06-28,Economy,4.5,Chicago
+D0243,Ashley Johnson,Female,2019-05-13,Premium,4.5,Phoenix
+D0244,Kenneth Johnson,Male,2021-02-12,Economy,4.2,Los Angeles
+D0245,Kenneth Jones,Male,2021-10-29,SUV,4.7,Phoenix
+D0246,Joseph Brown,Male,2020-09-03,Premium,4.2,Phoenix
+D0247,Sarah Moore,Female,2022-03-31,Economy,3.4,New York
+D0248,Betty Miller,Other,2020-06-06,SUV,4.2,Los Angeles
+D0249,Robert Anderson,Male,2018-08-19,Economy,3.5,New York
+D0250,Lisa Garcia,Female,2022-09-05,Premium,4.6,Chicago
+D0251,Karen Martin,Female,2022-04-30,SUV,4.5,Los Angeles
+D0252,Andrew Jones,Male,2022-11-14,Economy,5.0,New York
+D0253,Dorothy Hernandez,Female,2018-07-24,SUV,3.7,Phoenix
+D0254,Nancy Williams,Female,2018-08-18,Economy,5.0,Houston
+D0255,Kenneth Garcia,Male,2022-05-27,SUV,3.8,Houston
+D0256,Paul Jones,Male,2018-06-22,XL,5.0,Los Angeles
+D0257,Paul Wilson,Male,2020-09-29,Bike,4.6,Chicago
+D0258,Charles Lopez,Male,2022-09-08,Economy,4.2,New York
+D0259,George Lopez,Male,2019-06-08,Economy,3.9,Phoenix
+D0260,Mary Williams,Female,2022-10-18,Economy,4.0,Chicago
+D0261,Deborah Smith,Female,2022-11-27,Premium,4.3,New York
+D0262,Lisa Martin,Female,2022-08-23,Economy,4.6,Houston
+D0263,Ashley Hernandez,Female,2021-06-15,Economy,4.3,Los Angeles
+D0264,Daniel Anderson,Male,2020-11-22,Premium,4.4,Houston
+D0265,Steven Moore,Other,2019-02-11,Economy,4.3,Chicago
+D0266,John Wilson,Male,2020-02-10,Economy,3.8,New York
+D0267,Nancy White,Female,2021-07-23,Economy,4.3,Houston
+D0268,Paul Moore,Male,2019-05-11,Premium,5.0,Chicago
+D0269,Karen Miller,Female,2022-03-26,Premium,5.0,Houston
+D0270,George Martin,Male,2018-06-07,Economy,4.4,Phoenix
+D0271,Margaret Taylor,Female,2018-11-30,SUV,3.5,Chicago
+D0272,Matthew Thompson,Male,2022-11-07,Premium,4.6,New York
+D0273,George Lopez,Male,2022-04-16,XL,3.8,Chicago
+D0274,Daniel Thompson,Male,2018-10-28,Economy,4.5,New York
+D0275,Patricia Jones,Female,2019-09-11,Economy,4.0,Chicago
+D0276,Deborah Jackson,Female,2022-06-02,Premium,4.1,Chicago
+D0277,Charles White,Male,2020-09-16,SUV,4.9,Los Angeles
+D0278,Kenneth Wilson,Male,2022-05-03,Premium,5.0,Chicago
+D0279,Lisa Smith,Female,2021-02-18,Economy,4.2,Houston
+D0280,John White,Male,2022-12-03,Premium,4.5,Phoenix
+D0281,Michael Miller,Male,2021-03-27,Economy,4.7,Houston
+D0282,Richard Hernandez,Male,2021-07-25,Economy,4.8,New York
+D0283,Barbara Jackson,Female,2022-01-05,Economy,4.8,Phoenix
+D0284,Nancy Garcia,Female,2022-01-26,Premium,3.8,Los Angeles
+D0285,Sarah Lopez,Female,2020-11-29,XL,3.7,Houston
+D0286,Charles Davis,Male,2020-02-05,Economy,4.1,Houston
+D0287,Amanda Martinez,Female,2019-10-06,Premium,4.1,Chicago
+D0288,Anthony Taylor,Male,2022-08-15,Economy,3.9,Chicago
+D0289,Thomas Martin,Male,2020-06-12,Bike,4.5,Los Angeles
+D0290,Andrew Martinez,Male,2022-08-01,Economy,4.3,Los Angeles
+D0291,Joseph Davis,Male,2022-12-29,XL,4.3,Los Angeles
+D0292,Michael Jones,Male,2020-10-23,SUV,4.4,New York
+D0293,Emily Miller,Female,2019-05-06,XL,3.5,New York
+D0294,Robert White,Male,2018-07-03,XL,4.8,Chicago
+D0295,Susan Johnson,Female,2018-04-26,XL,4.5,Los Angeles
+D0296,Lisa Johnson,Female,2019-08-02,Bike,4.2,Houston
+D0297,Andrew Jackson,Male,2018-11-30,Premium,4.6,New York
+D0298,Ashley Martinez,Female,2019-02-21,XL,4.1,Houston
+D0299,Susan Smith,Female,2020-10-24,Economy,4.5,Los Angeles
+D0300,Jessica Garcia,Female,2022-10-31,SUV,4.7,Chicago
+D0301,Linda Garcia,Female,2021-06-13,Economy,4.5,Phoenix
+D0302,Anthony Davis,Male,2020-02-10,Economy,3.9,Los Angeles
+D0303,Betty Davis,Female,2020-10-21,Economy,4.1,Houston
+D0304,Margaret Jackson,Female,2021-12-16,Economy,4.9,New York
+D0305,Emily Jones,Female,2020-07-05,Bike,4.1,Chicago
+D0306,Amanda Martin,Female,2021-03-06,Economy,4.5,Houston
+D0307,Jennifer Jackson,Female,2019-11-10,Premium,4.3,Phoenix
+D0308,Melissa Brown,Female,2021-01-29,Economy,3.7,Houston
+D0309,Dorothy Moore,Female,2022-04-20,Economy,4.4,New York
+D0310,Dorothy Moore,Female,2022-12-17,Premium,4.8,New York
+D0311,Charles Smith,Male,2022-05-14,Premium,3.9,New York
+D0312,Kenneth Williams,Male,2018-01-10,SUV,4.6,Houston
+D0313,Steven Johnson,Male,2018-07-18,XL,4.2,New York
+D0314,Mark Taylor,Male,2019-02-25,SUV,4.3,Chicago
+D0315,Andrew Jones,Male,2021-03-18,SUV,3.9,Houston
+D0316,William Davis,Male,2022-07-28,Economy,4.7,Chicago
+D0317,Margaret Davis,Female,2020-07-15,Economy,3.7,New York
+D0318,Michael Johnson,Male,2019-04-27,Economy,4.4,Los Angeles
+D0319,Ashley Lopez,Female,2018-02-18,Premium,4.3,Houston
+D0320,Joseph Thompson,Male,2018-05-18,Economy,4.4,New York
+D0321,Melissa Anderson,Female,2018-06-25,Economy,5.0,Los Angeles
+D0322,Barbara Jackson,Female,2020-09-23,Economy,5.0,Phoenix
+D0323,David Hernandez,Male,2020-05-04,XL,5.0,Los Angeles
+D0324,Anthony Jackson,Male,2020-12-06,Bike,4.7,Phoenix
+D0325,Emily Davis,Female,2021-06-22,SUV,4.5,Chicago
+D0326,John Thompson,Male,2019-03-25,XL,4.6,Los Angeles
+D0327,Nancy Williams,Female,2022-09-28,Economy,3.9,Houston
+D0328,Jessica Johnson,Female,2018-10-15,Premium,4.2,Houston
+D0329,Andrew Miller,Male,2018-05-03,SUV,4.5,Chicago
+D0330,James Miller,Male,2020-10-31,Economy,4.1,Houston
+D0331,Deborah Miller,Female,2018-12-31,XL,4.3,Los Angeles
+D0332,Lisa Thomas,Female,2022-09-12,Economy,3.6,Houston
+D0333,Ashley Brown,Female,2021-01-21,XL,4.2,Houston
+D0334,Betty Anderson,Female,2020-09-21,XL,4.7,Houston
+D0335,Kenneth White,Male,2019-11-19,Premium,4.3,Houston
+D0336,Anthony White,Male,2019-09-02,Economy,4.2,Houston
+D0337,Steven Moore,Male,2020-11-14,Bike,4.3,Los Angeles
+D0338,Amanda Martin,Female,2020-12-30,Economy,5.0,Los Angeles
+D0339,Jennifer Johnson,Female,2022-08-12,Premium,5.0,Los Angeles
+D0340,William Smith,Male,2019-12-21,Economy,4.2,New York
+D0341,Steven Martin,Male,2021-03-05,Bike,4.8,Los Angeles
+D0342,James Jackson,Male,2022-09-10,Economy,4.5,New York
+D0343,Susan Brown,Female,2020-06-09,SUV,5.0,Chicago
+D0344,Dorothy Martinez,Female,2020-01-19,Economy,4.4,New York
+D0345,Joseph Davis,Male,2021-05-18,Premium,5.0,Chicago
+D0346,Patricia Williams,Female,2018-09-08,SUV,4.8,Chicago
+D0347,Robert Martin,Male,2022-09-14,SUV,3.7,Houston
+D0348,Linda Jackson,Female,2020-10-26,Premium,4.4,Houston
+D0349,Thomas Thompson,Male,2022-10-27,Economy,4.2,New York
+D0350,Nancy Smith,Female,2019-07-12,Bike,4.3,Phoenix
+D0351,Melissa Thomas,Female,2021-05-22,Premium,4.6,Los Angeles
+D0352,Robert Jackson,Male,2019-03-11,SUV,4.2,Phoenix
+D0353,George Lopez,Male,2021-09-19,Premium,4.3,Chicago
+D0354,Sarah Moore,Female,2020-10-11,Economy,4.5,Houston
+D0355,Anthony Williams,Male,2022-09-15,SUV,4.7,Houston
+D0356,Robert Martinez,Male,2020-02-05,SUV,4.1,Phoenix
+D0357,James Wilson,Male,2019-04-25,Economy,4.3,Los Angeles
+D0358,Robert Garcia,Male,2020-04-18,Economy,4.0,Houston
+D0359,Andrew Williams,Male,2022-09-20,Economy,4.1,Houston
+D0360,Mary Wilson,Female,2020-10-04,XL,4.3,Phoenix
+D0361,Joseph White,Male,2018-09-21,Bike,4.2,Houston
+D0362,Thomas Wilson,Male,2021-03-28,Economy,3.8,Phoenix
+D0363,Robert Taylor,Male,2018-07-16,Economy,4.5,Chicago
+D0364,Jessica Moore,Female,2022-03-21,Premium,4.6,Chicago
+D0365,Daniel Moore,Male,2018-01-22,Premium,4.6,New York
+D0366,George Miller,Male,2019-02-27,Economy,4.2,Chicago
+D0367,Steven White,Male,2021-05-22,SUV,4.6,Houston
+D0368,Anthony Taylor,Male,2020-05-20,XL,4.2,Los Angeles
+D0369,Amanda Smith,Female,2019-09-13,SUV,3.9,New York
+D0370,Lisa Williams,Female,2019-10-14,Economy,4.0,Houston
+D0371,Sandra Thomas,Female,2019-03-09,SUV,4.1,Houston
+D0372,Andrew Jackson,Male,2022-01-28,Premium,4.1,New York
+D0373,Jennifer Brown,Female,2021-01-22,Premium,4.1,Houston
+D0374,Deborah Johnson,Female,2021-01-07,Economy,3.6,Los Angeles
+D0375,Richard Smith,Other,2021-05-26,SUV,4.7,Phoenix
+D0376,Andrew White,Male,2022-05-06,SUV,4.2,New York
+D0377,Paul Jones,Male,2021-03-08,Premium,3.8,Phoenix
+D0378,Jessica Williams,Other,2022-02-08,Economy,4.7,Chicago
+D0379,Dorothy Martin,Female,2019-03-17,SUV,4.1,New York
+D0380,Donald Anderson,Male,2021-09-23,SUV,4.6,Chicago
+D0381,David Davis,Male,2018-12-24,Economy,4.7,New York
+D0382,Mark Moore,Male,2019-05-13,Economy,4.4,Phoenix
+D0383,Deborah Miller,Female,2019-07-28,Economy,4.5,Los Angeles
+D0384,Jessica Miller,Female,2021-04-23,Economy,4.8,Houston
+D0385,Betty Anderson,Female,2018-07-14,Premium,3.7,Chicago
+D0386,Steven Jackson,Male,2020-03-26,SUV,4.0,Los Angeles
+D0387,Deborah Garcia,Female,2021-05-04,XL,4.0,Chicago
+D0388,Nancy Brown,Female,2018-09-21,SUV,4.1,Chicago
+D0389,George Jones,Male,2019-07-23,Economy,4.1,Los Angeles
+D0390,Andrew Garcia,Male,2019-08-01,Premium,4.5,Phoenix
+D0391,John Taylor,Male,2020-06-16,Premium,4.5,Phoenix
+D0392,Andrew Jackson,Male,2019-08-30,XL,4.6,New York
+D0393,Robert White,Male,2022-03-08,Premium,3.6,Houston
+D0394,Sarah Davis,Female,2019-11-17,Economy,4.7,New York
+D0395,Paul Brown,Male,2021-11-21,Premium,3.7,Phoenix
+D0396,Matthew Thompson,Male,2022-08-15,XL,4.0,Phoenix
+D0397,Karen Wilson,Female,2021-10-03,Economy,3.1,New York
+D0398,Robert Moore,Male,2020-12-18,XL,4.0,New York
+D0399,Deborah Hernandez,Female,2020-01-07,SUV,4.5,New York
+D0400,Patricia White,Female,2019-10-04,XL,4.9,Los Angeles
+D0401,Melissa Martinez,Female,2022-08-01,Economy,4.8,Chicago
+D0402,Jessica Johnson,Other,2018-10-23,Economy,5.0,Phoenix
+D0403,Nancy Davis,Female,2019-01-30,Economy,4.2,Chicago
+D0404,Mark Thomas,Male,2022-11-29,Premium,4.1,Houston
+D0405,Matthew Moore,Male,2018-10-17,SUV,3.8,Houston
+D0406,Robert Moore,Male,2018-01-08,XL,4.7,Houston
+D0407,Emily Martinez,Female,2022-07-19,XL,3.5,Chicago
+D0408,Barbara White,Female,2020-11-15,Premium,4.9,Chicago
+D0409,Mary Brown,Female,2018-05-31,XL,4.8,Houston
+D0410,Mark Miller,Male,2018-01-03,Bike,4.5,Los Angeles
+D0411,Betty Martinez,Female,2020-07-26,Economy,4.8,Los Angeles
+D0412,Charles Davis,Male,2019-05-30,Economy,5.0,New York
+D0413,Karen Jackson,Female,2018-10-23,Economy,4.8,Houston
+D0414,Mark Jones,Male,2020-12-03,XL,4.3,Houston
+D0415,Matthew Wilson,Male,2021-04-05,Economy,4.9,Houston
+D0416,William Williams,Male,2019-02-18,Premium,4.7,Los Angeles
+D0417,Barbara Hernandez,Female,2019-05-25,Premium,3.7,Phoenix
+D0418,Linda Jones,Female,2019-11-06,Economy,4.5,Phoenix
+D0419,Karen Martinez,Female,2021-04-08,SUV,4.0,New York
+D0420,James Wilson,Male,2020-06-04,SUV,4.6,New York
+D0421,Joseph Martin,Male,2022-05-03,Premium,4.4,Los Angeles
+D0422,Robert Jackson,Male,2022-04-02,Premium,4.7,Houston
+D0423,Linda Thompson,Other,2020-09-10,Premium,4.8,New York
+D0424,Jennifer Smith,Female,2018-08-15,Economy,4.9,Los Angeles
+D0425,Paul Hernandez,Male,2018-07-07,Economy,4.7,Chicago
+D0426,Amanda Lopez,Female,2018-09-14,Premium,4.2,Houston
+D0427,William Thompson,Male,2020-08-20,Bike,5.0,Los Angeles
+D0428,Mark Davis,Male,2018-07-25,Economy,4.7,Chicago
+D0429,David Brown,Male,2021-09-11,Economy,4.7,New York
+D0430,Betty Jackson,Female,2018-02-05,Economy,4.7,New York
+D0431,Sarah Brown,Female,2020-03-16,SUV,4.4,Phoenix
+D0432,Robert Martinez,Male,2021-08-26,Economy,4.5,New York
+D0433,Melissa Garcia,Female,2022-03-22,Premium,3.9,Phoenix
+D0434,Michael Davis,Male,2018-11-16,XL,4.4,Chicago
+D0435,William Garcia,Male,2018-02-08,Economy,4.3,Phoenix
+D0436,Karen Hernandez,Female,2021-07-26,Economy,4.8,New York
+D0437,John Garcia,Male,2018-08-30,SUV,4.1,Chicago
+D0438,Jennifer Moore,Female,2018-05-23,Bike,4.2,Los Angeles
+D0439,Jessica Wilson,Female,2020-08-23,Economy,4.1,Chicago
+D0440,Melissa Martin,Female,2020-01-24,Premium,4.7,Phoenix
+D0441,Sandra Smith,Female,2022-08-26,Economy,4.3,Los Angeles
+D0442,Mary Thomas,Female,2018-01-30,Bike,4.0,Los Angeles
+D0443,William Martinez,Male,2022-07-05,Bike,4.7,Chicago
+D0444,Paul Hernandez,Male,2019-12-21,XL,4.3,New York
+D0445,Anthony Williams,Male,2018-09-21,Premium,3.9,Chicago
+D0446,Barbara Davis,Female,2021-09-13,SUV,4.1,Phoenix
+D0447,Daniel Anderson,Male,2020-09-05,XL,4.7,Chicago
+D0448,William White,Male,2018-08-21,Bike,4.1,Houston
+D0449,Matthew Miller,Male,2019-05-26,Economy,4.0,New York
+D0450,Robert Garcia,Male,2020-04-03,XL,4.4,Houston
+D0451,Karen Taylor,Female,2018-05-06,Economy,4.5,Chicago
+D0452,David Smith,Male,2020-07-17,Economy,5.0,Houston
+D0453,Barbara Brown,Female,2022-09-24,Premium,4.3,Houston
+D0454,Anthony Taylor,Male,2019-11-22,Economy,4.0,New York
+D0455,Jessica Moore,Female,2020-03-15,Bike,4.4,New York
+D0456,Donald Johnson,Male,2020-10-27,Economy,4.2,Los Angeles
+D0457,Sandra Garcia,Female,2021-09-07,Economy,4.5,Los Angeles
+D0458,Donald Jones,Male,2019-08-05,Economy,3.9,Chicago
+D0459,Emily Johnson,Female,2020-02-03,XL,4.0,New York
+D0460,Paul Davis,Male,2019-03-03,Economy,3.9,New York
+D0461,Emily Taylor,Female,2021-04-03,Premium,4.4,Phoenix
+D0462,James Anderson,Male,2021-04-21,Economy,3.9,Phoenix
+D0463,Kenneth Davis,Male,2020-05-22,Premium,5.0,Phoenix
+D0464,John Davis,Male,2020-01-20,Economy,4.7,Los Angeles
+D0465,Susan Davis,Female,2021-04-21,XL,3.8,Phoenix
+D0466,James Taylor,Male,2021-01-19,XL,4.9,Phoenix
+D0467,Emily Thompson,Female,2022-10-16,XL,5.0,Phoenix
+D0468,Joseph Lopez,Male,2018-04-28,Economy,4.1,Chicago
+D0469,William Anderson,Male,2022-01-25,Economy,5.0,Los Angeles
+D0470,Barbara White,Female,2020-10-02,Economy,4.3,Los Angeles
+D0471,Margaret White,Female,2022-06-24,Economy,5.0,Los Angeles
+D0472,David Hernandez,Male,2020-09-29,Economy,3.5,New York
+D0473,Deborah Taylor,Female,2019-06-26,XL,4.2,Houston
+D0474,Lisa Jones,Female,2019-06-29,Economy,3.8,Los Angeles
+D0475,Patricia Garcia,Female,2022-11-15,Bike,3.3,Los Angeles
+D0476,Michael Martin,Male,2019-11-18,Premium,5.0,Phoenix
+D0477,Robert Anderson,Male,2018-08-30,Economy,4.4,Los Angeles
+D0478,Robert Taylor,Male,2019-10-14,Economy,5.0,Houston
+D0479,Susan Hernandez,Female,2018-01-04,Economy,4.7,Chicago
+D0480,Linda Martin,Female,2020-12-27,Premium,4.4,Houston
+D0481,Lisa Smith,Female,2019-12-02,XL,4.4,Phoenix
+D0482,David Thomas,Male,2018-11-22,Economy,4.4,Chicago
+D0483,Deborah Martin,Female,2022-08-27,Economy,5.0,Los Angeles
+D0484,Mark Garcia,Male,2019-05-28,Premium,3.9,New York
+D0485,Andrew Martinez,Male,2019-10-01,Premium,4.7,New York
+D0486,Kenneth Thompson,Male,2018-10-26,Economy,4.2,Chicago
+D0487,George Martin,Male,2021-01-26,XL,4.5,Houston
+D0488,Charles Williams,Male,2019-10-05,Economy,4.3,Los Angeles
+D0489,Sarah Williams,Female,2020-08-16,XL,4.4,Houston
+D0490,Matthew Garcia,Male,2021-02-26,XL,3.9,Phoenix
+D0491,John Jones,Male,2021-09-28,Economy,4.0,Houston
+D0492,Mark White,Male,2020-12-04,XL,4.4,New York
+D0493,Emily White,Female,2021-04-17,Premium,4.5,Los Angeles
+D0494,John Jackson,Male,2018-09-03,Economy,3.9,Los Angeles
+D0495,Ashley Garcia,Female,2022-11-11,Economy,4.1,Phoenix
+D0496,Karen Williams,Other,2019-08-22,Economy,3.8,Los Angeles
+D0497,Robert Williams,Male,2019-04-05,XL,4.5,Houston
+D0498,Sarah Jackson,Female,2022-09-12,Economy,4.0,Houston
+D0499,Sandra Brown,Female,2018-02-08,Premium,4.4,Houston
+D0500,Michael Brown,Male,2022-10-27,Premium,3.8,Houston
