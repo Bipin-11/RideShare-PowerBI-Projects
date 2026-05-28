@@ -16,11 +16,10 @@ Built to demonstrate the full data analyst workflow: raw CSV data → Power Quer
 6. [Stage 3 — DAX Measures](#6-stage-3--dax-measures)
 7. [Dashboard Pages](#7-dashboard-pages)
 8. [Screenshots](#8-screenshots)
-9. [Repository Structure](#9-repository-structure)
-10. [How to Use](#10-how-to-use)
-11. [Tools Used](#11-tools-used)
-12. [Key Insights](#12-key-insights)
-13. [Conclusion](#13-conclusion)
+9. [How to Use](#9-how-to-use)
+10. [Tools Used](#10-tools-used)
+11. [Key Insights](#11-key-insights)
+12. [Conclusion](#12-conclusion)
 
 ---
 
@@ -296,27 +295,7 @@ Understand customer behavior, loyalty and spending patterns.
 
 ---
 
-## 9. Repository Structure
-
-```
-rideshare-powerbi-dashboard/
-├── data/
-│   ├── trips.csv
-│   ├── drivers.csv
-│   ├── customers.csv
-│   └── locations.csv
-├── screenshots/
-│   ├── excutive_summary.png
-│   ├── trip_pattern_analysis.png
-│   ├── driver_performance.png
-│   └── customer_insights.png
-├── RideShare_Dashboard.pbix
-└── README.md
-```
-
----
-
-## 10. How to Use
+## 9. How to Use
 
 1. Clone or download this repository
 2. Open `RideShare_Dashboard.pbix` in **Power BI Desktop**
@@ -326,7 +305,7 @@ rideshare-powerbi-dashboard/
 
 ---
 
-## 11. Tools Used
+## 10. Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -338,7 +317,7 @@ rideshare-powerbi-dashboard/
 
 ---
 
-## 12. Key Insights
+## 11. Key Insights
 
 ### Executive Summary (Page 1)
 - Total of **10,500 trips** were recorded across 2023–2024 generating **$242,120** in total revenue
@@ -377,7 +356,7 @@ rideshare-powerbi-dashboard/
 
 ---
 
-## 13. Conclusion
+## 12. Conclusion
 
 This project demonstrates a complete Power BI analytics pipeline applied to a real-world business scenario. Starting from raw CSV files and ending with a polished 4-page interactive dashboard, every stage of the data analyst workflow was covered.
 
